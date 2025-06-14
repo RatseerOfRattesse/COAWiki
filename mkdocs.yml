@@ -1,0 +1,53 @@
+site_name: Chronicles of the Aethein
+nav:
+  - Home: index.md
+  - Story: story.md
+  - Art: art.md
+  - World: world.md
+  - Characters: characters.md
+  - Plot: plot.md
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: pink
+      accent: purple
+      toggle:
+        icon: material/eye
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: pink
+      accent: purple
+      toggle:
+        icon: material/eye-outline
+        name: Switch to light mode
+  features:
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.preview
+    - navigation.instant.progress
+    - navigation.indexes
+    - navigation.path
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
+extra:
+  social:
+    - icon: fontawesome/solid/palette
+      link: https://rentry.co/ratseerofrattesse
+      name: "Ratseer's Rentry (Art and Projects)"
+extra_css:
+  - stylesheets/extra.css
+copyright: Copyright &copy; 2025 RatseerOfRattesse
+plugins:
+  - search
+site_url: http://127.0.0.1:8000
