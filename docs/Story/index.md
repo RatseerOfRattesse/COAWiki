@@ -5,7 +5,7 @@ icon: fontawesome/solid/book
 
 # Story
 
-Housed here are all the writings I've done associated with COA.
+Housed here are all the writings associated with COA.
 
 ## Conventions
 
