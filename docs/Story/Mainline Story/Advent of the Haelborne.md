@@ -17,7 +17,7 @@ subtitle: By RatseerOfRattesse
 
 # Advent of the Haelborne
 
-![Ari stares nobly off into the distance](../../assets/img/banner.png)
+![Ari stares nobly off into the distance](../../assets/img/misc/banner.png)
 
 *Chronicles of the Aethein, Book I*
 *By RatseerOfRattesse*

@@ -7,7 +7,7 @@ icon: fontawesome/solid/house
 
 *A high fantasy LitRPG book series illustrated and written by RatseerOfRattesse*
 
-![Ari stares nobly off into the distance](assets/img/banner.png)
+![Ari stares nobly off into the distance](assets/img/misc/banner.png)
 
 **Warning for lots of gore, profanity, and edgy jokes :)**
 
