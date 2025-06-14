@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>http://127.0.0.1:8000/</loc>
+         <loc>https://ratseerofrattesse.github.io/COAWiki/</loc>
          <lastmod>2025-06-14</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/art/</loc>
+         <loc>https://ratseerofrattesse.github.io/COAWiki/art/</loc>
          <lastmod>2025-06-14</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/characters/</loc>
+         <loc>https://ratseerofrattesse.github.io/COAWiki/characters/</loc>
          <lastmod>2025-06-14</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/plot/</loc>
+         <loc>https://ratseerofrattesse.github.io/COAWiki/plot/</loc>
          <lastmod>2025-06-14</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/story/</loc>
+         <loc>https://ratseerofrattesse.github.io/COAWiki/story/</loc>
          <lastmod>2025-06-14</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/world/</loc>
+         <loc>https://ratseerofrattesse.github.io/COAWiki/world/</loc>
          <lastmod>2025-06-14</lastmod>
     </url>
 </urlset>

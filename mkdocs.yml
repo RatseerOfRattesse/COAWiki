@@ -54,5 +54,8 @@ copyright: Copyright &copy; 2025 RatseerOfRattesse
 plugins:
   - meta
   - search
+markdown_extensions:
+  - toc:
+      permalink: "#"
 site_url: https://ratseerofrattesse.github.io/COAWiki/
 repo_url: https://github.com/RatseerOfRattesse/COAWiki
