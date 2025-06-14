@@ -5,7 +5,7 @@ icon: fontawesome/solid/house
 
 # Chronicles of the Aethein
 
-*A high fantasy book series illustrated and written by RatseerOfRattesse*
+*A high fantasy LitRPG book series illustrated and written by RatseerOfRattesse*
 
 ![Ari stares nobly off into the distance](assets/images/generic/banner.png)
 
@@ -22,7 +22,7 @@ While Ari's fucking around on Kaaldenvale, the multiverse is experiencing some w
 ### Writing
 RatseerOfRattesse - Main Author
 
-idi0cy.inc - Krath's Interview
+idi0cy.inc - Krath's Interview Short Story
 
 ### Story
 RatseerOfRattesse - Main Author

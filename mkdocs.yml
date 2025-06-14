@@ -1,13 +1,6 @@
 site_name: Chronicles of the Aethein
 site_description: A website for RatseerOfRattesse's writing project
 site_author: RatseerOfRattesse
-nav:
-  - Home: index.md
-  - Story: story/index.md
-  - Art: art/index.md
-  - Worldbuilding: worldbuilding/index.md
-  - Characters: characters/index.md
-  - Plot: plot/index.md
 theme:
   name: material
   logo: assets/logo.png
@@ -44,7 +37,6 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
-    - toc.integrate
 extra:
   social:
     - icon: fontawesome/solid/palette
@@ -59,6 +51,7 @@ plugins:
 markdown_extensions:
   - toc:
       permalink: "#"
+      title: Table of Contents
   - pymdownx.emoji:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       emoji_index: !!python/name:material.extensions.emoji.twemoji
