@@ -1,4 +1,6 @@
 site_name: Chronicles of the Aethein
+site_description: A website for RatseerOfRattesse's writing project
+site_author: RatseerOfRattesse
 nav:
   - Home: index.md
   - Story: story.md
