@@ -1,5 +1,5 @@
 ---
-description: Site homepage
+description: COA site homepage
 icon: fontawesome/solid/house
 ---
 
@@ -21,14 +21,20 @@ While Ari's fucking around on Kaaldenvale, the multiverse is experiencing some w
 
 ### Writing
 RatseerOfRattesse - Main Author
+
 idi0cy.inc - Krath's Interview
 
 ### Story
 RatseerOfRattesse - Main Author
+
 idi0cy.inc - Inspiration
+
 LivingRiceCooker - Inspiration
+
 Jarnu47 - Inspiration
+
 Smileydude23_ - Inspiration
+
 Lambchops555 - Inspiration
 
 ### Artwork
@@ -36,6 +42,9 @@ RatseerOfRattesse - Main Artist
 
 ### Inspiration
 He Who Fights With Monsters by Shirtaloon
+
 ‘time wasting doc’ by idi0cy.inc
+
 Murder Drones by Liam Vickers
+
 Autodale by Dead Sound

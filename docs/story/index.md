@@ -1,5 +1,5 @@
 ---
-description: The actual book!
+description: Writing assets for COA
 icon: fontawesome/solid/book
 ---
 
