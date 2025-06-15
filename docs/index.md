@@ -19,6 +19,22 @@ While Ari's fucking around on Kaaldenvale, the multiverse is experiencing some w
 
 Read here: [Story](Story/index.md)
 
+## Wiki Conventions
+
+Wiki articles will have various warnings at their heads:
+
+???+ warning ":octicons-pencil-16: Incomplete"
+
+    Article is missing information.
+
+???+ warning ":octicons-trash-16: Deprecated"
+
+    Article is no longer accurate and is kept for archival purposes.
+
+???+ warning ":fontawesome-solid-file-circle-exclamation: Spoiler"
+
+    Articles contains spoilers. For example, if a warning reads 'Spoiler: Bk1Ch12', you are recommended to read to chapter twelve of book one before reading the article.
+
 ## Credits
 
 ### Writing
