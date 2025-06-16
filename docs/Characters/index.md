@@ -29,7 +29,7 @@ Housed here are all the characters of COA.
 
 ### [Grim](Mainline%20Characters/Grim.md)
 
-### [Krath](Mainline%20Characters/Krath.md)
+### [Krath](Mainline%20Characters/Krath Isarlith)
 
 ### [Lloyden Limril](Mainline%20Characters/Lloyden%20Limril.md)
 

@@ -10,7 +10,7 @@ description: Character sheet for Krath of COA.
 
     Article is missing information.
 
-# Krath
+# Krath Isarlith
 
 ## Basic Information
 
