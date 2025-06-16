@@ -47,7 +47,11 @@ extra_css:
 copyright: Copyright &copy; 2025 RatseerOfRattesse
 plugins:
   - meta
-  - search
+  - search:
+      pipeline:
+        - stemmer
+        - stopWordFilter
+        - trimmer
 markdown_extensions:
   - attr_list
   - md_in_html
