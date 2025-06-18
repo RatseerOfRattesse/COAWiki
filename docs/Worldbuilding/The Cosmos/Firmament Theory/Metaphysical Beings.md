@@ -24,7 +24,7 @@ When the cosmos was reborn after the Precursors killed themselves, seven Immorta
 
 The Elder Immortals were usurped by six mortals risen to transcendency through strip-mining the fabric of worlds. These mortals' names were all lost, and they gave themselves new ones: Mist Lord, Eternal Light, Saviour, Reaper, Primordial Equilibrium, and Primal Chaos. They brainwashed the cosmos (mostly uninhabited at the time) into believing that they were the original Great Immortals, and nothing had come before.
 
-When the Elder Immortals were vanquished, they didn’t completely disappear. Think of it being like Ouranos being chopped up by the Titans. They all left fragments, artifacts that channeled what power they had left- such as the Firmament Glass. These fragments can take mortal hosts and bond to them, sharing their power.
+When the Elder Immortals were vanquished, they didn’t completely disappear. Think of it being like Ouranos being chopped up by the Titans. They all left fragments, artifacts that channeled what power they had left - such as the Firmament Glass. These fragments can take mortal hosts and bond to them, sharing their power.
 
 What the Great Immortals became was not truly equal to the Elder Immortals. They simply accumulated enough power to kill off the Elders, then take parts of them to channel higher energy and act like the Elders. These parts acted as mediums to channel higher energies so that the Great Immortals’ still mortal minds didn’t have to.
 

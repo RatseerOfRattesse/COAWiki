@@ -66,3 +66,15 @@ He Who Fights With Monsters by Shirtaloon
 Murder Drones by Liam Vickers
 
 Autodale by Dead Sound
+
+## Changelog
+
+- June 16-17th:
+- Added links to [the Cosmos](Worldbuilding/The%20Cosmos/index.md)
+- Edited [Firmament Theory](Worldbuilding/The%20Cosmos/Firmament%20Theory/index.md)
+- Added ritual mechanics and potentia to [Aura Mechanics](Worldbuilding/The%20Cosmos/Firmament%20Theory/Aura%20Mechanics.md)
+- Edited [Authority](Worldbuilding/The%20Cosmos/Firmament%20Theory/Authority.md)
+- Added link to [Domains](Worldbuilding/The%20Cosmos/Firmament%20Theory/Domains.md)
+- Edited [Living Cosmos](Worldbuilding/The%20Cosmos/Firmament%20Theory/Living%20Cosmos.md)
+- Edited [Metasphere](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metasphere.md)
+- Edited [Souls](Worldbuilding/The%20Cosmos/Firmament%20Theory/Souls.md)

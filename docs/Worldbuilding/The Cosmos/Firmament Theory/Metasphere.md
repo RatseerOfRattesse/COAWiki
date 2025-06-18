@@ -20,4 +20,4 @@ Physical matter is the topmost layer of a reality from all perspectives. Physica
 
 Both can exist separately but have a symbiotic relationship. Metaphysical matter takes hold of physical vessels in order to influence physical reality. Physical matter is dependent on metaphysical forces to fuel life.
 
-Physical matter cannot exist in a metaphysical space, but metaphysical matter can exist in a physical space – a reality. If physical matter is introduced to a metaphysical space, it will simply unexist, whilst metaphysical matter in a reality will drift out if not anchored.
+Physical matter cannot exist in a metaphysical space, but metaphysical matter can exist coterminous to a location in a physical space – a reality. If physical matter is introduced to a metaphysical space, it will simply unexist, whilst metaphysical matter in a reality will drift out if not anchored.
