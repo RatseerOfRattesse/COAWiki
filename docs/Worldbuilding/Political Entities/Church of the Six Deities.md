@@ -3,7 +3,7 @@ description: Worldbuilding for COA.
 subtitle: 
 ---
 
-# Voices of the Equilibrium
+# Church of the Six Deities
 **
 
 ???+ warning ":octicons-pencil-16: Incomplete"
