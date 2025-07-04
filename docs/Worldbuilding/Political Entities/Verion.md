@@ -16,7 +16,7 @@ subtitle: space orcs ! ! !
 
 ## Governance
 
-
+Authoritarian government, held up by their immense military might.
 
 ## Motives
 
@@ -32,7 +32,7 @@ The Verion are a warmongering species. Despite their warlike nature, they rarely
 
 ## Specialties
 
-
+The Verion emerged from a reality where they had fierce competition. Growing up in a world where they were late to the party of interstellar power, only a series of miracles allowed them to rise above. War hardened by their competition, they became incredibly xenophobic and produced weaponry far above the pay grade of one simple universe. This propelled their success in interdimensional conquest.
 
 ## Territory
 

@@ -16,7 +16,7 @@ subtitle: we are gods, except for when the actual gods come knocking
 
 ## Governance
 
-Organized society between realities is commanded by a massive interworld council, with representatives from all realities that have discovered the nature of the cosmos. Their communication methods are far more advanced than what humans can comprehend, allowing the effective correspondence between so many parties.
+Organized society between realities is commanded by a massive interworld council, with representatives from all realities that have discovered the nature of the cosmos. Their communication methods are far more advanced than what humans can comprehend, allowing the effective correspondence between so many parties. Many levels of proxy government are used to moderate this system.
 
 ## Motives
 

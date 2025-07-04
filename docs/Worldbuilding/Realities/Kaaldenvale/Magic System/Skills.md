@@ -1,10 +1,10 @@
 ---
 description: Worldbuilding for COA
-subtitle: absolutely totally just a random universe with no significance
+subtitle: record books 0-0
 ---
 
 # Skills
-*absolutely totally just a random universe with no significance*
+*record books 0-0*
 
 ???+ warning ":octicons-pencil-16: Incomplete"
 

@@ -16,7 +16,7 @@ subtitle: science science science science
 
 ## Governance
 
-
+Proxy government.
 
 ## Motives
 

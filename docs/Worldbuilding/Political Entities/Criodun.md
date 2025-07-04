@@ -16,7 +16,7 @@ subtitle: boring ass civilization idk
 
 ## Governance
 
-Every reality in the Criodun has elect a leader, to run in the completely randomized election of the Criodun's twelve-person council. The elections run every cosmic year, to ensure that no leader tries to abuse their power- not that they could do much. Out of 16 million realities, there's bound to be somebody unhappy with an abusive leader.
+Every reality in the Criodun has elect a leader, to run in the completely randomized election of the Criodun's twelve-person council. The elections run every cosmic year, to ensure that no leader tries to abuse their power- not that they could do much. Out of 16 million realities, there's bound to be somebody unhappy with an abusive leader. It’s an authoritarian government, where the military might of every reality is the backing power. If the council stays good, they get to stick around.
 
 ## Motives
 

@@ -16,7 +16,7 @@ subtitle: interdimensional space rats
 
 ## Governance
 
-
+Authoritarian theocracy.
 
 ## Motives
 

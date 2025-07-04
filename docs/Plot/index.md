@@ -9,6 +9,12 @@ icon: fontawesome/solid/scroll
 
     Article contains spoilers: Full Series.
 
+???+ warning ":octicons-pencil-16: Incomplete"
+
+    Article is missing information.
+    This entire section is VERY WORK IN PROGRESS.
+    Do not take to heart any of the story planned here as it is all subject to change.
+
 Housed here is all the information regarding the plot of COA.
 
 ## Overarching Plot

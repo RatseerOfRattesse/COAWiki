@@ -6,13 +6,11 @@ subtitle: blob
 # Souls
 *blob*
 
-???+ warning ":octicons-pencil-16: Incomplete"
-
-    Article is missing information.
-
 ???+ warning ":fontawesome-solid-file-circle-exclamation: Spoiler"
 
     Article contains spoilers: Full Series
+
+## Introduction
 
 Souls are created in castes. Mortal souls are incarnated into mortal bodies and given a single chance at life. Their purpose is to be fuel for the cosmos.
 
@@ -20,6 +18,15 @@ Souls are created in castes. Mortal souls are incarnated into mortal bodies and 
 
 The cosmos, like a living lifeform, produces more minor immortals, all under the command of the Great Immortals.
 
+The cosmos, like a living lifeform, produces more minor immortals, all under the command of the Great Immortals.
+
 Let’s start with what a soul is and what it isn’t. A soul cannot think. That’s a function of the body, requiring a brain or an equivalent organ. The soul is a spirit, the fundamental incomprehensible thing that makes a living being alive. If you had a robot, programmed to replicate every single function of an intelligent being in the exact same way as one, it would still be a mere facsimile without the soul.
 
-The soul is a vessel of immense power - at least to our perspective. The magic stored inside a single soul could flatten worlds if unleashed, yet to the cosmos it’s as insignificant as a single sac of ATP.
+The soul is a vessel of immense power - at least to our perspective. The magic stored inside a single soul could flatten worlds if unleashed, yet to the cosmos it’s as insignificant as a single sac of ATP. All of this power, in a mortal soul, is sealed away by the body. It can’t handle the power of the soul. Very few people have managed to break this limitation, and most subsequently over exerted themselves in hubris and died.
+
+This massive power source within the soul fuels all of a being’s interactions with the [metasphere](Metasphere.md). Using [aura](Aura%20Mechanics.md), sensing other souls, using [Authority](Authority.md). Because of how these mechanisms work, all of these are limited by the structural integrity of the body. A more robust body means the soul can utilize its power more freely and therefore interact with the metasphere with more strength.
+
+## Soul Anatomy
+The soul is centred around a large battery of metaphysical energy, part of the soul’s nucleus. This power is not sourced from within the soul, but instead extracted from the metasphere. After a soul first drains it’s fill of energy from the metasphere, it rarely has reason to do so again — the power is vast enough that most actions won’t come close to consuming all its energy.
+
+The nucleus, aside from containing the battery, also holds the will. This is the base motive of a soul, the thing that makes life life. This is the base model for a personality and resolve, which an organ like a brain can refine and channel.

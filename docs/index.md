@@ -38,38 +38,54 @@ Wiki articles will have various warnings at their heads:
 ## Credits
 
 ### Writing
-RatseerOfRattesse - Main Author
-
-idi0cy.inc - Krath's Interview Short Story
+- RatseerOfRattesse - Main Author
+- idi0cy.inc - Krath's Interview Short Story
 
 ### Story
-RatseerOfRattesse - Main Author
-
-idi0cy.inc - Inspiration
-
-LivingRiceCooker - Inspiration
-
-Jarnu47 - Inspiration
-
-Smileydude23_ - Inspiration
-
-Lambchops555 - Inspiration
+- RatseerOfRattesse - Main Author
+- idi0cy.inc - Inspiration
+- LivingRiceCooker - Inspiration
+- Jarnu47 - Inspiration
+- Smileydude23_ - Inspiration
+- Lambchops555 - Inspiration
 
 ### Artwork
-RatseerOfRattesse - Main Artist
+- RatseerOfRattesse - Main Artist
 
 ### Inspiration
-He Who Fights With Monsters by Shirtaloon
-
-‘time wasting doc’ by idi0cy.inc
-
-Murder Drones by Liam Vickers
-
-Autodale by Dead Sound
+- He Who Fights With Monsters by Shirtaloon
+- ‘time wasting doc’ by idi0cy.inc
+- Murder Drones by Liam Vickers
+- Autodale by Dead Sound
 
 ## Changelog
 
-- June 16-17th:
+### July 3rd
+- Compiled everything I did while off in China
+- Changed css for lists so that they look prettier
+- Changed subtitle of, added links to, and added [Metasphere and Physisphere](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metasphere.md/#metasphere-and-physisphere) section to the [Metasphere](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metasphere.md)
+- Revised [The Governance](Worldbuilding/Realities/Kaaldenvale/Magic%20System/index.md)
+  - || Edited, changed subtitle of, removed incomplete warning, and added links to [The Governance](Worldbuilding/Realities/Kaaldenvale/Magic%20System/index.md)
+  - || Edited, changed subtitle of, removed incomplete warning, and added links to [Specializations](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Specializations.md)
+  - || Edited, changed subtitle of, removed incomplete warning, and added links to [Levelling](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Levelling.md)
+  - || Changed subtitle of, removed incomplete warning, and added links to [Abilities](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Abilities.md)
+  - || Added [Looting and Currency](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Looting%20and%20Currency.md)
+  - || Edited, changed subtitle of, removed incomplete warning, and added links to [Settlements](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Settlements.md)
+  - || Changed subtitle of [Skills](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Skills.md)
+  - || Changed subtitle of and added links to [Titles](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Titles.md)
+- Fleshed out and removed incomplete warning from the [Absolutionists](Worldbuilding/Political%20Entities/Absolutionists.md)
+- Clarified the use of [Authority](Worldbuilding/The%20Cosmos/Firmament%20Theory/Authority.md)
+- The [Soul](Worldbuilding/The%20Cosmos/Firmament%20Theory/Souls.md) now has anatomy
+- Got inspired by Blindsight by Peter Watts
+  - || Solved sentience in the [Living Cosmos](Worldbuilding/The%20Cosmos/Firmament%20Theory/Living%20Cosmos.md)
+  - || Explained what transcendence truly is and why mortals nearly always fail to attain it in [Metaphysical Beings](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metaphysical%20Beings.md#transcendence)
+- Added an incomplete warning to [Plot](Plot/index.md)
+- Explained why the [Verion](Worldbuilding/Political%20Entities/Verion.md) are so warlike
+- Clarified government types of interdimensional factions in [Interdimensional Society](Worldbuilding/Political%20Entities/Interdimensional%20Society.md)
+- Added [Reality Bending](Worldbuilding/The%20Cosmos/Firmament%20Theory/Reality%20Bending.md)
+
+
+### June 16-17th:
 - Added links to [the Cosmos](Worldbuilding/The%20Cosmos/index.md)
 - Edited [Firmament Theory](Worldbuilding/The%20Cosmos/Firmament%20Theory/index.md)
 - Added ritual mechanics and potentia to [Aura Mechanics](Worldbuilding/The%20Cosmos/Firmament%20Theory/Aura%20Mechanics.md)

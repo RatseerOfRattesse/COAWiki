@@ -16,7 +16,7 @@ subtitle: industry big
 
 ## Governance
 
-
+Proxy government.
 
 ## Motives
 

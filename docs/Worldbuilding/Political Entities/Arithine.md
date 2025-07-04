@@ -16,7 +16,7 @@ subtitle: economy big
 
 ## Governance
 
-
+Proxy government.
 
 ## Motives
 

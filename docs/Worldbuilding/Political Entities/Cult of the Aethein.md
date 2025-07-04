@@ -16,7 +16,7 @@ subtitle: classic prophecy trope but the book admits it's a lazy plot device
 
 ## Governance
 
-
+Authoritarian theocracy.
 
 ## Motives
 

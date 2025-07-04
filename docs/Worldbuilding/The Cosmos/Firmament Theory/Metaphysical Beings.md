@@ -36,8 +36,20 @@ The Chaos descended from transcendency under the guise of its old identity, the 
 
 ## The Mist Lord
 
+## The Primal Chaos
+
 ## The Primordial Equilibrium
 
 ## The Saviour
 
 ## The Reaper
+
+## Transcendence
+
+Physical beings can become metaphysical beings through transcendence. This requires long and arduous accumulation of power and understanding until one reaches a state of equilibrium. This state is consciousness — the ability to create and defy entropy, but with none of the drawbacks — no self doubt, no stupidity, none of the counterproductive parts of consciousness, just stripped down free will.
+
+Most beings fail transcendence. They can’t reach this state not because of the power requirement but because of the need to become efficient whilst conscious.
+
+This also brings up the question of how some metaphysical beings aren’t actually efficient consciousnesses, such as the Great Immortals. This is because they are only partially transcendent. They have the power and the mechanical things that make metaphysicals metaphysical, but fail to be as efficient as a true transcendent.
+
+An even greater factor is that at this time most of the cosmos is disillusioned into thinking that efficient consciousness is not part of transcendence because the Great Immortals don’t have it. Such an idea had never crossed their minds.
