@@ -53,46 +53,58 @@ Wiki articles will have various warnings at their heads:
 - RatseerOfRattesse - Main Artist
 
 ### Inspiration
-- He Who Fights With Monsters by Shirtaloon
-- ‘time wasting doc’ by idi0cy.inc
-- Murder Drones, Black Dogs, C-2 Strain, and PuppetGame by Liam Vickers
-- Autodale by Dead Sound
-- Blindsight by Peter Watts
-- Tales from the Loop and The Labyrinth by Simon Stalenhag
-- Songs of War S1-3 by Arbiter617
-- Arcane by Christian Linke and Alex Yee
-- The Debt Collection by Andrew Givler 
-- Project Hail Mary by Andy Weir
 
+- [He Who Fights With Monsters](https://hewhofightswithmonsters.com) by Shirtaloon
+- Deicidium by idi0cy.inc
+- [Murder Drones](https://www.youtube.com/playlist?list=PLHovnlOusNLiJz3sm0d5i2Evwa2LDLdrg), [Black Dogs](https://www.youtube.com/playlist?list=PLRY5gdjkXM_sMchcqhmkw_i0H16le47qe), [C-2 Strain](https://static.wikia.nocookie.net/sstwl-scary-story-time-with-liam/images/f/fc/LiamVickers_C-2_Strain_v38.pdf/revision/latest?cb=20190224212134&format=original), and [PuppetGame](https://www.youtube.com/playlist?list=PLRY5gdjkXM_vzKED1giNFEZNroZblFm5-) by Liam Vickers
+- [Autodale](https://www.youtube.com/playlist?list=PLZ5VEKOKH8PCjZJYvjlinBtjjmKV_-dk1) by Dead Sound
+- [Blindsight](https://www.goodreads.com/book/show/48484.Blindsight) by Peter Watts
+- [Tales from the Loop](https://www.goodreads.com/book/show/27404461-tales-from-the-loop) and [The Labyrinth](https://www.goodreads.com/book/show/55818839-the-labyrinth) by Simon Stalenhag
+- [Songs of War S1-3](https://archive.org/details/copy-of-songs-of-war-screenplay) by Arbiter617
+- [Arcane](https://www.netflix.com/ca/title/81435684) by Christian Linke and Alex Yee
+- [The Debt Collection](https://www.andrewgivler.com/books) by Andrew Givler
+- [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by Andy Weir
 
 ## Changelog
 
-### July 3rd
+### July 4th (funny plugins)
+
+- Added a ton of plugins that I probably won't use
+- Figured out how to nest lists
+    - WHY IS IT SO UNINTUITIVE
+- Added links to [power scaling](Worldbuilding/Power%20Scaling.md)
+- Revised [Haelborne](Worldbuilding/Political%20Entities/Haelborne.md)
+- Added reality mining to [Firmament Theory](Worldbuilding/The%20Cosmos/Firmament%20Theory/index.md)
+- Added interdimensional law and personal power dynamics to [Interdimensional Society](Worldbuilding/Political%20Entities/Interdimensional%20Society.md)
+- Talked about various weaponry in [Aura Mechanics](Worldbuilding/The%20Cosmos/Firmament%20Theory/Aura%20Mechanics.md)
+
+### July 3rd (READ BLINDSIGHT ITS SO GOOD)
+
 - Compiled everything I did while off in China
 - Changed css for lists so that they look prettier
 - Changed subtitle of, added links to, and added [Metasphere and Physisphere](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metasphere.md/#metasphere-and-physisphere) section to the [Metasphere](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metasphere.md)
 - Revised [The Governance](Worldbuilding/Realities/Kaaldenvale/Magic%20System/index.md)
-  - || Edited, changed subtitle of, removed incomplete warning, and added links to [The Governance](Worldbuilding/Realities/Kaaldenvale/Magic%20System/index.md)
-  - || Edited, changed subtitle of, removed incomplete warning, and added links to [Specializations](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Specializations.md)
-  - || Edited, changed subtitle of, removed incomplete warning, and added links to [Levelling](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Levelling.md)
-  - || Changed subtitle of, removed incomplete warning, and added links to [Abilities](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Abilities.md)
-  - || Added [Looting and Currency](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Looting%20and%20Currency.md)
-  - || Edited, changed subtitle of, removed incomplete warning, and added links to [Settlements](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Settlements.md)
-  - || Changed subtitle of [Skills](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Skills.md)
-  - || Changed subtitle of and added links to [Titles](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Titles.md)
+    - Edited, changed subtitle of, removed incomplete warning, and added links to [The Governance](Worldbuilding/Realities/Kaaldenvale/Magic%20System/index.md)
+    - Edited, changed subtitle of, removed incomplete warning, and added links to [Specializations](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Specializations.md)
+    - Edited, changed subtitle of, removed incomplete warning, and added links to [Levelling](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Levelling.md)
+    - Changed subtitle of, removed incomplete warning, and added links to [Abilities](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Abilities.md)
+    - Added [Looting and Currency](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Looting%20and%20Currency.md)
+    - Edited, changed subtitle of, removed incomplete warning, and added links to [Settlements](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Settlements.md)
+    - Changed subtitle of [Skills](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Skills.md)
+    - Changed subtitle of and added links to [Titles](Worldbuilding/Realities/Kaaldenvale/Magic%20System/Titles.md)
 - Fleshed out and removed incomplete warning from the [Absolutionists](Worldbuilding/Political%20Entities/Absolutionists.md)
 - Clarified the use of [Authority](Worldbuilding/The%20Cosmos/Firmament%20Theory/Authority.md)
 - The [Soul](Worldbuilding/The%20Cosmos/Firmament%20Theory/Souls.md) now has anatomy
 - Got inspired by Blindsight by Peter Watts
-  - || Solved sentience in the [Living Cosmos](Worldbuilding/The%20Cosmos/Firmament%20Theory/Living%20Cosmos.md)
-  - || Explained what transcendence truly is and why mortals nearly always fail to attain it in [Metaphysical Beings](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metaphysical%20Beings.md#transcendence)
+    - Solved sentience in the [Living Cosmos](Worldbuilding/The%20Cosmos/Firmament%20Theory/Living%20Cosmos.md)
+    - Explained what transcendence truly is and why mortals nearly always fail to attain it in [Metaphysical Beings](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metaphysical%20Beings.md#transcendence)
 - Added an incomplete warning to [Plot](Plot/index.md)
 - Explained why the [Verion](Worldbuilding/Political%20Entities/Verion.md) are so warlike
 - Clarified government types of interdimensional factions in [Interdimensional Society](Worldbuilding/Political%20Entities/Interdimensional%20Society.md)
 - Added [Reality Bending](Worldbuilding/The%20Cosmos/Firmament%20Theory/Reality%20Bending.md)
 
 
-### June 16-17th:
+### June 16-17th (Existential Bullshit :D)
 - Added links to [the Cosmos](Worldbuilding/The%20Cosmos/index.md)
 - Edited [Firmament Theory](Worldbuilding/The%20Cosmos/Firmament%20Theory/index.md)
 - Added ritual mechanics and potentia to [Aura Mechanics](Worldbuilding/The%20Cosmos/Firmament%20Theory/Aura%20Mechanics.md)

@@ -9,8 +9,8 @@ icon: material/scale-unbalanced
 
     Article contains spoilers: Full Series
 
-## Basic Guide to Terms
-Contextualized with HWFWM and other random things I like. I understand that doesn't make this especially accessible, but it makes sense to me :P
+## Terms
+Contextualized with HWFWM and other random things I like.
 
 Basic guide to terms used:
 
@@ -26,7 +26,7 @@ Basic guide to terms used:
 
 - High diamond rank: blowing up Liechtenstein, owning planets.
 
-- Peak diamond rank: near godlike. Dawn blew up a Builder metropolis and scorched the surrounding US state-sized desert so hard it turned into glass.
+- Peak diamond rank: near godlike. Dawn blew up a Builder metropolis and scorched the surrounding average US state-sized desert so hard it turned into glass.
 
 - Astral Being: leaving the mortal form entirely, become an astral being. Y'know the Sanguine Horror, which in physical forms can scour an entire world of life? Yeah, that's what we're talking.
 
@@ -36,38 +36,38 @@ Basic guide to terms used:
 
 ## Scaling
 
-- Haelborne - low diamond rank
+- [Haelborne](Political%20Entities/Haelborne.md) - low diamond rank
 
-- Rat Lord - high diamond
+- [Rat Lord](Political%20Entities/Haelborne.md) - high diamond
 
-- Governance Tier 1-5 - iron rank
+- [Governance](Realities/Kaaldenvale/Magic%20System/index.md) Tier 1-5 - iron rank
 
-- Governance Tier 6-15 - bronze rank
+- [Governance](Realities/Kaaldenvale/Magic%20System/index.md) Tier 6-15 - bronze rank
 
-- Governance Tier 16-35 - silver rank
+- [Governance](Realities/Kaaldenvale/Magic%20System/index.md) Tier 16-35 - silver rank
 
-- Governance Tier 36-75 - gold rank
+- [Governance](Realities/Kaaldenvale/Magic%20System/index.md) Tier 36-75 - gold rank
 
-- Governance Tier 76-155 - diamond rank
+- [Governance](Realities/Kaaldenvale/Magic%20System/index.md) Tier 76-155 - diamond rank
 
-- Governance Tier 156+ - astral being
+- [Governance](Realities/Kaaldenvale/Magic%20System/index.md) Tier 156+ - astral being
 
-- Minor Immortals - peak diamond
+- [Minor Immortals](The%20Cosmos/Firmament%20Theory/Metaphysical%20Beings.md) - peak diamond
 
-- Great Immortals - astral being
+- [Great Immortals](The%20Cosmos/Firmament%20Theory/Metaphysical%20Beings.md) - astral being
 
-- Elder Immortals - great astral being
+- [Elder Immortals](The%20Cosmos/Firmament%20Theory/Metaphysical%20Beings.md) - great astral being
 
-- Dysphorium - gold rank, if they stick to the boundaries that won't burn out their bodies. If they killed themselves to exert all their power, theoretically peak diamond rank.
+- [Dysphorium](Political%20Entities/Dysphorium.md) - gold rank, if they stick to the boundaries that won't burn out their bodies. If they killed themselves to exert all their power, theoretically peak diamond rank.
 
-- Run of the mill Kaalvalese adventurers: peak gold at best
+- Peak [Kaalvalese](Realities/Kaaldenvale/index.md) adventurers: peak gold at best
 
-- Dawne Kingdom adventurers: gold is standard. Low diamond is peak.
+- Peak [Dawne Kingdom](Realities/Kaaldenvale/Locations/Rueleva/Dawne%20Kingdom/index.md) adventurers: gold is standard. Low diamond is peak.
 
-- Aethein Cultists - low diamond
+- [Aethein Cultists](Political%20Entities/Cult%20of%20the%20Aethein.md) - low diamond
 
-- Average interdimensional force - low diamond
+- [Average interdimensional force](Political%20Entities/index.md) - low diamond
 
-- idi0cy.inc (character) - high diamond, half folly I guess?
+- [idi0cy](../Characters/Mainline%20Characters/idi0cy.md) (character) - high diamond, half folly I guess?
 
-- The Narrator (character) - folly
+- [The Narrator](../Characters/Mainline%20Characters/Narrator.md) (character) - folly

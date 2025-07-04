@@ -28,3 +28,19 @@ These governments rule with an iron fist. Absolute power over people however, st
 
 ## Hive Governments
 In societies spanning millions of realities, it’s incredibly difficult to make sure every voice is heard. Some (very few) societies have attempted to make this possible using massive councils and hive mind technology. This has worked on the smaller end of the interdimensional society spectrum, and is a slowly emerging phenomenon in higher circles.
+
+## Interdimensional Law
+
+Organizing laws between reality spanning organizations is predictably tricky. There are very few actual, written laws that concern all groups, and most simply follow the lead of the [Amirlithic Union](Amirlithic%20Union.md) in civilized voidspace. The [Great Immortals](../The%20Cosmos/Firmament%20Theory/Metaphysical%20Beings.md) can also somewhat be considered a governing authority, but mostly float in the background if there aren’t any massive issues. They concern themselves with performing regular revaluations and keeping the balance between physical and metaphysical. That said, there are some few formal pacts.
+
+### Void Wilds Pact
+The Void Wilds Pact states (in a highly paraphrased form) that realities previously unseasoned with other worlds must be left untampered until they bring themselves into the fold. No interdimensional group can maintain presence in wild voidspace that contains these unexposed realities.
+
+## Personal Power Dynamics
+Survival in the cosmos requires power, not just in your group but in yourself. Many interdimensional citizens possess power that can level what a baseline human sees as a city. There are many ways of obtaining this kind of power. The basic principle is using metaphysical energies to enhance your body beyond its physical baseline.
+
+All worlds have native magic systems that allow their inhabitants to collect this energy naturally over time, ensuring a slow and steady progression to interdimensional power levels for those who are happy to work for it.
+
+Few worlds lack such a system and all of these usually come with some sort of environmental twist – a potent natural resource, per example – that allows the ingenuity of technology to do the work instead.
+
+Some beings, usually artificial, are born with such power levels, though this is quite rare due to the scruples of creating artificial life and the likelihood of them getting out of control.

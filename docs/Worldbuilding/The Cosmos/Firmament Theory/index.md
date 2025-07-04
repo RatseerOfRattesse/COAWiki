@@ -66,6 +66,14 @@ A revaluation is an operation conducted by minor immortals. They come down to va
 
 Whenever a section of reality has too much of its firmamental fabric taken away, it begins to show anomalies, much like something you’d see if you travelled too far in a video game. After this stage, if more fabric is removed, it begins to wither. Here begins the slow and painful decay of all life and the twisting of all matter in that section. The reality seals off the withered sector, freezing it in time as a sort of defense mechanism. Suppose the fabric around a solar system gets removed. That system will wither and be cordoned off like scar tissue.
 
+## Reality Mining
+
+Some groups have taken to harvesting firmamental material out of realities. This material is often referred to (somewhat inaccurately) as ‘reality fabric.’ It usually comes in the form of firmament crystals, condensed [metaphysical energy](Metasphere.md) used in the firmament. This stuff is integral to the stability of realities, so extracting it must be done carefully and in moderation. Remove too much, and you have a classic reality death situation.
+
+Reality mining requires many [rituals and aura machines](Aura%20Mechanics.md) to be arranged in exorbitant precision, lest you lose your crystals and your head. Some groups such as the Haelborne have successfully created reality mining machines that can do this automatically. Distribution of these machines is highly monitored as reality mining is looked down upon by most of interdimensional society due to its destructive effects.
+
+The Amirlithic Union has to the best of its ability banned reality mining within its sectors, and many other groups have followed suit. There are even rumours of secretive Amirlithic taskforces hunting through wild voidspace for reality miners – not entirely legal according to the [Void Wilds Pact](../../Political%20Entities/Interdimensional%20Society.md#void-wilds-pact), but not something that would crop up in anything other than the most pedantic and rule venerating of courts.
+
 ## Voidspace
 
 The Void is the home of metaphysical beings (non-mortals) and is a metaphysical space in which physical matter can’t exist. The Void is the space between realities (though it’s not a space as a mortal being would see it). It doesn’t have geography like a physical space, and the form of location it does have is incomprehensible to a mortal being.

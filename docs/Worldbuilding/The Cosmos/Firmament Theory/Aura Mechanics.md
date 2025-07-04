@@ -22,3 +22,11 @@ People with high enough potentia can inherently manipulate aura without the use 
 
 Aura cannot be created or destroyed, only moved and transformed. Therefore, the foundational forms of aura-based technology are rituals, which are, in simple terms, channels that guide aura to flow in specific patterns to cause specific effects. Rituals are made using special materials with high potentia, and come in various shapes. Therefore, all aura tech is based on the central principle of guiding aura in specific patterns - rituals. Because of this, most aura-based tech is simply ritual inscribed devices. Of course, rituals can also be used by themselves.
 
+### Aura Cannons
+
+These are various firearms and artillery that can concentrate aura from the Void and shoot it out in various shapes to affect the physical world, usually aiming for specific damage types in specialty weapons or the generic combination of thermal and kinetic energy.
+
+### Soul-Striking Weaponry
+
+These are blades that also carry a metaphysical form that moves coterminous to their physical forms. They can scar and damage [souls](Souls.md), debilitating their ability to draw in metaphysical energies. In baseline beings, this just makes them faint, and is harmless for the most part. In beings infused with metaphysical energies – such as most of high interdimensional society – this can be detrimental to their ability in the rest of a fight. Soul-striking blades are extremely expensive to manufacture and are mostly used by individuals and haven’t been mass produced for any military yet.
+

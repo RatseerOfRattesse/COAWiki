@@ -1,5 +1,6 @@
 ---
 description: Character sheet for idi0cy of COA.
+title: idi0cy
 ---
 
 ???+ warning ":fontawesome-solid-file-circle-exclamation: Spoilers"
