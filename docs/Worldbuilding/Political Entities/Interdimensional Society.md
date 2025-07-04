@@ -11,7 +11,7 @@ subtitle: ambition ain't human exclusive :]
     Article contains spoilers: Bk7
 
 ## Governments
-There are many challenges that come with running a [reality-spanning](../The%20Cosmos/Firmament%20Theory) empire. Different races have different moral values, different worlds have different environments. It’s a complicated affair, which sees a few archetypal forms of government emerge as the most successful.
+There are many challenges that come with running a [reality-spanning](../The%20Cosmos/Firmament%20Theory/index.md) empire. Different races have different moral values, different worlds have different environments. It’s a complicated affair, which sees a few archetypal forms of government emerge as the most successful.
 
 ## Proxy Governments
 Proxy governments are the most common type found in interdimensional society, and usually in large-scale enclaves. Many other governmental systems have this in some form. These function by having multiple levels of government that get more specific in accordance to their scale. The top level will administer general rules and manage interactions with other groups, while a reality-sized level may have specific country-style laws in accordance to the needs of their population.

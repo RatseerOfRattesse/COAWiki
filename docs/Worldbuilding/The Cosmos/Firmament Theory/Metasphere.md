@@ -27,8 +27,8 @@ Physical matter cannot exist in a metaphysical space, but metaphysical matter ca
 
 Metaphysical matter exists coterminous to physical matter — another dimension, if you will. The realm in which this matter exists is called the metasphere, and it’s like the under structure of the physisphere, the realm of physical matter.
 
-The metasphere, on a cosmic scale, can be thought of as a pond of lily pads, wherein the water represents the metasphere and the lilies the physisphere. This is because the physisphere is only existent in realities and other physical spaces, and [the Void](../Firmament%20Theory), as a metaphysical space, extends over far more area than physical space.
-On a reality scale, the metasphere is everywhere the physisphere is. This and the [firmament](../Firmament%20Theory) are separate things. The metasphere encapsulates the firmament - it exists in metaphysical space. The metasphere however, also contains every other metaphysical thing.
+The metasphere, on a cosmic scale, can be thought of as a pond of lily pads, wherein the water represents the metasphere and the lilies the physisphere. This is because the physisphere is only existent in realities and other physical spaces, and [the Void](../Firmament%20Theory/index.md), as a metaphysical space, extends over far more area than physical space.
+On a reality scale, the metasphere is everywhere the physisphere is. This and the [firmament](../Firmament%20Theory/index.md) are separate things. The metasphere encapsulates the firmament - it exists in metaphysical space. The metasphere however, also contains every other metaphysical thing.
 
 Things in the metasphere can exist and move, and a location in the metasphere has an equivalent in the physisphere. The most prominent example of this is the soul. It will move around in the metasphere according to the position of it’s host. All other metaphysical objects attuned to physical objects do this.
 

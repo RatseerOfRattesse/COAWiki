@@ -17,7 +17,7 @@ A fun little passion project starring Aryon Hastor, who wants nothing but to mai
 
 While Ari's fucking around on Kaaldenvale, the multiverse is experiencing some wacky problems. The Great Immortals haven't answered any prayers in a century, and the churches are being increasingly offensively dogmatic. Meanwhile, the previously dormant spooky shadow demon population are out on the prowl! They're crawling through your voidways, creeping through your backyards, and scrounging through your organs, and nobody has a fucking clue where they came from. What a century, aye?
 
-Read here: [Story](Story/index.md)
+Read here: [Chronicles of the Aethein](Story/index.md)
 
 ## Wiki Conventions
 
