@@ -55,8 +55,15 @@ Wiki articles will have various warnings at their heads:
 ### Inspiration
 - He Who Fights With Monsters by Shirtaloon
 - ‘time wasting doc’ by idi0cy.inc
-- Murder Drones by Liam Vickers
+- Murder Drones, Black Dogs, C-2 Strain, and PuppetGame by Liam Vickers
 - Autodale by Dead Sound
+- Blindsight by Peter Watts
+- Tales from the Loop and The Labyrinth by Simon Stalenhag
+- Songs of War S1-3 by Arbiter617
+- Arcane by Christian Linke and Alex Yee
+- The Debt Collection by Andrew Givler 
+- Project Hail Mary by Andy Weir
+
 
 ## Changelog
 
