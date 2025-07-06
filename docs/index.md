@@ -11,7 +11,7 @@ icon: fontawesome/solid/house
 
 **Warning for lots of gore, profanity, and edgy jokes :)**
 
-**If you'd like to yell at me, DM theholyratlord on Discord.**
+**If you'd like to yell at me, DM ratseerofrattesse on Discord.**
 
 A fun little passion project starring Aryon Hastor, who wants nothing but to maintain her healthy income monster-hunting job. Unfortunately for her, some interdimensional space rats want to harvest her reality's firmamental fabric! And also, they want her spooky hourglass necklace that may or may not be a family heirloom passed down from an Immortal. Don't worry about that though, 'cuz there's way bigger issues to deal with and this Immortal business definitely won't stab us in the back later. Definitely, nope, never.
 
@@ -64,6 +64,7 @@ Wiki articles will have various warnings at their heads:
 - [Arcane](https://www.netflix.com/ca/title/81435684) by Christian Linke and Alex Yee
 - [The Debt Collection](https://www.andrewgivler.com/books) by Andrew Givler
 - [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by Andy Weir
+- [Drehmal](https://drehmal.net) by Keeko100 and Rift
 
 ## Changelog
 
