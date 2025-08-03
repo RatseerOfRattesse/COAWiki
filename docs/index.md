@@ -3,7 +3,7 @@ description: COA site homepage
 icon: fontawesome/solid/house
 ---
 
-# Chronicles of the Aethein
+# Chronicles of the Aetheins
 
 *A high fantasy LitRPG book series illustrated and written by RatseerOfRattesse*
 
