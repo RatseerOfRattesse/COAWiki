@@ -68,7 +68,23 @@ Wiki articles will have various warnings at their heads:
 
 ## Changelog
 
-### July 4th (funny plugins)
+### August 2nd 2025 
+*suffering builds character*
+
+- Changed changelog update format
+- Reformatted character index
+- Added page for Krath
+- Did some writing on AOH, finally
+- AHAHAHAHHA IM ON A ROLL WIHT THE THEMESSSSSSSSSSSS
+- Added the Themes page
+- Added to Ari and Bia’s characters
+- Changed epigraphs in overarching plot and AOH
+- Clarified fae beliefs about the afterlife and their scientific ability in the Kaaldenvale article.
+- Changed one sentence in Ch2
+- There are now canonically six to twelve hells in fae religion (Kaaldenvale article)
+
+### July 4th
+*funny plugins*
 
 - Added a ton of plugins that I probably won't use
 - Figured out how to nest lists
@@ -79,7 +95,8 @@ Wiki articles will have various warnings at their heads:
 - Added interdimensional law and personal power dynamics to [Interdimensional Society](Worldbuilding/Political%20Entities/Interdimensional%20Society.md)
 - Talked about various weaponry in [Aura Mechanics](Worldbuilding/The%20Cosmos/Firmament%20Theory/Aura%20Mechanics.md)
 
-### July 3rd (READ BLINDSIGHT ITS SO GOOD)
+### July 3rd
+*READ BLINDSIGHT ITS SO GOOD*
 
 - Compiled everything I did while off in China
 - Changed css for lists so that they look prettier
@@ -105,7 +122,9 @@ Wiki articles will have various warnings at their heads:
 - Added [Reality Bending](Worldbuilding/The%20Cosmos/Firmament%20Theory/Reality%20Bending.md)
 
 
-### June 16-17th (Existential Bullshit :D)
+### June 16-17th
+*Existential Bullshit :D*
+
 - Added links to [the Cosmos](Worldbuilding/The%20Cosmos/index.md)
 - Edited [Firmament Theory](Worldbuilding/The%20Cosmos/Firmament%20Theory/index.md)
 - Added ritual mechanics and potentia to [Aura Mechanics](Worldbuilding/The%20Cosmos/Firmament%20Theory/Aura%20Mechanics.md)
