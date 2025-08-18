@@ -17,14 +17,22 @@ icon: fontawesome/solid/scroll
 
 Housed here is all the information regarding the plot of COA.
 
-## Overarching Plot
+<div class="grid cards" markdown>
 
-Contains a general outline for the entire series.
+-   :fontawesome-solid-scroll:{ .lg .middle } __give me everything.__
 
-[Overarching Plot](Overarching%20Plot.md)
+    ---
 
-## Plot Outlines
+    A very unfinished, very confusing, and very unreadable, outline for the entire series.
 
-Individual plots for each book.
+    [:octicons-arrow-right-24: Overarching Plot](Overarching%20Plot.md)
 
-### [Book I: Advent of the Haelborne](Plot%20Outlines/Advent%20of%20the%20Haelborne.md)
+-   :fontawesome-solid-scroll:{ .lg .middle } __how about just one__
+
+    ---
+
+    Here's a plot outline for Advent of the Haelborne.
+
+    [:octicons-arrow-right-24: Book I: Advent of the Haelborne](Plot%20Outlines/Advent%20of%20the%20Haelborne.md)
+
+</div>

@@ -12,15 +12,21 @@ description: Character sheet for Grim of COA.
 
 # Grim
 
+![Portrait of Grim](../../assets/img/portraits/grim.png)
+
 ## Basic Information
+
+Species: Dysphorium
 
 Age:
 
-Birthplace: Church of the Dysphorium, Diorvana
+Birthplace: Church of Dysphoria, Diorvana
 
 Home: none
 
 Occupation:
+
+Aliases:
 
 ## Abilities
 

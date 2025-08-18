@@ -12,7 +12,11 @@ description: Character sheet for Lloyden Limril of COA.
 
 # Lloyden Limril
 
+![Portrait of Lloyd](../../assets/img/portraits/lloyd.png)
+
 ## Basic Information
+
+Species: Fae
 
 Age: 18
 
@@ -21,6 +25,8 @@ Birthplace: Edenthein, Deliria Isles
 Home: Javenshard, Province Haequar, Haelcrien.
 
 Occupation: Adventurer - weekly income ~2000 hc.
+
+Aliases: Lloyd
 
 ## Abilities
 

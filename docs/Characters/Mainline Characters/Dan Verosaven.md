@@ -12,6 +12,10 @@ description: Character sheet for Dan Verosaven of COA.
 
 # Dan Verosaven
 
+Species: Fae
+
+![Portrait of Dan](../../assets/img/portraits/dan.png)
+
 ## Basic Information
 
 Age: 20
@@ -21,6 +25,8 @@ Birthplace: Javenshard
 Home: Javenshard
 
 Occupation: Inn Owner
+
+Aliases: 
 
 ## Abilities
 

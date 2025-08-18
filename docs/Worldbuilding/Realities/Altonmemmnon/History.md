@@ -1,8 +1,10 @@
 ---
 description: Worldbuilding for COA.
+subtitles: idk something to do with bulls
 ---
 
 # History
+*idk something to do with bulls*
 
 ???+ warning ":octicons-pencil-16: Incomplete"
 

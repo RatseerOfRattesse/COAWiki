@@ -17,15 +17,15 @@ subtitle: By RatseerOfRattesse
 
 # Advent of the Haelborne
 
-![Ari stares nobly off into the distance](../../assets/img/misc/banner.png)
+![Ari stares at camera in shock while Grim's scythe slithers into view](../../assets/img/misc/cover.png)
 
 *Chronicles of the Aethein, Book I*
 *By RatseerOfRattesse*
 
+<center>"In the pursuit of great, we failed to do good.” – Viktor, Arcane</center>
+
 ## Prologue: Eating New People
 *never ask a dysphorium about their dietary habits*
-
-![The Haelborne ship floats over Kaaldenvale](../../assets/img/illustrations/Prologue-1.png)
 
 The Haelborne’s dimension ship was a grand undertaking, an enormous hunk of metallic material forged and shaped into a habitable vessel. Ritual diagrams shone across its hull, granting it the magic to cross between realities. For now, it was docked atop the sky-dome of Kaaldenvale, a reality encompassing just a single planet, doing nothing. For any other fringe interdimensional organization, this would be a massive and wasteful expenditure. But for the Haelborne, it was but one of their silent, thousand-strong fleet, out plundering the cosmos like the others.
 
@@ -33,7 +33,7 @@ This particular mission, however, was quite special. Both in terms of the object
 
 Aboard the ship, in one of the lounges, was a fae and a dysphorium.
 
-The fae were the local intelligent species of Kaaldenvale, somewhat resembling the elves of Earth folklore. Unlike those nature spirits, they were built for killing, evolved from highly predatory mammals – they bore such features as retractable cat-like claws, razor-sharp flexible ears, and jagged rows of teeth. This particular fae was a relatively recent recruit to the Haelborne cause, specifically for this mission. His name was Limril.
+The fae were the local intelligent species of Kaaldenvale, somewhat resembling the elves of Earth folklore. Unlike those nature spirits, they were built for killing, evolved from highly predatory mammals – they bore such features as retractable cat-like claws, razor-sharp flexible ears, and jagged rows of teeth. This particular fae was a relatively recent recruit to the Haelborne cause, specifically for this mission. He announced himself Limril, and proceeded to blunder his way through various social situations with unasked-for factoids.
 
 The dysphorium were nothing like the fae. A population of thousands scattered across the cosmos, with nowhere to call home, they roamed realities, slaughtering thousands with the power of an unchained soul. There was nothing keeping it from committing mass genocide on a whim, except for a lucrative deal.
 
@@ -51,9 +51,11 @@ The two were playing a local board game. Limril was unusually enthused for his n
 
 “How helpful.”
 
+![The Haelborne ship floats over Kaaldenvale](../../assets/img/illustrations/Prologue-1.png)
+
 Limril sighed again and swept the board and pieces off the table. He waved his hand, and the board hovered its way across the floor and into a cupboard. Eyes dulling, he snatched a can of soda out of nothingness, popping it open and downing a gulp.
 
-“So,” he said between sips. “You up for dispatch to Javenshard this week?”
+“So,” he said between sips. “You ready for dispatch to Javenshard this week?”
 
 “What-shard?” Grim mumbled, its grin fracturing back to a mildly triumphant smile. “What’s to eat there?”
 
@@ -100,7 +102,7 @@ I’m short for a fae, only one and a bit metres tall. My hair’s longer and is
 
 “This is supremely stupid,” I grumbled, panning my eyes across the trees.
 
-“Ahh, it’s FINE!” Bia replied, glancing down. “The monsters here aren’t even that high level. They’re only tier… what, thirteen?”
+“Ahh, it’s fine!” Bia replied, glancing down. “The monsters here aren’t even that high level. They’re only tier… what, thirteen?”
 
 I stared back with glaring intensity. Bia could be an asshole, and it looked like she was about to start one of her episodes.
 
@@ -110,7 +112,7 @@ I stared back with glaring intensity. Bia could be an asshole, and it looked lik
 
 Rolling my eyes, I summoned a weapon with the snap of a finger. A dagger flickered into existence in my hands. Its blade was made with deep purple crystal. Red trails shimmered throughout the crystal, twisting and swirling like hundreds of miniature snakes.
 
-???+ info "Ability: [Voidburst Dagger] (Conjuring)"
+???+ governance "Ability: [Voidburst Dagger] (Conjuring)"
 
     Incantation: none.
 
@@ -162,15 +164,15 @@ Rolling my eyes, I summoned a weapon with the snap of a finger. A dagger flicker
 
     Increase mana cost to moderate to inflict [Harmonic Manaturgy] on caster and wielder.
 
-???+ info "Effect: [Devitalized Manaturgy] (Weakening)"
+???+ governance "Effect: [Devitalized Manaturgy] (Weakening)"
 
     Slowly drains mana at a rate of meagre mana/id.
 
-???+ info "Effect: [Adverse Manaturgy] (Damage)"
+???+ governance "Effect: [Adverse Manaturgy] (Damage)"
 
     When target uses mana, deal damage one twelfth of mana used.
 
-???+ info "Effect: [Vampiric Manaturgy] (Draining)"
+???+ governance "Effect: [Vampiric Manaturgy] (Draining)"
 
     One fourth of mana removed from the target, whether by the target or through external activity, is given to the user.
 
@@ -180,7 +182,7 @@ Rolling my eyes, I summoned a weapon with the snap of a finger. A dagger flicker
 
     If both [Devitalized Manaturgy] and [Adverse Manaturgy] are used, extraction increases to one half.
 
-???+ info "Effect: [Harmonic Manaturgy] (Damage)"
+???+ governance "Effect: [Harmonic Manaturgy] (Damage)"
 
     Increase damage of [Adverse Manaturgy] from summoning, casting, conjuring, and ritual type abilities by (target’s tier) %.
 
@@ -188,7 +190,7 @@ I twirled the dagger in a showy way, before sliding it into a scabbard on my bel
 
 I tapped the tablet three times with a finger like I had done hundreds of times before. After a brief moment, lines engraved themselves into the metal, creating a radar interface. A quick scanning animation followed, before dots appeared around the area. I tapped the closest one.
 
-???+ info "Creature: [Crienbeast] (Beast)"
+???+ governance "Creature: [Crienbeast] (Beast)"
 
     Average Tier: III
 
@@ -205,7 +207,7 @@ Bia cackled. She held out her hand and chanted:
 Red mist coalesced in her palm before expanding to form a massive scythe, with a blade of crimson metal and grip of black hide.
 
 
-???+ info "Ability: [Fel Scythe] (Conjuring)"
+???+ governance "Ability: [Fel Scythe] (Conjuring)"
 
     Incantation: Fallen horrors in the gloom, come forth and ferry my doom
 
@@ -254,11 +256,11 @@ Red mist coalesced in her palm before expanding to form a massive scythe, with a
 
     5% of damage received while this weapon is equipped is mirrored onto damage source as bleed damage.
 
-???+ info "Effect: [Sanguine Decay] (Weakening)"
+???+ governance "Effect: [Sanguine Decay] (Weakening)"
 
     Provides a slow damage over time effect until accumulating to 1000 instances. Upon reaching 1000, all instances are cleansed and replaced with one instance of [Necrotic Blight]
 
-???+ info "Effect: [Necrotic Blight] (Damage)"
+???+ governance "Effect: [Necrotic Blight] (Damage)"
 
     Instantaneously deals moderate necrotic damage. Continues to deal slowly deescalating damage for ten sec. before dropping off.
 
@@ -266,7 +268,7 @@ Without another word, she dashes off into the forest, heading towards the pack o
 
 I rolled my eyes, conjuring a pair of wings before launching after my sister.
 
-???+ info "Ability: [Wings of Equilibrium] (Utility)"
+???+ governance "Ability: [Wings of Equilibrium] (Utility)"
 
     Cost: meagre mana
 
@@ -312,40 +314,40 @@ I rolled my eyes, conjuring a pair of wings before launching after my sister.
 
 With a rush of wind, I landed in the middle of a forest clearing, immediately knocking several crienbeasts off their feet. As stressed as I was in this over-ranked area of the forest, the thrill of combat rushed me right into the zone. Brandishing my dagger, I immediately leapt at the nearest monster, the sheer force of the launch tearing the poor thing’s head right off its body. It tumbled about for a few seconds while the rest of its Governance-given energy sapped away and it dissolved into a pile of assorted items. Normally monsters didn’t dissolve so quickly, but I must’ve hit that one too hard.
 
-???+ info
+???+ governance
 
     [Enemy selected]
-???+ info
+???+ governance
 
     [60%]
-???+ info
+???+ governance
 
     [20%]
-???+ info
+???+ governance
 
     [dead]
-???+ info
+???+ governance
 
     You have defeated: [Crienbeast]
 
 Bia dashed into the clearing just a moment later. Her scythe flashed into a black and red blur, whirling to spear three beasts through the stomach. Viscera spilled, tendons ripped, lots of other yummy fleshy things fell on the ground. Yet the three crienbeasts still stood, courtesy of their enhanced tier four attributes.
 
-???+ info
+???+ governance
 
     [Enemy selected] x3
-???+ info
+???+ governance
 
     [40%]
-???+ info
+???+ governance
 
     [dead]
-???+ info
+???+ governance
 
     You have defeated: [Crienbeast] x3
 
-The poor creatures scrambled to re-assert their position – but NOPE, ‘cause I’m here to kick ass and other body parts too. A swarm of light blades dislodged from my outstretched hand, trailing fire and burning through poor, weak flesh. A second volley ensured their demise with a bonus free cremation (for free!).
+The poor creatures scrambled to re-assert their position – but NOPE, ‘cause I’m here to kick ass and other body parts too. A swarm of light blades dislodged from my outstretched hand, trailing fire and burning through poor, weak flesh. A second volley ensured their demise with a bonus cremation (for free!).
 
-???+ info "Ability: [Rain of Light] (Attack)"
+???+ governance "Ability: [Rain of Light] (Attack)"
 
     Incantation: Let the blaze of dawn light the blasphemous mind
 
@@ -385,7 +387,7 @@ The poor creatures scrambled to re-assert their position – but NOPE, ‘cause 
 
     Spears can sap shadow out of a small area while airborne. This includes the life force of shadow-based and shadow-adjacent creatures.
 
-???+ info "Effect: [Blinding Descension] (Weakening)"
+???+ governance "Effect: [Blinding Descension] (Weakening)"
 
     Target acquires an affinity weakness to light and light-adjacent damages.
 
@@ -393,7 +395,7 @@ The rat-bear hybrids rushed forwards in a wave, claws flashing and teeth gnashin
 
 Within the span of a minute, the entire pack lay dead and disembowelled across the forest floor.
 
-???+ info
+???+ governance
 
     You have defeated: [Crienbeast] x6
 
@@ -401,11 +403,11 @@ Ooh, aren’t the wafting scents of burnt flesh so nice in the pristine outside 
 
 Leaves crunched as I stepped to the nearest body. I tapped a finger to the beast’s temple, brushing the thing’s fur with pleasure – there was loot to come.
 
-???+ info "Loot 1x [Crienbeast Tier IV]?"
+???+ governance "Loot 1x [Crienbeast Tier IV]?"
 
 I ignored the Governance window and proceeded to tap the other corpses, as Bia did likewise on the other side of the clearing. Windows stacked up rapidly before they consolidating into one.
 
-???+ info "Loot 10x [Crienbeast Tier V]?"
+???+ governance "Loot 10x [Crienbeast Tier V]?"
 
 I mentally accepted the prompt, and ten bodies dissolved with a poof, leaving piles of neatly packaged monster parts scattered across the ground. Sheets of leather, bags of fur, bundled claws and spines. From Bia’s position came another poof, quickly followed by a whoop of surprise.
 
@@ -415,7 +417,7 @@ I immediately spun around. In Bia’s hand was what looked like a mangled electr
 
 I did not see what I just described, however. In Bia’s hands was a pile of shining silver coins.
 
-???+ info "Item: [Depleted Lesser Governance Core] (Core)"
+???+ governance "Item: [Depleted Lesser Governance Core] (Core)"
 
     Tier: IV
 
@@ -423,7 +425,7 @@ I did not see what I just described, however. In Bia’s hands was a pile of shi
 
 “Nice.” I shrugged, returning to collecting the other drops. I stuffed them all into a second belt pouch. Claws and fur, despite being too large to fit through the opening, simply shrunk as they approached the pouch before slotting into the dark space inside.
 
-???+ info "Item: [Extradimensional Sack] (Bag)"
+???+ governance "Item: [Extradimensional Sack] (Bag)"
 
     Tier: VII
 
@@ -450,11 +452,11 @@ In one movement spanning less than a second, she had completely disappeared from
 
 “Very funny!” I called. “Get back here!”
 
-![Ari stares at Bia while the latter holds up a drained lesser Governance core. Crienbeast corpses litter the ground.](../../assets/img/illustrations/Ch1-1.png)
-
 There was no response. The sigil became smaller, but I could still see in perfect clarity. Perks of levelling so high.
 
 “Bia!”
+
+![Ari stares at Bia while the latter holds up a drained lesser Governance core. Crienbeast corpses litter the ground.](../../assets/img/illustrations/Ch1-1.png)
 
 “BIA!”
 
@@ -494,7 +496,7 @@ My eyes slashed across the trees, picking out anything out of place before spott
 
 It was way too fast for me to run away. At least tier fourty based on that one time I watched skilled adventurers fighting higher-tier monsters in Troltano. I couldn’t match its physical speed, but I had years of combat experience. On pure instinct – without even a thought – an array of translucent blue shields sprang up in front of me, just in time to meet a swarm of metal blades.
 
-???+ info "Ability: [Shattersweep Shield] (Defence)"
+???+ governance "Ability: [Shattersweep Shield] (Defence)"
 
     Incantation: none
 
@@ -540,7 +542,7 @@ It was way too fast for me to run away. At least tier fourty based on that one t
 
     You may now conjure up to twelve shields, each at the base mana cost.
 
-???+ info "Effect: [Fracture] (Weakening)"
+???+ governance "Effect: [Fracture] (Weakening)"
 
     Target becomes more susceptible to ethereal damage and is occasionally hit with some void damage and multiplies this effect. Effect stacks.
 
@@ -552,7 +554,7 @@ Blood spattered everywhere, strips of flesh peeling away. Tendons slithered out 
 
 So much useless, powerless meat.
 
-???+ info
+???+ governance
 
     HP: [50%]
 
@@ -579,7 +581,7 @@ I should probably… run?
 
 The whistling of wind through metal sounded as black tendrils topped with wicked blades surfaced around me. The entity barrelled upwards, closer, closer, closer and closer. I turned around just long enough for the Governance to analyze the monster. A window appeared in the corner of my vision. It didn’t help – in fact, I was now MORE panicked.
 
-???+ info "Being: [Unknown] (Dysphorium (Alt. 3152))"
+???+ governance "Being: [Unknown] (Dysphorium (Alt. 3152))"
 
     [Obfuscated]
 
@@ -592,13 +594,13 @@ The entity didn’t move it’s main body, instead pushing me up the trunk with 
 
 It rattled its way closer, taking its time. Its Presence grew stronger, the layers of reality bending and warping as it slashed forwards, limbs distending with snaps and crackles. Finally, it reached the foot of the tree. Its head snapped upwards, eyes piercing my skull as it concentrated its Presence towards me. This was a technique only known by the most elite of adventurers. No sound could escape my lips.
 
-![Grim pins Ari to a tree with a claw.](../../assets/img/illustrations/Ch1-2.png)
-
 “Hello there!” the entity cheered happily, like a preschooler with a new toy. “I’m Grim!”
 
 Silence. I physically could not talk – the Presence still screaming in my veins.
 
 “Oh, not up for a talk then? Funny! Straight to the chase then…” Grim’s eye sockets narrowed. It had no pupils, but this still achieved a look of persecution – or, to be less descriptive, a look of ‘I’m going to kill you and everyone you love and then I’m going to steal your tendons to make a blanket.’ “Would you be so kind as to hand over the Firmament Hourglass?”
+
+![Grim pins Ari to a tree with a claw.](../../assets/img/illustrations/Ch1-2.png)
 
 The Presence relaxed slightly.
 
@@ -624,7 +626,7 @@ This was a completely rational and logical decision. You can imagine me giving a
 
 The Presence returned in an instant, a reality-shattering aura thundering into place. Screams and wails echoed through my ears, the smell of soot and ash burning through my skull like the spilled internal bodily fluids of hundreds of ended lives. Another tentacle, this one topped with a massive scythe, unlatched itself from Grim’s back and ripped into my chest. Frankly, it was a miracle I was still alive. Tier seven blood coursed out of the wound, the vital force keeping her together spilling by the litre.
 
-???+ info
+???+ governance
 
     HP: [40%]
 
@@ -634,13 +636,13 @@ The Presence returned in an instant, a reality-shattering aura thundering into p
 
 Grim raised another claw-hand. It dug further into my ribcage, tossing out various organs before picking up my heart and casually popping it into its mouth.
 
-???+ info
+???+ governance
 
     HP: [5%]
 
 I had no lungs to scream. No biggie. I’m sure everything will turn out okay. Sarcastic optimism is my coping mechanism!
 
-“Relinquish the hourglass please,” Grim chittered, its tone as goofy as ever.
+“Relinquish the hourglass please,” Grim chittered, its tone as goofy as ever. "I need your soul’s permission."
 
 I could only cough and splutter. This, however, was an advanced battle tactic known as DECEPTION, BITCH!
 
@@ -654,7 +656,9 @@ Tendrils of piercing red light blasted from my fingers. Crackling erupted at an 
 
 Crawling into a comfortable position, I reached into my extradimensional pouch, fumbling about before snatching out a massive bottle. It had an unbalanced top and bottom, almost like one of those kids’ science worksheets we did in first grade.
 
-???+ info "Item: [Reinforced Glass Bottle] (Container)"
+![Ari hunches over her sword, staggering towards a portal as blood drips from her chest.](../../assets/img/illustrations/Ch1-3.png)
+
+???+ governance "Item: [Reinforced Glass Bottle] (Container)"
 
     Tier: VII
 
@@ -664,7 +668,7 @@ Crawling into a comfortable position, I reached into my extradimensional pouch, 
 
     A glass bottle with magical reinforcements, meant to contain powerful potions.
 
-???+ info "Potion: [Greater Sustenance Elixir] (Restoration)"
+???+ governance "Potion: [Greater Sustenance Elixir] (Restoration)"
 
     Tier: VII
 
@@ -676,14 +680,12 @@ I ripped off the cork and downed all the silver liquid inside. My wounds healed 
 
 Once the potion had done its job, I shambled upright. Again lifting an arm in casting position, I waved it in a ring and the red energy cut a hole in the world. Through the tear was my bedroom – not that my dreary state could interpret what I was seeing. This entire portal wasn’t even a conscious action. On instinct, I needed my bed. I slouched through the portal, collapsing on the plank floor of the room, before rolling to stare upwards. My vision faded to black, the last thing I saw the tinkling of candlelight against the grey ceiling.
 
-![Ari hunches over her sword, staggering towards a portal as blood drips from her chest.](../../assets/img/illustrations/Ch1-3.png)
-
 ## Chapter II: Vacation...?
 *do I at least get paid*
 
 ![Ari lying in a pool of blood on the floor](../../assets/img/illustrations/Ch2-1.png)
 
-The slamming of a door some distance away snapped me out of unconsciousness. I was lying across the wood-panelled floor of my bedroom, surrounded by a ring of ripped flesh and dried blood. Likely discarded material from after the potion kicked in. I glanced at the walls, clustered with shelves and shelves of assorted books, monster skulls, and painting canvas. Silently, I clambered upright, only to collapse against the wall next to the door. With a jerking motion, I slammed open the door with a slap of the hand, throwing myself against the upstairs railing as if fired from a slingshot. Movement with a fully repaired body after being recently near-deceased is a little tricky.
+The slamming of a door some distance away snapped me out of unconsciousness. I was lying across the wood-panelled floor of my bedroom, surrounded by a ring of ripped flesh and dried blood. Likely discarded material from after the potion kicked in. I glanced at the walls, clustered with shelves and shelves of assorted books, monster skulls, and my paintings of the Javenshard wilderness. Silently, I clambered upright, only to collapse against the wall next to the door. With a jerking motion, I slammed open the door with a slap of the hand, throwing myself against the upstairs railing as if fired from a slingshot. Movement with a fully repaired body after being recently near-deceased is a little tricky.
 
 A coughing fit ensued as I snapped up to take the stairs down before –
 
@@ -703,7 +705,7 @@ Wordlessly, I sent over the Governance profile generated for the entity. With th
 
 Bia read over the profile several times, eyes seeing but not comprehending – though that’s what she usually did. Dumbass.
 
-???+ info "> Item mailed from [Aryon Hastor]"
+???+ governance "> Item mailed from [Aryon Hastor]"
 
     Being: [Unknown] (Dysphorium (Alt. 3152))
 
@@ -749,7 +751,7 @@ I opened her mouth, then closed it, then sighed.
 
 I gently pulled out the hourglass from my shirt. The blood red sands tinkled softly as the trinket moved.
 
-???+ info "Item: [Old Hourglass] (Accessory)"
+???+ governance "Item: [Old Hourglass] (Accessory)"
 
     Tier: I
 
@@ -838,10 +840,10 @@ Duskir looked around hesitantly.
 
 “…come in.”
 
+![Ari peeks at Duskir's cabin through some vines](../../assets/img/illustrations/Ch2-2.png)
+
 She scrambled back into the house and slammed the door. Typical Mother. I opened the door again and stepped inside, carefully closing it behind me.
 Duskir sat in a rocking chair in front of a table, which was placed uncannily in the centre of the room. She never lit it; the crystal matrix kept the cabin heated had been on for years and I’m pretty sure she’d forgotten it existed. There was only one other chair in the room; Duskir didn’t have guests. I sat casually.
-
-![Ari peeks at Duskir's cabin through some vines](../../assets/img/illustrations/Ch2-2.png)
 
 “So, dear,” Duskir asked mechanically. “What bothers you?”
 
@@ -855,7 +857,7 @@ Duskir’s eyes narrowed, a rare spark of sanity entering her gaze.
 
 I mailed over the entity’s Governance description.
 
-???+ info "> Item mailed from [Aryon Hastor]"
+???+ governance "> Item mailed from [Aryon Hastor]"
 
     Being: [Unknown] (Dysphorium (Alt. 3152))
 
@@ -910,7 +912,7 @@ The sands tinkled softly.
 
 I reached into my dimensional sack and pulled out a filled teacup, handing it to Duskir.
 
-???+ info "Item: [Polished Teacup] (Silverware)"
+???+ governance "Item: [Polished Teacup] (Silverware)"
 
     Tier: Zero
 
@@ -922,13 +924,13 @@ I reached into my dimensional sack and pulled out a filled teacup, handing it to
 
     Enchantments: Disguise I
 
-???+ info "Enchantment: [Disguise] (Deception)"
+???+ governance "Enchantment: [Disguise] (Deception)"
 
     Effects:
 
     Change the name of an item or other valid Governance entry of or connected to enchanted item.
 
-???+ info "Potion: [Bottled Truth] (Deceptive)"
+???+ governance "Potion: [Bottled Truth] (Deceptive)"
 
     Tier: L
 
@@ -938,7 +940,7 @@ I reached into my dimensional sack and pulled out a filled teacup, handing it to
 
 Duskir gazed at it until it her own Governance instance analyzed it. I’m not the best with anything other than fighting, really, so I’d been up all last night trying to fix this thing up. Quite proud of the results. Of course, I didn’t brew the potion, just did the enchantment. Tier fifty is too high for a measly tier seven like myself with mediocre brewing skills.
 
-???+ info "Item: [Polished Teacup] (Silverware)"
+???+ governance "Item: [Polished Teacup] (Silverware)"
 
     Tier: Zero
 
@@ -949,7 +951,7 @@ Duskir gazed at it until it her own Governance instance analyzed it. I’m not t
     A simple and effective teacup.
 
 
-???+ info "Potion: [Roriodoan Tea] (Tea)"
+???+ governance "Potion: [Roriodoan Tea] (Tea)"
 
     Tier: Zero
 
@@ -985,7 +987,7 @@ A line of red lightning sprang from my fingers, snapping Duskir’s arms in plac
 
 My other hand sparked lightning, picking up the teacup and tipping it down her throat.
 
-???+ info "Title: [Reality Warper]"
+???+ governance "Title: [Reality Warper]"
 
     Gives the user the ability to manipulate reality. This title is unrestricted but does not draw on mana, rather the user’s soul itself. Due to the stress it puts on the soul, it effectively grows in strength as the user’s soul does. Reality manipulation includes: reshaping/repurposing matter, duplicating matter, voiding matter, conjuring matter, and more.
 
@@ -1100,8 +1102,6 @@ I dragged a hand over my face. Rosalith was equal parts annoying and enjoyable i
 
 “Absolutely no idea what you are talking about, Dan,” Bia said cheerfully.
 
-![Ari, Rosa, Dan, and Bia in the inn.](../../assets/img/illustrations/Ch2-3.png)
-
 “Okay then…” Dan said, narrowing his eyes.
 
 “Nice,” Bia said. “Now that these unfounded accusations have been cleared… We all here?”
@@ -1109,6 +1109,8 @@ I dragged a hand over my face. Rosalith was equal parts annoying and enjoyable i
 “We’re missing -”
 
 “Thanks for the cue Ari - WHERE THE FUCK IS LLOYD?!”
+
+![Ari, Rosa, Dan, and Bia in the inn.](../../assets/img/illustrations/Ch2-3.png)
 
 “Here!” A voice called as the door swung open again.
 

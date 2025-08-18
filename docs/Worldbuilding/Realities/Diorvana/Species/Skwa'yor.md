@@ -1,8 +1,10 @@
 ---
 description: Worldbuilding for COA.
+subtitles: malnutritioned upright beetles
 ---
 
 # Skwa'yor
+*malnutritioned upright beetles*
 
 ???+ warning ":octicons-pencil-16: Incomplete"
 

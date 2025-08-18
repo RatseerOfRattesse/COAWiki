@@ -62,12 +62,12 @@ Basic guide to terms used:
 
 - Peak [Kaalvalese](Realities/Kaaldenvale/index.md) adventurers: peak gold at best
 
-- Peak [Dawne Kingdom](Realities/Kaaldenvale/Locations/Rueleva/Dawne%20Kingdom/index.md) adventurers: gold is standard. Low diamond is peak.
+- Peak [Dawne Kingdom](Realities/Kaaldenvale/Geography/Rueleva/Dawne%20Kingdom/index.md) adventurers: gold is standard. Low diamond is peak.
 
 - [Aethein Cultists](Political%20Entities/Cult%20of%20the%20Aethein.md) - low diamond
 
 - [Average interdimensional force](Political%20Entities/index.md) - low diamond
 
-- [idi0cy](../Characters/Mainline%20Characters/idi0cy.md) (character) - high diamond, half folly I guess?
+- [idi0cy](../Characters/Mainline%20Characters/Idi0cy.md) (character) - high diamond, half folly I guess?
 
 - [The Narrator](../Characters/Mainline%20Characters/Narrator.md) (character) - folly

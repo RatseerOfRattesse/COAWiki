@@ -34,7 +34,7 @@ Haelborne are indoctrinated from birth, but there has been some recent contentio
 
 The Haelborne recently undertook an expedition to [Kaaldenvale](../Realities/Kaaldenvale/index.md), seeming like any other reality mining operation. However, this time they have a special mission in mind, warranting the dispatch of a [dysphorium](Dysphorium.md).
 
-They want to retrieve the Firmament Glass and use it as a divine catalyst to destroy the [Governance](../Realities/Kaaldenvale/Magic%20System/index.md), heavily weakening the [Dawne Kingdom](../Realities/Kaaldenvale/Locations/Rueleva/Dawne%20Kingdom/index.md) and open the kingdom to invasion. They need to invade the kingdom for a chance to take more of the remnant Immortal artifacts located there as well as capture the weakened Chaos for possible inside information.
+They want to retrieve the Firmament Glass and use it as a divine catalyst to destroy the [Governance](../Realities/Kaaldenvale/Magic%20System/index.md), heavily weakening the [Dawne Kingdom](../Realities/Kaaldenvale/Geography/Rueleva/Dawne%20Kingdom/index.md) and open the kingdom to invasion. They need to invade the kingdom for a chance to take more of the remnant Immortal artifacts located there as well as capture the weakened Chaos for possible inside information.
 
 However, acquiring the Glass requires [Ari](../../Characters/Mainline%20Characters/Aryon%20Hastor.md) to willingly relinquish it- which she won't, as it's a very important family heirloom that she's been warned not to give up at all costs. Given that the dysphorium couldn't intimidate her into giving up the Glass, they've got to leverage her into giving it- with hostages.
 

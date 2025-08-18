@@ -7,20 +7,34 @@ icon: material/wallpaper
 
 All pictorial art, including illustrations and other assets.
 
-## Illustrations
+<div class="grid cards" markdown>
 
-Illustrations used in the mainline and short stories.
+-   :material-wallpaper:{ .lg .middle } __REALLY PLEASE I NEED THE ACTUAL ART__
 
-[Illustrations](Illustrations.md)
+    ---
 
-## Maps
+    Illustrations used in the mainline and short stories. Most of it's here, but some more down there, I suppose.
 
-Maps for various parts of the world.
+    [:octicons-arrow-right-24: Illustrations](Illustrations.md)
 
-[Maps](Maps.md)
+</div>
 
-## Misc
+<div class="grid cards" markdown>
 
-Miscellaneous artworks.
+-   :material-wallpaper:{ .lg .middle } __Don't have mind's eye and am confused__
 
-[Misc](Misc.md)
+    ---
+
+    Maps for various parts of the world, if for some reason you needed Ari's address or something.
+
+    [:octicons-arrow-right-24: Maps](Maps.md)
+
+-   :material-wallpaper:{ .lg .middle } __anything else ???__
+
+    ---
+
+    Yeah, there's some other stuff like the random things I've used on this site. Here you are:
+
+    [:octicons-arrow-right-24: Misc](Misc.md)
+
+</div>

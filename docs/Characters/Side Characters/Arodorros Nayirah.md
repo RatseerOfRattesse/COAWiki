@@ -14,6 +14,8 @@ description: Character sheet for Arodorros Nayirah of COA.
 
 ## Basic Information
 
+Species: Fae
+
 Age: 
 
 Birthplace: Aethereanil

@@ -12,7 +12,11 @@ description: Character sheet for Aryon Hastor of COA.
 
 # Biaphon Hastor
 
+![Portrait of Bia](../../assets/img/portraits/bia.png)
+
 ## Basic Information
+
+Species: Fae
 
 Age: 20
 
@@ -21,6 +25,8 @@ Birthplace: Aethereanil
 Home: 21 Second Ring, Javenshard, Province Haequar, Haelcrien.
 
 Occupation: Adventurer - weekly income ~2000 hc.
+
+Aliases: Bia
 
 ## Abilities
 
@@ -35,7 +41,7 @@ Abilities: Fel Scythe, Sanguine Blades, Sanguine Retribution
 ## Character
 ### Personality
 
-Unexpected and jovial, always laughing and joking. Gets concerned very easily and often anxious but knows how to hide it.
+Unexpected and jovial, always laughing and joking. Gets concerned very easily and often anxious but knows how to hide it. Smart and empathetic, but sometimes irrationally quick to trust. A large lack of cynicism.
 
 ### Internal Conflict
 

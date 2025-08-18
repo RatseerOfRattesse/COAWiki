@@ -1,18 +1,14 @@
 ---
 description: Worldbuilding for COA
-subtitle: absolutely totally just a random universe with no significance
+subtitle: it doesn't really matter, but REALISM
 ---
 
-# Fae
-*absolutely totally just a random universe with no significance*
+# Measurements
+*it doesn't really matter, but REALISM*
 
 ???+ warning ":octicons-pencil-16: Incomplete"
 
     Article is missing information.
-
-???+ warning ":fontawesome-solid-file-circle-exclamation: Spoiler"
-
-    Article contains spoilers: Full Series
 
 Kaaldenvale has twelve day weeks, named simply as such: Firsday, Seconday, Thirday, Fourthday, Fifthday, Sixthday, Seventhday, Eighthday, Ninthday, Tenthday, Eleventhday, Twelfthday.
 

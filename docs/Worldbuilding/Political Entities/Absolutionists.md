@@ -21,7 +21,7 @@ They're rumoured to worship some sort of [Immortal](../The%20Cosmos/Firmament%20
 
 The leading theory, with a few supporting details from Absolutionists themselves, is that they seek to redeem mortals as a whole. They believe mortals unfit for this existence crafted by the Immortals — or perhaps that Immortal adjacent figure they worship — and want purification for all of the cosmos. Because of this and the alarmingly high power levels of their people, the [Amirlithic Union](Amirlithic%20Union.md) keeps a tight watch on them.
 
-In reality, the Absolutionists were founded by a mysterious figure now referred to as the Emperor. This figure was a remnant of the [Precursors](../The%20Cosmos/Precusors.md), having survived the catastrophe by putting themselves into an artificial stasis. Awaking to a new world, they used their remaining Precursor resources to establish the Absolutionists, in hope of restoring the cosmos to its former pre-Immortal glory.
+In reality, the Absolutionists were founded by a mysterious figure now referred to as the Emperor. This figure was a remnant of the [Precursors](../The%20Cosmos/Precursors.md), having survived the catastrophe by putting themselves into an artificial stasis. Awaking to a new world, they used their remaining Precursor resources to establish the Absolutionists, in hope of restoring the cosmos to its former pre-Immortal glory.
 
 This, however, is a tightly kept secret, even amongst their civilians. Most of their population believes that they worship and hope to return to the days of the [Elder Immortals](../The%20Cosmos/Firmament%20Theory/Metaphysical%20Beings.md#the-elder-immortals).
 

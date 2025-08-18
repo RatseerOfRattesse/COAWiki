@@ -1,8 +1,10 @@
 ---
 description: Overarching plot of COA.
+subtitle: suffering builds character
 ---
 
 # Overarching Plot
+*suffering builds character*
 
 ???+ warning ":fontawesome-solid-file-circle-exclamation: Spoilers"
 
@@ -12,7 +14,7 @@ description: Overarching plot of COA.
 
     Article is missing information.
 
-"But sometimes when the world tries to bend you, you have to stand straight until one of you breaks.” – Jason Asano, He Who Fights With Monsters
+*"In the pursuit of great, we failed to do good.” – Viktor, Arcane*
 
 ## Arc I: [The Eorwin Arc]
 

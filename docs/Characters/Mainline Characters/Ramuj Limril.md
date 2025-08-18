@@ -12,7 +12,11 @@ description: Character sheet for Ramuj Limril of COA.
 
 # Ramuj Limril
 
+![Portrait of Ramuj](../../assets/img/portraits/ramuj.png)
+
 ## Basic Information
+
+Species: Fae
 
 Age: 20
 
@@ -21,6 +25,8 @@ Birthplace: Edenthein, Deliria Isles
 Home: Edenthein, Deliria Isles
 
 Occupation: Scholar
+
+Aliases: 
 
 ## Abilities
 

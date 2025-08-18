@@ -13,10 +13,25 @@ Housed here is all the art done for COA.
 
 Writing here come in two categories:
 
-- :material-wallpaper: Gallery
-- All pictorial art, including illustrations and other assets.
-- :material-typewriter: Scripts
-- I do animation every so often and occasionally I will write scripts for larger animations which I will inevitably never finish.
+<div class="grid cards" markdown>
+
+-   :material-wallpaper:{ .lg .middle } __OKAY NO MORE BS WHERES THE ART__
+
+    ---
+
+    All pictorial art, including illustrations and other assets. Don't know why'd you'd want more of this, but sure.
+
+    [:octicons-arrow-right-24: Gallery](Gallery/index.md)
+
+-   :material-typewriter:{ .lg .middle } __can i has more nerdy stuff__
+
+    ---
+
+    Occasionally I will write scripts for larger animations which I will inevitably never finish. Here they are:
+
+    [:octicons-arrow-right-24: Scripts](Scripts/index.md)
+
+</div>
 
 ### Tags
 

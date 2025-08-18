@@ -12,7 +12,11 @@ description: Character sheet for Aryon Hastor of COA.
 
 # Aryon Hastor
 
+![Portrait of Ari](../../assets/img/portraits/ari.png)
+
 ## Basic Information
+
+Species: Fae
 
 Age: 18
 
@@ -22,12 +26,14 @@ Home: 21 Second Ring, Javenshard, Province Haequar, Haelcrien.
 
 Occupation: Adventurer - weekly income ~2000 hc.
 
+Aliases: Ari, the Aethein
+
 ## Abilities
 
 Magic System: Governance
 
 Specialization: Knowledge + Willpower + Equilibrium + Reality → [Balancebringer]
-
+s
 Tier: 7
 
 Abilities: Rain of Light, Shattersweep Shield, Voidburst Blade, Voidburst Greatsword, Voiding Vortex, Wings of Equilibrium
@@ -35,7 +41,7 @@ Abilities: Rain of Light, Shattersweep Shield, Voidburst Blade, Voidburst Greats
 ## Character
 ### Personality
 
-Sometimes acts mentally unstable but is quite stoic and no-nonsense whenever things get just a teeny bit serious. Internally utilitarian.
+Sometimes acts mentally unstable but is quite stoic and no-nonsense whenever things get just a teeny bit serious. Internally utilitarian. Peaked in high school.
 
 ### Internal Conflict
 

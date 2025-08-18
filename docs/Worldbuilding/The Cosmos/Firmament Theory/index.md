@@ -10,6 +10,86 @@ subtitle: mind the gap of the absolute nothingness
 
     Article contains spoilers: Full Series
 
+<div class="grid cards" markdown>
+
+-   __Wow, this looks really complicated...__
+
+    ---
+
+    Don't worry, we can start with the least complicated stuff. Just scroll right down through this article!
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   __What does aura mean now...__
+
+    ---
+
+    Oh, it's totally different than any other interpretation, of course. Totally. Ritual circles? Nah, I invented those.
+
+    [:octicons-arrow-right-24: Aura Mechanics](Aura%20Mechanics.md)
+
+
+-   __The heck is a narrative stack?__
+
+    ---
+
+    Oh, you poor uneducated fellow. Anyway, this is my excuse for canonizing the entire *plot hole* part of the series.
+
+    [:octicons-arrow-right-24: Authority](Authority.md)
+
+-   __People keep griefing my house!__
+
+    ---
+
+    Don't worry, all you have to do is sell your soul/experience large amounts of trauma and ALSO study magic theory...
+
+    [:octicons-arrow-right-24: Domains](Domains.md)
+
+-   __What's the meaing of life?__
+
+    ---
+
+    To be a cog in an ever-churning machine. You are entertainment. You won't become *anything*. Not in this Living Cosmos.
+
+    [:octicons-arrow-right-24: Living Cosmos](Living%20Cosmos.md)
+
+-   __Who are the idiots I worship?__
+
+    ---
+
+    Well, we don't really have gods here. Not in the traditional sense, though they'll certainly pretend so...
+
+    [:octicons-arrow-right-24: Metaphysical Beings](Metaphysical%20Beings.md)
+
+
+-   __What's an aurasphere__
+
+    ---
+
+    METASPHERE. That would make a cool game title, actually. Anyway, it's just the local second layer of reality.
+
+    [:octicons-arrow-right-24: Metasphere](Metasphere.md)
+
+-   __Lazy power scaling bandage?__
+
+    ---
+
+    Reality bending! Spooky kooky red lightning powered by Authority (AKA yours truly). Looks cool and works well.
+
+    [:octicons-arrow-right-24: Reality Bending](Reality%20Bending.md)
+
+-   __You're not a crystal guy are you?__
+
+    ---
+
+    Nah, none of that. Anyway, let me tell you about the soul! Everlasting contracts to get trapped and get trapped in.
+
+    [:octicons-arrow-right-24: Souls](Souls.md)
+
+</div>
+
 ## The Cosmic Model
 
 The model of the cosmos is, in the simplest terms, a lattice of realities suspended above [the Void](#voidspace). This lattice is widely referred to as the Firmament. This is not a completely accurate model, but is used for entry level education about firmamental structure. The lattice has variable distances and is three dimensional, with realities existing on multiple layers.

@@ -14,7 +14,7 @@ subtitle: i am become ponder, destroyer of logic
 The concept of a narrative stack is that each world is a fictional narrative in a higher world in the narrative stack, and creates more worlds lower down in the narrative stack in the forms of fiction.
 
 ## Authority
-Authority, in universe, is a form of metaphysical energy, granting the ability to affect the narrative. To write the canon, or to influence it. I have the ultimate Authority, being the Narrator in story and the creator of the series. [idi0cy](../../../Characters/Mainline%20Characters/idi0cy.md) also has a bunch of Authority, as he canonically exists inside COA and is my ideas man. So do my other friends.
+Authority, in universe, is a form of metaphysical energy, granting the ability to affect the narrative. To write the canon, or to influence it. I have the ultimate Authority, being the Narrator in story and the creator of the series. [idi0cy](../../../Characters/Mainline%20Characters/Idi0cy.md) also has a bunch of Authority, as he canonically exists inside COA and is my ideas man. So do my other friends.
 
 Characters within the story can also obtain Authority, of a much lesser quality. This lesser Authority is simply there because they are interacting with the canon. They may spend that Authority to achieve [reality-bending](Reality%20Bending.md). The amount of lesser Authority an action costs is based on how much it affects the narrative. If you do something but that won’t end up changing the narrative, it will take only a minuscule amount of Authority, even if you’re moving a planet.
 

@@ -1,10 +1,10 @@
 ---
 description: Worldbuilding for COA.
-subtitle: 
+subtitle: even spookier religious extremists
 ---
 
 # Church of the Six Deities
-**
+*even spookier religious extremists*
 
 ???+ warning ":octicons-pencil-16: Incomplete"
 

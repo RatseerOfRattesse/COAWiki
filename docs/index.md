@@ -17,7 +17,55 @@ A fun little passion project starring Aryon Hastor, who wants nothing but to mai
 
 While Ari's fucking around on Kaaldenvale, the multiverse is experiencing some wacky problems. The Great Immortals haven't answered any prayers in a century, and the churches are being increasingly offensively dogmatic. Meanwhile, the previously dormant spooky shadow demon population are out on the prowl! They're crawling through your voidways, creeping through your backyards, and scrounging through your organs, and nobody has a fucking clue where they came from. What a century, aye?
 
-Read here: [Chronicles of the Aethein](Story/index.md)
+Start here with these neat little categories. Or alternatively, make use of those neurons and look at the great big tabs on the top.
+
+<div class="grid cards" markdown>
+
+-   :fontawesome-solid-book:{ .lg .middle } __BUT WHERE IS THE STORY?????__
+
+    ---
+
+    Please. Learn to read. (This isn't unfinished at all :D)
+
+    [:octicons-arrow-right-24: Book I: Advent of the Haelborne](Story/Mainline%20Story/Advent%20of%20the%20Haelborne.md)
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-palette:{ .lg .middle } __WHERE *insert platform* I NEED MORE ART__
+
+    ---
+
+    Well, you can find all the sauce down here.
+
+    [:octicons-arrow-right-24: Art](Art/index.md)
+
+-   :material-head-cog:{ .lg .middle } __Who are these idiots I'm reading about?__
+
+    ---
+
+    All here. Just don't call the short one alibaba.
+
+    [:octicons-arrow-right-24: Characters](Characters/index.md)
+
+-   :material-vector-triangle:{ .lg .middle } __I'm too lazy to read, write me a synopsis__
+
+    ---
+
+    You're boring. But I'd do the same thing, whatever.
+
+    [:octicons-arrow-right-24: Plot](Plot/index.md)
+
+-   :material-scale-unbalanced:{ .lg .middle } __Wait but how does this random thing work__
+
+    ---
+
+    With a lot of unsound logic and duct tape! Documented right here.
+
+    [:octicons-arrow-right-24: Worldbuilding](Worldbuilding/index.md)
+
+</div>
 
 ## Wiki Conventions
 
@@ -68,20 +116,28 @@ Wiki articles will have various warnings at their heads:
 
 ## Changelog
 
-### August 2nd 2025 
-*suffering builds character*
+### August 18th 2025 
+*obnoxious amounts of flavour text*
 
 - Changed changelog update format
-- Reformatted character index
-- Added page for Krath
-- Did some writing on AOH, finally
-- AHAHAHAHHA IM ON A ROLL WIHT THE THEMESSSSSSSSSSSS
-- Added the Themes page
-- Added to Ari and Bia’s characters
-- Changed epigraphs in overarching plot and AOH
-- Clarified fae beliefs about the afterlife and their scientific ability in the Kaaldenvale article.
-- Changed one sentence in Ch2
-- There are now canonically six to twelve hells in fae religion (Kaaldenvale article)
+- Reformatted [character index](Characters/index.md) and added portraits to all the main characters. These may now be found in [art gallery as well under misc](Art/Gallery/Misc.md).
+- [Misc art section](Art/Gallery/Misc.md) description fixed
+- Updated [AOH](Story/Mainline%20Story/Advent%20of%20the%20Haelborne.md) cover
+- Some sass in the main page :P
+- Added character portraits to each of their pages
+- Filled in [Krath's page](Characters/Mainline%20Characters/Krath%20Isarlith.md)
+- Changed the 'magic system' on [idi0cy](Characters/Mainline%20Characters/Idi0cy.md) and [Narrator](Characters/Mainline%20Characters/Narrator.md)'s page to 'Authority'
+- AHAHAHAHHA IM ON A ROLL WIHT THE THEMESSSSSSSSSSSS (sober rat here: i added a [themes page](Plot/Themes.md))
+- Added aliases and species to the character sheets
+- Moved [Duskir](Characters/Side%20Characters/Duskir%20Hastor.md) and [Faelorn](Characters/Side%20Characters/Faelorn%20Hastor.md) to side characters
+- Added subtitle to [overarching plot](Plot/Overarching%20Plot.md)
+- Changed epigraphs in [overarching plot](Plot/Overarching%20Plot.md) and [AOH](Story/Mainline%20Story/Advent%20of%20the%20Haelborne.md)
+  - Clarified fae [religion](Worldbuilding/Realities/Kaaldenvale/Culture/Religion.md) and their [technology level](Worldbuilding/Realities/Kaaldenvale/Culture/Technology.md).
+- Changed a few sentences in [AOH](Story/Mainline%20Story/Advent%20of%20the%20Haelborne.md)
+- Renamed locations to geography
+- Added a custom admonition type and font for governance entries
+- Implemented grid cards in most of the index pages. There's now an obnoxious amount of flavour text.
+- Changed all the subtitles in sub articles in the reality categories (that had actual content behind it)
 
 ### July 4th
 *funny plugins*

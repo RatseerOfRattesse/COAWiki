@@ -17,6 +17,6 @@ The magic system manifests as the Governance. It bestows itself upon all native 
 
 The fundamental purpose of the Governance is to aid the locals against any incoming dimensional forces, giving them a fighting chance against anything that would bother coming after the hiding Chaos.
 
-The Governance is rooted at a sentient core built on an island in [Aunper](../Locations/Aunper/index.md). Despite the intent of making the Governance artificial, orderly, and perfect, the Chaos could not go against its nature. Below the shiny screens and complex mechanics, the Governance’s sentience allows it to make conscious decisions to aid or deter characters.
+The Governance is rooted at a sentient core built on an island in [Aunper](../Geography/Aunper/index.md). Despite the intent of making the Governance artificial, orderly, and perfect, the Chaos could not go against its nature. Below the shiny screens and complex mechanics, the Governance’s sentience allows it to make conscious decisions to aid or deter characters.
 
 The magic system is referred to by the denizens of Kaaldenvale by various names, the most common being simply, “the Governance.” Other names for the Governance include “the Script,” “the System,” and other similarly generic LitRPG system names.

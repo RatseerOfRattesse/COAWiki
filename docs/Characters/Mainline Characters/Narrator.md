@@ -10,21 +10,27 @@ description: Character sheet for idi0cy of COA.
 
     Article is missing information.
 
-# idi0cy
+# Narrator
+
+![Portrait of Narrator](../../assets/img/portraits/narrator.png)
 
 ## Basic Information
+
+Species: null
 
 Age: null
 
 Birthplace: null 
 
-Home: 
+Home: null
 
-Occupation: 
+Occupation: null
+
+Aliases: Rat, the Scribe in Yellow
 
 ## Abilities
 
-Magic System: Narrator
+Magic System: Authority
 
 Specialization: null
 
