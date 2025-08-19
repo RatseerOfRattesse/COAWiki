@@ -33,6 +33,6 @@ The Shwombosian Ruins are ancient ruins of prophecy-writers and oracles, manipul
 
     Sol Varuhn.
 
-    [:octicons-arrow-right-24: Sol Varuhn](Sol%20Varuhn/index.md)
+    [:octicons-arrow-right-24: Sol Varuhn](Sol%20Varuhn.md)
 
 </div>
