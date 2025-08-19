@@ -24,6 +24,7 @@ theme:
   icon:
     repo: fontawesome/brands/git-alt
   features:
+    - announce.dismiss
     - navigation.footer
     - navigation.instant
     - navigation.instant.preview

@@ -116,9 +116,8 @@ Wiki articles will have various warnings at their heads:
 
 ## Changelog
 
-### August 18th 2025 
+### 0.5 August 18th 2025
 *obnoxious amounts of flavour text*
-
 - Changed changelog update format
 - Reformatted [character index](Characters/index.md) and added portraits to all the main characters. These may now be found in [art gallery as well under misc](Art/Gallery/Misc.md).
 - [Misc art section](Art/Gallery/Misc.md) description fixed
@@ -139,7 +138,7 @@ Wiki articles will have various warnings at their heads:
 - Implemented grid cards in most of the index pages. There's now an obnoxious amount of flavour text.
 - Changed all the subtitles in sub articles in the reality categories (that had actual content behind it)
 
-### July 4th
+### 0.4 July 4th 2025
 *funny plugins*
 
 - Added a ton of plugins that I probably won't use
@@ -151,7 +150,7 @@ Wiki articles will have various warnings at their heads:
 - Added interdimensional law and personal power dynamics to [Interdimensional Society](Worldbuilding/Political%20Entities/Interdimensional%20Society.md)
 - Talked about various weaponry in [Aura Mechanics](Worldbuilding/The%20Cosmos/Firmament%20Theory/Aura%20Mechanics.md)
 
-### July 3rd
+### 0.3 July 3rd 2025
 *READ BLINDSIGHT ITS SO GOOD*
 
 - Compiled everything I did while off in China
@@ -178,7 +177,7 @@ Wiki articles will have various warnings at their heads:
 - Added [Reality Bending](Worldbuilding/The%20Cosmos/Firmament%20Theory/Reality%20Bending.md)
 
 
-### June 16-17th
+### 0.2 June 16-17th 2025
 *Existential Bullshit :D*
 
 - Added links to [the Cosmos](Worldbuilding/The%20Cosmos/index.md)
