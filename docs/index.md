@@ -118,6 +118,7 @@ Wiki articles will have various warnings at their heads:
 
 ### 0.5 August 18th 2025
 *obnoxious amounts of flavour text*
+
 - Changed changelog update format
 - Reformatted [character index](Characters/index.md) and added portraits to all the main characters. These may now be found in [art gallery as well under misc](Art/Gallery/Misc.md).
 - [Misc art section](Art/Gallery/Misc.md) description fixed
