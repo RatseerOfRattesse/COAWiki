@@ -5,7 +5,7 @@ icon: fontawesome/solid/house
 
 # Chronicles of the Aethein
 
-*A high fantasy LitRPG book series illustrated and written by RatseerOfRattesse*
+*A high fantasy LitRPG book series illustrated and written by [RatseerOfRattesse](https://ratseerofrattesse.github.io)*
 
 ![Ari stares nobly off into the distance](assets/img/misc/banner.png)
 
@@ -155,7 +155,7 @@ Wiki articles will have various warnings at their heads:
 *READ BLINDSIGHT ITS SO GOOD*
 
 - Compiled everything I did while off in China
-- Changed css for lists so that they look prettier
+- Changed CSS for lists so that they look prettier
 - Changed subtitle of, added links to, and added [Metasphere and Physisphere](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metasphere.md/#metasphere-and-physisphere) section to the [Metasphere](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metasphere.md)
 - Revised [The Governance](Worldbuilding/Realities/Kaaldenvale/Magic%20System/index.md)
     - Edited, changed subtitle of, removed incomplete warning, and added links to [The Governance](Worldbuilding/Realities/Kaaldenvale/Magic%20System/index.md)
