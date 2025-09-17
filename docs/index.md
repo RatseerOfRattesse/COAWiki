@@ -102,19 +102,37 @@ Wiki articles will have various warnings at their heads:
 
 ### Inspiration
 
-- [He Who Fights With Monsters](https://hewhofightswithmonsters.com) by Shirtaloon
-- Deicidium by idi0cy.inc
-- [Murder Drones](https://www.youtube.com/playlist?list=PLHovnlOusNLiJz3sm0d5i2Evwa2LDLdrg), [Black Dogs](https://www.youtube.com/playlist?list=PLRY5gdjkXM_sMchcqhmkw_i0H16le47qe), [C-2 Strain](https://static.wikia.nocookie.net/sstwl-scary-story-time-with-liam/images/f/fc/LiamVickers_C-2_Strain_v38.pdf/revision/latest?cb=20190224212134&format=original), and [PuppetGame](https://www.youtube.com/playlist?list=PLRY5gdjkXM_vzKED1giNFEZNroZblFm5-) by Liam Vickers
-- [Autodale](https://www.youtube.com/playlist?list=PLZ5VEKOKH8PCjZJYvjlinBtjjmKV_-dk1) by Dead Sound
-- [Blindsight](https://www.goodreads.com/book/show/48484.Blindsight) by Peter Watts
-- [Tales from the Loop](https://www.goodreads.com/book/show/27404461-tales-from-the-loop) and [The Labyrinth](https://www.goodreads.com/book/show/55818839-the-labyrinth) by Simon Stalenhag
-- [Songs of War S1-3](https://archive.org/details/copy-of-songs-of-war-screenplay) by Arbiter617
-- [Arcane](https://www.netflix.com/ca/title/81435684) by Christian Linke and Alex Yee
-- [The Debt Collection](https://www.andrewgivler.com/books) by Andrew Givler
-- [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by Andy Weir
+- [He Who Fights With Monsters](https://hewhofightswithmonsters.com) by Shirtaloon (Cosmology, the Governance, Aura Mechanics. Basically the whole magic system.)
+- Deicidium by idi0cy.inc (Cosmology and the Narrative Stack (though most of that was me))
+- [Murder Drones](https://www.youtube.com/playlist?list=PLHovnlOusNLiJz3sm0d5i2Evwa2LDLdrg), [Black Dogs](https://www.youtube.com/playlist?list=PLRY5gdjkXM_sMchcqhmkw_i0H16le47qe), [C-2 Strain](https://static.wikia.nocookie.net/sstwl-scary-story-time-with-liam/images/f/fc/LiamVickers_C-2_Strain_v38.pdf/revision/latest?cb=20190224212134&format=original), and [PuppetGame](https://www.youtube.com/playlist?list=PLRY5gdjkXM_vzKED1giNFEZNroZblFm5-) by Liam Vickers (Pure fuckin VIBES. Because that’s all Liam does. Depth is for losers!)
+- [Autodale](https://www.youtube.com/playlist?list=PLZ5VEKOKH8PCjZJYvjlinBtjjmKV_-dk1) by Dead Sound (Diorvana totally isn’t just a copy of this.)
+- [Blindsight](https://www.goodreads.com/book/show/48484.Blindsight) by Peter Watts (THE LIVING COSMOS AHAHAHAHHAHAHA)
+- [Tales from the Loop](https://www.goodreads.com/book/show/27404461-tales-from-the-loop) and [The Labyrinth](https://www.goodreads.com/book/show/55818839-the-labyrinth) by Simon Stalenhag (Visual design! I love this guy’s stuff)
+- [Songs of War S1-3](https://archive.org/details/copy-of-songs-of-war-screenplay) by Arbiter617 (WHEN SEASON TWO GIVE ME SEASON TWO I NEED SEASON TWO)
+- Arcane by Christian Linke and Alex Yee (Holy shit the thematic and character writing here is GORGEOUS. And the art style too!!!!!!)
+- [The Debt Collection](https://www.andrewgivler.com/books) by Andrew Givler (Guy has to run from bureaucratic death system?? Hell yeah.)
+- Project Hail Mary by Andy Weir (Um, science logic I guess. I don’t know.)
 - [Drehmal](https://drehmal.net) by Keeko100 and Rift
+- [Democritus’ Soul Atoms](https://en.wikipedia.org/wiki/Democritus#Atomism) (Yo, but like, you gotta go pray to Athena dude.)
+- [Ex1urbia Videos](https://www.youtube.com/@Exurb1a/featured) (Cosmology. Also go watch Losing You it’s so fuckin’ good.)
+- Diary of an 8-Bit Warrior – Erik Gunnar Taylor (This is what got me writing okay? Deal with it. Also I might have gotten his name wrong :/)
+- Harry Potter – J.K. Rowling (Also got me into writing ig)
+- [Songs of War Rewrites](https://www.youtube.com/playlist?list=PLuDaT4umvN1jPL693cRn1JzWxPXP3LanU) – CK Voltaris (The character writing here would be so shit without this stuff)
+- [Schnee Videos](https://www.youtube.com/@schnee1) - (And this guy! Holy fucking shit how is he so good)
+- [Charter](https://modrinth.com/mod/charter) – Arathain (Yes, the Minecraft mod. From Content SMP. I like the holy vibes :P)
+- [The Gaslight District](https://www.youtube.com/playlist?list=PLHovnlOusNLh-GwfwRFMZ4oz5BC-t9XN-) – PartTimeSeagull (The Vibes, the visual design, it’s glorious.)
 
 ## Changelog
+
+### 0.6 September 16th 2025
+*why does everything here start with c*
+- Moved Interdimensional Society out of the political entities folder and into the cosmos. Added appropriate grid card to The Cosmos index. Existing card in the Political Entities index is still there.
+- Added the [Chronosphere](Worldbuilding/The%20Cosmos/Firmament%20Theory/Chronosphere.md) article
+- Added the [Cosmic Combat](Worldbuilding/The%20Cosmos/Cosmic%20Combat.md) article. Weapons described in [Aura Mechanics](Worldbuilding/The%20Cosmos/Firmament%20Theory/Aura%20Mechanics.md) have also been moved there.
+- Added [Communications Tech](Worldbuilding/The%20Cosmos/Communication%20Tech.md) article.
+- Updated inspirations list, now describes what I got from each and has way more than before
+- Specified what happened to the Elder Immortals in [Metaphysical Beings](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metaphysical%20Beings.md)
+- Edited the [Cosmic Model](Worldbuilding/The%20Cosmos/Firmament%20Theory/index.md#the-cosmic-model), clarified some things in [Dimensional Transgression](Worldbuilding/The%20Cosmos/Firmament%20Theory/index.md#dimensional-transgression) and [Voidspace](Worldbuilding/The%20Cosmos/Firmament%20Theory/index.md#voidspace)
 
 ### 0.5 August 18th 2025
 *obnoxious amounts of flavour text*
@@ -148,7 +166,7 @@ Wiki articles will have various warnings at their heads:
 - Added links to [power scaling](Worldbuilding/Power%20Scaling.md)
 - Revised [Haelborne](Worldbuilding/Political%20Entities/Haelborne.md)
 - Added reality mining to [Firmament Theory](Worldbuilding/The%20Cosmos/Firmament%20Theory/index.md)
-- Added interdimensional law and personal power dynamics to [Interdimensional Society](Worldbuilding/Political%20Entities/Interdimensional%20Society.md)
+- Added interdimensional law and personal power dynamics to [Interdimensional Society](Worldbuilding/The%20Cosmos/Interdimensional%20Society.md)
 - Talked about various weaponry in [Aura Mechanics](Worldbuilding/The%20Cosmos/Firmament%20Theory/Aura%20Mechanics.md)
 
 ### 0.3 July 3rd 2025
@@ -174,7 +192,7 @@ Wiki articles will have various warnings at their heads:
     - Explained what transcendence truly is and why mortals nearly always fail to attain it in [Metaphysical Beings](Worldbuilding/The%20Cosmos/Firmament%20Theory/Metaphysical%20Beings.md#transcendence)
 - Added an incomplete warning to [Plot](Plot/index.md)
 - Explained why the [Verion](Worldbuilding/Political%20Entities/Verion.md) are so warlike
-- Clarified government types of interdimensional factions in [Interdimensional Society](Worldbuilding/Political%20Entities/Interdimensional%20Society.md)
+- Clarified government types of interdimensional factions in [Interdimensional Society](Worldbuilding/The%20Cosmos/Interdimensional%20Society.md)
 - Added [Reality Bending](Worldbuilding/The%20Cosmos/Firmament%20Theory/Reality%20Bending.md)
 
 

@@ -19,7 +19,7 @@ This section contains a list of all political entities on a cosmic scale. To vie
 
     With duct tape. It's duct tape. Always has been. More details can be found here!
 
-    [:octicons-arrow-right-24: Interdimensional Society](Interdimensional%20Society.md)
+    [:octicons-arrow-right-24: Interdimensional Society](../The%20Cosmos/Interdimensional%20Society.md)
 </div>
 
 <div class="grid cards" markdown>

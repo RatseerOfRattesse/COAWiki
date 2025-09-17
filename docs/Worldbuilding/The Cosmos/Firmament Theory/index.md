@@ -92,11 +92,11 @@ subtitle: mind the gap of the absolute nothingness
 
 ## The Cosmic Model
 
-The model of the cosmos is, in the simplest terms, a lattice of realities suspended above [the Void](#voidspace). This lattice is widely referred to as the Firmament. This is not a completely accurate model, but is used for entry level education about firmamental structure. The lattice has variable distances and is three dimensional, with realities existing on multiple layers.
+The model of the cosmos is, in the simplest terms, a lattice of realities suspended above [the Void](#voidspace) in the metasphere. This lattice is widely referred to as the Firmament. This is not a completely accurate model, but is used for entry level education about firmamental structure. The lattice has variable distances and is three dimensional, with realities existing on multiple layers.
 
 If a reality is destabilized, you can think of it as a part of the lattice having a mass imbalance. This will cause the reality to tilt or shudder on its perch in the lattice, and with enough disturbance, it could tumble out of the lattice entirely and be devoured by the Void. Reality collapse will damage the nearby lattice, and could possibly cause a chain reaction that affects the cosmos as a whole. These worse case scenarios are unlikely but still possible. Therefore, reality mining operations have always been extremely measured and careful.
 
-Firmament lattice is mainly composed of the supports - the long bars that connect realities together. At these connection points rest nodes that uphold the actual realities. Using dimensional vessels, people have attempted to chip at the firmament, but it proves utterly indestructible.
+Firmament lattice is mainly composed of the supports - the long bars that connect realities together. At these connection points rest nodes that uphold the actual realities. Using dimensional vessels, people have attempted to chip at the firmament, but it proves utterly indestructible to any force but nearby reality collapse.
 
 [Dimensional vessels](#dimensional-transgression) are much like realities: pockets of physical reality, but independent of the lattice. They may travel freely throughout the lattice structures, but must maintain that they don’t fall into the Void. Dimensional vessels are kept above the Void by propelling themselves upward with [aura](Aura%20Mechanics.md), and if that fails, they will quickly succumb to the Void.
 
@@ -113,6 +113,7 @@ An older method uses aura rituals to create a portal. This is costly, one-use, a
 An easier way to travel between realities is through a dimensional vessel. These can be any shape, seeing as travelling through purely spiritual space doesn’t exactly involve aerodynamics.
 
 Dimensional vessel technology works by creating a temporary physical reality for the duration of the trip through the metaphorical “distance” in the void between worlds. It’s far more stable than any other method of dimensional intrusion. Due to the nature of the Void, to view the Void with mortal eyes is a death sentence. Because of this, dimensional vessels do not have windows.
+Dimensional vessels typically travel along firmament supports to move between realities, despite their ability to move through empty metaspace. This simplifies navigation due to travelling along established paths. Highly travelled supports are called voidways and often have stationary dimensional vessels as rest stops for those with less luxurious vehicles.
 
 Dimensional vessels are sometimes adapted to create pseudo-realities. Interdimensional societies employ these as Void bases. These can often reach titanic sizes, notable instances including the Void cities of the [Architects](../../Political%20Entities/Architects.md), the universe-sized artificial [Amirlith](../../Political%20Entities/Amirlithic%20Union.md), and the [Haelborne's](../../Political%20Entities/Haelborne.md) [Holy City of Rattesse](../../Political%20Entities/Haelborne.md#territory).
 
@@ -120,7 +121,7 @@ Before the invention of dimensional portals and vessels, some older methods were
 
 It's difficult to make different dimensional vessels interact with each other inside the Void. Because of this, many vessels have functions that allow them to conjoin their pseudo-realities with other pseudo-realities. Usually this requires consent from both sides as the mechanics are made far more difficult without access to both realities, but some recently developed military ships are capable of doing this on just one side. This poses possible consequences for the future of dimensional warfare and reality augmentation.
 
-The only way to make separate dimensional vessels interface with each other from different realities is to pack enough of them dense enough so that their forms in metaphysical space are touching. This creates a blockage in metaphysical space.
+The only way to make separate dimensional vessels interface with each other from different realities is to pack enough of them dense enough so that their forms in metaphysical space are touching. This creates a blockage in metaphysical space. After discovering this, metavessels have begun to employ metaphysical barrier projectors: machines that extend the ship’s metaphysical form without extending its physical form.
 
 ## Reality Composition
 
@@ -152,10 +153,12 @@ Some groups have taken to harvesting firmamental material out of realities. This
 
 Reality mining requires many [rituals and aura machines](Aura%20Mechanics.md) to be arranged in exorbitant precision, lest you lose your crystals and your head. Some groups such as the Haelborne have successfully created reality mining machines that can do this automatically. Distribution of these machines is highly monitored as reality mining is looked down upon by most of interdimensional society due to its destructive effects.
 
-The Amirlithic Union has to the best of its ability banned reality mining within its sectors, and many other groups have followed suit. There are even rumours of secretive Amirlithic taskforces hunting through wild voidspace for reality miners – not entirely legal according to the [Void Wilds Pact](../../Political%20Entities/Interdimensional%20Society.md#void-wilds-pact), but not something that would crop up in anything other than the most pedantic and rule venerating of courts.
+The Amirlithic Union has to the best of its ability banned reality mining within its sectors, and many other groups have followed suit. There are even rumours of secretive Amirlithic taskforces hunting through wild voidspace for reality miners – not entirely legal according to the [Void Wilds Pact](../../The%20Cosmos/Interdimensional%20Society.md#void-wilds-pact), but not something that would crop up in anything other than the most pedantic and rule venerating of courts.
 
 ## Voidspace
 
 The Void is the home of metaphysical beings (non-mortals) and is a metaphysical space in which physical matter can’t exist. The Void is the space between realities (though it’s not a space as a mortal being would see it). It doesn’t have geography like a physical space, and the form of location it does have is incomprehensible to a mortal being.
+
+Due to its metaphysical form, viewing it can cause significant damage to physical matter. It is safe to view from within firmamental supports and nodes, however, as the firmamental energies shield matter from its power.
 
 The Void does not have geography, or at least as mortals know it. Distance and time do not function here; those are physical things. However, for the sake of being able to understand the Void, we still use them as placeholders. The Void (or at least the documented part) is divided into seven uneven regions, one each for the six most prominent interdimensional organizations and multiple small neutral regions for realities that have not yet entered the greater cosmos. There are also smaller territories controlled by fringe organizations such as the [Cult of the Aethein](../../Political%20Entities/Cult%20of%20the%20Aethein.md).
