@@ -126,6 +126,7 @@ Wiki articles will have various warnings at their heads:
 
 ### 0.6 September 16th 2025
 *why does everything here start with c*
+
 - Moved Interdimensional Society out of the political entities folder and into the cosmos. Added appropriate grid card to The Cosmos index. Existing card in the Political Entities index is still there.
 - Added the [Chronosphere](Worldbuilding/The%20Cosmos/Firmament%20Theory/Chronosphere.md) article
 - Added the [Cosmic Combat](Worldbuilding/The%20Cosmos/Cosmic%20Combat.md) article. Weapons described in [Aura Mechanics](Worldbuilding/The%20Cosmos/Firmament%20Theory/Aura%20Mechanics.md) have also been moved there.
