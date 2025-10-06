@@ -1,9 +1,9 @@
 ---
 description: Worldbuilding for COA.
-subtitle: 'no epic combat in space' fuck off
+subtitle: \'no epic combat in space\' fuck off
 ---
 
-# Interdimensional Society
+# Cosmic Combat
 *'no epic combat in space' fuck off*
 
 ???+ warning ":fontawesome-solid-file-circle-exclamation: Spoiler"
