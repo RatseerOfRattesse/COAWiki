@@ -63,6 +63,7 @@ plugins:
         - stemmer
         - stopWordFilter
         - trimmer
+  - social
 markdown_extensions:
   - abbr
   - attr_list
