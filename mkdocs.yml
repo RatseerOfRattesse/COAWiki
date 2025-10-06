@@ -7,20 +7,9 @@ theme:
   favicon: assets/favicon.png
   custom_dir: overrides
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: pink
-      accent: purple
-      toggle:
-        icon: material/eye
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: pink
-      accent: purple
-      toggle:
-        icon: material/eye-outline
-        name: Switch to light mode
+    scheme: slate
+    primary: pink
+    accent: purple
   icon:
     repo: fontawesome/brands/git-alt
   features:
