@@ -10,7 +10,7 @@ Illustrations used in the mainline and short stories.
 
 ### Prologue: Eating New People
 
-#### Prologue-1
+#### Prologue-1 v3
 ???+ info
 
     :octicons-verified-16: :material-star-three-points-outline: :material-check-all:
@@ -19,7 +19,7 @@ Illustrations used in the mainline and short stories.
 
 ![The Haelborne ship floats over Kaaldenvale](../../assets/img/illustrations/Prologue-1.png)
 
-#### Prologue-1 Old
+#### Prologue-1 v2
 ???+ info
 
     :octicons-verified-16: :material-star-three-points-outline: :octicons-trash-16:
@@ -28,27 +28,54 @@ Illustrations used in the mainline and short stories.
 
 ![The Haelborne ship floats over Kaaldenvale](../../assets/img/illustrations/Prologue-1%20old.png)
 
-### Chapter I: Everything Stops
-
-#### Ch1-1
+#### Prologue-1 v1
 ???+ info
 
     :octicons-verified-16: :material-star-three-points-outline: :octicons-trash-16:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![The Haelborne ship floats over Kaaldenvale](../../assets/img/illustrations/Prologue-1%20old1.png)
+
+### Chapter I: Everything Stops
+
+#### Ch1-1 v2
+???+ info
+
+    :octicons-verified-16: :material-star-three-points-outline: :material-check-all:
     
     For reference on what these symbols mean, see the [art index](../index.md)
 
 ![Ari stares at Bia while the latter holds up a drained lesser Governance core. Crienbeast corpses litter the ground.](../../assets/img/illustrations/Ch1-1.png)
 
-#### Ch1-2
+#### Ch1-1 v1
 ???+ info
 
     :octicons-verified-16: :material-star-three-points-outline: :octicons-trash-16:
     
     For reference on what these symbols mean, see the [art index](../index.md)
 
+![Ari stares at Bia while the latter holds up a drained lesser Governance core. Crienbeast corpses litter the ground.](../../assets/img/illustrations/Ch1-1%20old.png)
+
+#### Ch1-2 v3
+???+ info
+
+    :octicons-verified-16: :material-star-three-points-outline: :material-check-all:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
 ![Grim pins Ari to a tree with a claw.](../../assets/img/illustrations/Ch1-2.png)
 
-#### Ch1-2 Old
+#### Ch1-2 v2
+???+ info
+
+    :octicons-verified-16: :material-star-three-points-outline: :octicons-trash-16:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![Grim pins Ari to a tree with a claw.](../../assets/img/illustrations/Ch1-2%20v2.png)
+
+#### Ch1-2 v1
 ???+ info
 
     :octicons-verified-16: :material-star-three-points-outline: :octicons-trash-16:

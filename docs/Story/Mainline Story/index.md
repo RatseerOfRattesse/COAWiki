@@ -17,6 +17,6 @@ These are the main books that will compromise the book series whenever I'm done.
 
     [:octicons-arrow-right-24: Advent of the Haelborne: Online](Advent%20of%20the%20Haelborne.md)
 
-    [:octicons-arrow-right-24: Advent of the Haelborne: PDF Edition (OUTDATED)](https://file.garden/Zi28N2lFSSn-KxkR/coa/COA%20I%20-%20Advent%20of%20the%20Haelborne.pdf)
+    [:octicons-arrow-right-24: Advent of the Haelborne: PDF Edition](https://file.garden/Zi28N2lFSSn-KxkR/coa/COA%20I%20-%20Advent%20of%20the%20Haelborne.pdf)
 
 </div>
