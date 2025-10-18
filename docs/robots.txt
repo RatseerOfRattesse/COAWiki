@@ -40,6 +40,9 @@ User-agent: Timpibot
 User-agent: Webzio-Extended
 User-agent: YandexAdditional
 User-agent: YandexAdditionalBot
-
-
 Disallow:/
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://ratseerofrattesse.github.io/COAWiki/sitemap.xml
