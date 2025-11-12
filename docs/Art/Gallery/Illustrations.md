@@ -84,14 +84,23 @@ Illustrations used in the mainline and short stories.
 
 ![Grim pins Ari to a tree with a claw.](../../assets/img/illustrations/Ch1-2%20old.png)
 
-#### Ch1-3
+#### Ch1-3 v2
+???+ info
+
+    :octicons-verified-16: :material-star-three-points-outline: :material-check-all:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![Ari hunches over her sword, staggering towards a portal as blood drips from her chest.](../../assets/img/illustrations/Ch1-3.png)
+
+#### Ch1-3 v1
 ???+ info
 
     :octicons-verified-16: :material-star-three-points-outline: :octicons-trash-16:
     
     For reference on what these symbols mean, see the [art index](../index.md)
 
-![Ari hunches over her sword, staggering towards a portal as blood drips from her chest.](../../assets/img/illustrations/Ch1-3.png)
+![Ari hunches over her sword, staggering towards a portal as blood drips from her chest.](../../assets/img/illustrations/Ch1-3%20old.png)
 
 ### Chapter II: Vacation...?
 
