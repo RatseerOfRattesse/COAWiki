@@ -104,14 +104,23 @@ Illustrations used in the mainline and short stories.
 
 ### Chapter II: Vacation...?
 
-#### Ch2-1
+#### Ch2-1 v2 
+???+ info
+
+    :octicons-verified-16: :material-star-three-points-outline: :material-check-all:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![Ari lying in a pool of blood on the floor](../../assets/img/illustrations/Ch2-1.png)
+
+#### Ch2-1 v1
 ???+ info
 
     :octicons-verified-16: :material-star-three-points-outline: :octicons-trash-16:
     
     For reference on what these symbols mean, see the [art index](../index.md)
 
-![Ari lying in a pool of blood on the floor](../../assets/img/illustrations/Ch2-1.png)
+![Ari lying in a pool of blood on the floor](../../assets/img/illustrations/Ch2-1%20old.png)
 
 #### Ch2-2
 ???+ info
