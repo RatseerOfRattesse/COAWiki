@@ -140,14 +140,23 @@ Illustrations used in the mainline and short stories.
 
 ![Ari peeks at Duskir's cabin through some vines](../../assets/img/illustrations/Ch2-2%20old.png)
 
-#### Ch2-3
+#### Ch2-3 v2
+???+ info
+
+    :octicons-verified-16: :material-star-three-points-outline: :material-check-all:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![Ari, Rosa, Dan, and Bia in the inn.](../../assets/img/illustrations/Ch2-3.png)
+
+#### Ch2-3 v1
 ???+ info
 
     :octicons-verified-16: :material-star-three-points-outline: :octicons-trash-16:
     
     For reference on what these symbols mean, see the [art index](../index.md)
 
-![Ari, Rosa, Dan, and Bia in the inn.](../../assets/img/illustrations/Ch2-3.png)
+![Ari, Rosa, Dan, and Bia in the inn.](../../assets/img/illustrations/Ch2-3%20old.png)
 
 ### Chapter III: Crab Rider
 
