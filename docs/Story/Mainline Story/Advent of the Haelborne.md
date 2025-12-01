@@ -84,13 +84,11 @@ Limril stared at it.
 ## Chapter I: Everything Stops
 *and that's on a literal and thematic level >:D*
 
-Hello there. Reader, fae, sentient entity, monkey? I’m writing this little tome of misfortunes to… document things. For future reference, in case I… well I don’t know… I was bored.
+I’m calling it – Bia’s getting herself killed today.
 
 “What are you writing?” Bia asks from somewhere on the left.
 
-Is it just me or do ‘I don’t know’ and ‘IDK’ have different meanings nowadays? ‘I don’t know’ is something the protagonist says after the comic relief guy asks in a terrified voice, ‘what are we going to do’, or something like that. Then, on the other hand ‘IDK’ is just pure cluelessness. No ominous connotations with that one.
-
-Ah. I went off on a tangent again. I gotta stop doing that.
+Really. We’re a pair of tier sevens and she’s dragged us into the t-thirteen area of the woods. Some thrill and some mildly better loot is not worth death.
 
 “Hello?” Bia calls.
 
@@ -98,9 +96,9 @@ Ah. I went off on a tangent again. I gotta stop doing that.
 
 “Rude! Ari, have you ever considered that maybe the reason you have no frie-”
 
-Loud pen scratching noises! Back to the topic at hand. Which isn’t really a topic. But whatever. Hey, it just occurred to me that anybody who finds this thing mysteriously unattended in another universe would think that top paragraph was the author making a lazy excuse so their perspective character could write in first person. Completely hypothetically. Not everything is sarcasm. Don’t be so cynical!... not that I can talk.
+Loud pen scratching noises. Ignore her.
 
-I’m writing this as I walk down a forest path with my sister. You might think this is a terrible idea and I should pay more attention while walking through a spooky scary forest infested with monsters and shit. No, I’m good. As a tier seven in the Gov’nance systems, I’ve gotten a lot of attribute points, twenty-seven of which are in soul. I can multitask way better than a regular fae. Took Bia and I, what, six years? to level this high – we’ve nearly reached tier eight too – and, oh, lemme tell ya, it’s worth it. I can run across the entirety of Javenshard in seconds! And to think people lived before the Governance came along. I mean, there is a lot of people who don’t use it… but those people are just lazy. And missing out.
+I’m writing this as I walk down a forest path with my sister. As an uninitiated, you might think this is a terrible idea and I should pay more attention while walking through a spooky scary forest infested with monsters and shit. No, I’m good. As a tier seven in the Gov’nance systems, I’ve gotten a lot of attribute points, twenty-seven of which are in soul. I can multitask way better than a regular fae. Took Bia and I, what, six years? to level this high – we’ve nearly reached tier eight too – and, oh, lemme tell ya, it’s worth it. I can run across the entirety of Javenshard in seconds. And to think people lived before the Governance came along. I mean, there is a lot of people who don’t use it… but those people are just lazy. And missing out.
 
 Bia’s merrily skipping down the trail while still ranting about my social deficits – which I assure you do not exist. Bia’s two years older than me – I’m eighteen – and, contrary to the majority of sibling to sibling relationships, she’s always the one annoying me, not the other way around. I’m simply too dignified to give a shit about low hanging self assurement.
 
