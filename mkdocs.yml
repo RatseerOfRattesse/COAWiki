@@ -52,6 +52,13 @@ plugins:
         - stemmer
         - stopWordFilter
         - trimmer
+  - mkdocs-video
+  - social:
+      cards_layout_options:
+        background_color: transparent
+        background_image: docs/assets/img/misc/banner3.png
+        title: Chronicles of the Aethein
+        description: A high fantasy LitRpg comedy-tragedy series by RatseerOfRattesse.
 markdown_extensions:
   - abbr
   - attr_list
