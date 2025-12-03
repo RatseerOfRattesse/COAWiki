@@ -1,5 +1,6 @@
 ---
 description: Artworks made for COA
+title: Illustrations
 ---
 
 # Illustrations

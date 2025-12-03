@@ -54,11 +54,12 @@ plugins:
         - trimmer
   - mkdocs-video
   - social:
+      cards_layout: default/variant
       cards_layout_options:
+        font_family: Carrois Gothic
         background_color: transparent
-        background_image: docs/assets/img/misc/banner3.png
-        title: Chronicles of the Aethein
-        description: A high fantasy LitRpg comedy-tragedy series by RatseerOfRattesse.
+        background_image: docs/assets/img/misc/banner7.png
+        description: Aryon Hastor has three goals - A) a healthy income, B) acquiring a social life, and C) stopping the local interdimensional space rats from blowing her planet to bits.
 markdown_extensions:
   - abbr
   - attr_list
