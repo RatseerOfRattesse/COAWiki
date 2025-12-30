@@ -394,17 +394,8 @@ html .md-footer-meta.md-typeset a {
 }
 
 .md-header {
-    background-color: var(--md-primary-fg-color);
     background-image: url(../assets/img/misc/sitebanner.png);
     background-position: center;
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    box-shadow: 0 0 .2rem #0000, 0 .2rem .4rem #0000;
-    color: var(--md-primary-bg-color);
-    display: block;
-    left: 0;
-    position: sticky;
-    right: 0;
-    top: 0;
-    z-index: 4;
 }
