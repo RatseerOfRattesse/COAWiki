@@ -52,7 +52,7 @@ ul, ol {
 }
 
 body {
-    background-image: url('https://ratseerofrattesse.github.io/assets/img/art/wildberries.png');
+    background-image: url(../assets/img/misc/banner5.png);
     background-repeat: repeat;
     background-position: center center;
     background-size: cover;
@@ -394,8 +394,47 @@ html .md-footer-meta.md-typeset a {
 }
 
 .md-header {
+    background-color: hsl(0deg 0% 0%);
     background-image: url(../assets/img/misc/sitebanner.png);
     background-position: center;
-    background-size: 100% 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.panel1 {
+    background-color: hsl(0deg 0% 0%);
+    background-image: url(../assets/img/misc/purplebuildings.png);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.mdx-expect__description {
+    padding-right: 20cqi;
+}
+
+.storyintro {
+    background-image: url(../assets/img/misc/storybanner.png);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.storydescription {
+    padding-right: 53cqi;
+    padding-left: 5cqi;
+}
+
+.worldbuildingdescription {
+    text-align: right;
+    color: white;
+    padding-left: 37cqi;
+    padding-right: 5cqi;
+}
+
+.worldbuildingintro {
+    background-image: url(../assets/img/misc/worldbuildingbanner.png);
+    background-position: center;
+    background-size: 100%;
     background-repeat: no-repeat;
 }

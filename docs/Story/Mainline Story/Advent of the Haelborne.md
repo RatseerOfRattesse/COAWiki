@@ -3539,6 +3539,337 @@ The still-alive monster, somehow still living from the little patches of flesh o
 
 “Bia, I kind of hate you.”
 
+## Chapter X: Dish Soap Devil
+*it joined the HOA...*
+
+Bia went to fetch the Verosavs and the hexacampi back from where she’d sent them to when the devorean arrived, and we gathered up around the monster’s corpse.
+
+“Dang,” Rosa said in awe. “You guys completely demolished this thing.”
+
+“It, my mana supply, and Bia’s ribs,” I said. “And it’s Lloyd’s kill. Not due to any skill, mind you, just absurdly overpowered abilities.” I turned to Lloyd. “You said you got that orb ability from a… sponsor?”
+
+“Uh, yeah,” he said, shiftily. “Some friends from up north.”
+
+“Right, who?” Dan asked.
+
+“It’d be disrespectful of their privacy to tell,” Lloyd shrugged. He tapped at the corpse until the looting prompt came up and accepted, and it puffed away. Several bundles of what looked like hide fell to the ground, along with a highly stylized antler broadsword. He gathered them up, then realized it was a joint kill and left them on the ground.
+
+‘Must’ve been a rare ability manifestation,“ Rosa beamed. “How much didya pay?”
+
+“Substantial amount. But I don’t think my – uh, sponsors – had any trouble sourcing it.”
+
+“It’s not your family, is it?” I said. “I always got the impression they were rich big shots.”
+
+“No, definitely not,” he snorted.
+
+“Speaking of abilities,” Bia said. “I just awakened another one.”
+
+“So did I,” said Dan.
+
+“Also me.” I followed. “The Governance always rewards challenge,” I added darkly.
+
+“Oh, well that’s kinda lame,” Rosa whined. “Why don’t I get one?”
+
+“I didn’t either.” Lloyd said.
+
+“Well, you outskill all of us. It probably wasn’t much challenge for you.”
+
+“Didn’t you just say ‘not due to any skill’ like a minute ago?”
+
+“I contradict as necessary.”
+
+“So literally lyin – ”
+
+“Oh hey, I do have a new ability,” Rosa cut in. “Sorry, I had notifications off in the sys.”
+
+“You are a dumbass,” Dan said. “Who the hell turns notifs off on a Governance client??”
+
+“Me, I find them annoying.”
+
+“You barely have a power set,” I questioned. “You shouldn’t be getting many toasts at all.”
+
+“Whatever,” Rosa rolled her eyes. “Check this out.”
+
+She conjured her bow and nocked an arrow. It struck a tree and stayed there. We waited.
+
+“Okay… and…” Dan said.
+
+“Watch,” Rosa grinned.
+
+She opened her hand towards the tree and curled her fingers. The entire fucking tree uprooted and rushed straight towards her and whacked her off her feet.
+
+“Shi –”
+
+Rosa went flying.
+
+
+???+ governance "Ability: [Grappling Arrow] (Conjuring)"
+
+    Incantation: none
+
+    Cost: low mana
+
+    Cooldown: none
+
+    Damage Output:
+
+    - Physical
+
+    Effects:
+
+    - Tier I
+
+        - Conjure an arrow that can drag whatever it lodges in towards you.
+
+
+“Ugh. I’ll get her.” I sprouted wings and chased down the speeding bullet before she crashed into too many trees. I looped back and deposited her on the ground with a healing potion.
+
+“At some point I’ll have to ask you to reimburse all these potions I’m spending on you,” I said.
+
+“I’m only sixteen, I can’t be in debt this early…” Rosa mock sobbed.
+
+“Be grateful you’re not in Deliria, then,” Lloyd laughed. “Our universities are… quite something.”
+
+“Yeah, I’ve heard.”
+
+“Anything good out of the devorean?” I was growing impatient with the chatter; we needed to get going and resupply at a town by noon. Well, not need, we still have plenty of food and whatever – but we have a schedule, aye?
+
+“Some nice demohide,” Lloyd pointed at the pile of loot. He knelt down and flipped the dagger at me. “And this cool thing.”
+
+I caught the knife.
+
+
+???+ governance "Item: [Antler Arcblade] (Broadsword)"
+
+    Tier: XII
+
+    Damage Output:
+
+    - Meagre
+
+    Ethereal:
+
+    - Bleed
+
+    Impact:
+
+    - Slicing
+
+    A large blade made from a devorean antler, designed for area control with lots of raking spines to boot.
+
+    Effect:
+
+    - Inflict [Osteospina] on targets.
+
+
+???+ governance "Effect: [Osteospina] (Damage)"
+
+    Grows a network of bone spines through a target, the amount of spines increasing per instance.
+
+
+“Oh, that’s good,” My eyes widened. “That is fucking good.”
+
+“Shame we can’t use it though,” Bia read her own client’s breakdown. “Tier twelve.”
+
+“Oh, we’ll get there eventually,” Lloyd beamed. “One day.”
+
+“Not with that attitude you won’t,” I said dryly. 
+
+“You’re lame,” Bia stuck out her tongue.
+
+
+***
+
+We rode through the plains another few hours to a place labelled Tirio on my map, though we passed out of the weird overgrown grass patches in half an hour’s time.
+
+Tirio was a smaller town than Evedast. Around Javenshard size, and looking much the same – only it didn’t have my hometown’s signature market spire on the skyline. Skyline is inaccurate, actually – from this far off, the silhouettes barely make it over the grass’ height. Landline? No, that sounds weird…
+
+We passed through the gates, wide open in the noonlight. A merchant passed by on what looked like a camel, a canopy attached to the saddle to block out the blazing plains sun.
+
+“We should get some of those,” Rosa pointed.
+
+“Sure, but you’re installing them all,” Bia shrugged. “Us t-sevens don’t really get bothered by regular heat anyway.”
+
+“So can I just like, stick you in a volcano?”
+
+“No, that’s not regular heat.”
+
+“Fire?”
+
+“Maybe?”
+
+“Here, let’s try it,” Rosa popped a lighter out of her bag and flicked at Bia, who swatted it away immediately. It landed on the ground, Rosa’s hexacampus flinching away from it. Dan telekinesized it back up to his sister, giving her a stare in the process.
+
+“Asshole, ” Bia smirked. “Why d’you carry a lighter around in your bag? That’s not your dimensional bag right?”
+
+“Nope. I gotta keep a weapon on hand, y’know?”
+
+“You can conjure your bow.”
+
+“Yep.”
+
+“So then why… wait, you were having issues with mana channelling when we were train –”
+
+“No idea what you’re talking about. Hey, I’m getting hungry. Lunchtime, anyone?”
+
+
+***
+
+Lunch was on Lloyd – he would be cooking. Bia had wasted precious dimensional space on a portable grill and an absurd amount of deck chairs, not to mention a whole-ass park table, with the cobblestone base still attached and dripping dirt. Hopefully she hadn’t raided some public park for it.
+
+Lloyd was flipping burgers, Bia still setting up the furniture. These smaller towns had no space for parkland, so we’d commandeered a space outside the walls after buying some food and whatnot in Tirio. Bia was draping an elaborate tablecloth over the six foot long park table and setting out silver cutlery.
+
+A few minutes later Lloyd was done with the burgers and set them out on plates. Contrast between the yobbish food and the fancy silverware. Even greater contrast; the yobbish Bia putting down the fancy silverware.
+
+Bia peered at her food as she sat down, examining it with squinted eyes.
+
+“Lloyd, what’d you put in here? Is this that new artificial meat stuff?”
+
+“Nah, it’s…” Lloyd peered over at the small mound of packages next to the grill. “Bubblegum?”
+
+Rosa froze mid-chomp and spat it all out.
+
+“Lloyd, what the fuck?”
+
+“What? We did this all the time in Deliri – ”
+
+“You WHAT?” Bia snapped on him. “I already thought Deliria was a hellhole but now you’ve gone and said that –”
+
+“It appears the college debt would’ve been the least of your worries,” Dan nudged Rosa with a chuckle.
+
+“Holy fucking shit Lloyd, why in the seven hells would you even consider --”
+
+“It was a cultural practice –”
+
+“Culture has the word cult in it and I don’t like cults!”
+
+“That makes absolutely no sense, but I agree with Rosa on this one, you cannot possibly be using –”
+
+“BUBBLEGUM?!”
+
+“Horrendipitous, and that ain’t even –”
+
+“Okay, okay,” I waved my arms. “Everyone shut up. Lloyd, you’re banned from cooking. Save all these amalgamated burgers for yourself please. I’m going to go buy some actual food.”
+
+I disentangled myself and went back through Tirio’s gates to look for some kind of restaurant. The streets were busy, by the standards of small rural towns – it was midday after all. Most places would probably be open.
+
+I’d have to go for something generic to satisfy the group. Anything too specific and they’ll all have something different to bitch about. Wandering around what appeared to be the town’s market district (if four streets counted for a district), I noticed a sandwich shop pushing local recipes. Probably a safe bet – if the Delirans used bubblegum, who knows what culinary horrors a place like Carioneth or Altegan could produce?
+
+The shop’s door opened to the pleasant chime of a bell. The counter was empty, so I stood and waited, shuffling some haelcoin out of my dimensional bag.
+
+A few minutes passed. Still nothing. I looked around for the door’s bell, then realized I could just swing the door around a bit. The bell rung a few times, but there still wasn’t any response. I walked up to the counter and looked over it. The kitchenette was empty except for copious bottles of dish soap all over the floor, and the smell of… something coppery. Weird herbs, maybe – I think I’d smelled something similar in the Javen Woods.
+
+I turned to leave – only to find a bottle of dish soap punctured and hanging by the door handle. The soap was red, and spreading across the ground unnaturally quickly. Ignoring it, I reached for the door handle to leave this weird-ass shop.
+
+The door flowed like water.
+
+My vision cleared despite it seeming fine before. A corpse stood in the doorframe, the sandwich shop’s logo printed cleanly on its uniform. I stuck out my hand for my dagger. Something was here and – had it’s claws on my neck.
+
+“Well, well, well,” Grim snarled. “Just the girl of the hour.”
+
+It twisted its neck, extending it to loop around and look me in the eyes. This thing could fucking shapeshift. Its grin somehow widened, despite already covering its entire face.
+
+“Ari, Ari, Ari,” Grim’s eyes flickered. “You cannot run from fate, or me. I will find you every time, before fate does, because fate is a BIT of a loser and I realllllly would like the kill credit for such an IMPORTANT target especially with how much the haelborne are paying me.”
+
+“Who is paying you?”
+
+“Oops, nothing important. ANYWAY,” it tightened its grip. A few drops of blood leaked from the cut in my neck. “I’m here to revists my, previous, sales pitch.”
+
+“Terrifying.”
+
+“I know, though I’d appreciate if you’d scream as much as last ti –”
+
+“Get out of here,” I said, raising a hand in casting position – crack. Grim slammed it and me into a wall. A tentacle disentangled itself from Grim’s back and grew a comically large first that hammered my hand into shrapnel.
+
+“Don’t you dare try that again!” Grim cackled, then its eyes went traumatic. “Four. Thousand. Fucking. Kilometres. INTO THE SKY. You have no idea how long I took to fall ALL THE WAY BACK DOWN. I was planning to have a feast that afternoon!”
+
+“On innocents, I bet. You’re not going to guilt trip me with –”
+
+“Innocents are the tastiest. You wouldn’t know! Back to that sales pitch!”
+
+It spun around fully and grabbed me by the shoulders, leaning in close. It had surprisingly good breath for someone that ate fae on the regular – there was a hint of… breath mints?
+
+“You, hand me that pretty hourglass and I grant you AMNESTY from myself, if I feel like it. Sound good? Good deal? I’m a businessit.”
+
+“A what?” I asked, discreetly grabbing a healing potion.
+
+“Whatever!” Grim spun away and offered a handshake. “Deaaaalllll??”
+
+“You’ll have to come and take it then,” I narrowed my eyes at it. “If you can.”
+
+I plunged the healing potion down my throat and dashed out of the shop, immediately conjuring my wings and flying towards our picnic spot.  Grim’s snarling echoed from below as it grabbed a nearby civilian and flung them away in rage. Screaming echoed next.
+
+“Bitch! I’ll get you! Just, gimme the minute!”
+
+Why wasn’t it flying? It could fly, right? Fuck it. I landed on the grass outside the wall and sprinted towards the park table.
+
+“Oh hey Ari how’s it going did you get anything good –”
+
+“Bia, shut the fuck up. Grim is here.”
+
+“Fuck,” Rosa said, Bia catching on and copying.
+
+“Okay, shit. I’ll get the silverware!” Lloyd panicked.
+
+“I’ll take my precious table!” Bia scrambled to pick up the entire thing.
+
+“Oh my immortals from the beyond the dimensional barrier JUST GET UP AND RUN!”
+
+“I NEED MY TABLE.”
+
+“The table is the most important element of our mission,” Dan confirmed, and helped Bia heave it up and into her dimensional sack.
+
+“Ugh. Lloyd, leave the silverware to Rosa. We have to hold Grim off so these idiots can get their shit.”
+
+“But these are good forks and knives I must ensure –”
+
+“Later.”
+
+“OH, ARI!” Grim floated ominously over the wall. Flames and screams rose in its wake. Rosa got up and shot an arrow at it. Grim dodged right and straight into a tower, which crumbled, debris pinning the monster down as it dropped below the wall again.
+
+“Okay. Now we run,” Bia screeched, table safely stowed away. I sighed and followed. Lloyd took each of the Verosavs by a hand and dragged them with at t-seven speed.
+
+“Wait, the hexacampi!” Bia doubled back.
+
+“No, Bia, they’re too fucking noisy they’ll get us spotted!”
+
+“I’m not letting my crabs die!”
+
+“They won’t,” Lloyd fibbed, still running. “Seafood tastes terrible to interdimensional demons. I think.”
+
+“We’ll come back for them later,” I assured with the confidence of a seasoned liar, and dragged her forward.
+
+“Lloyd, can you slow down?!” Dan called. “My fucking ankles!”
+
+“You have the capability to shout?” Rosa asked.
+
+The gate slammed open behind us, a flood of unnaturally red flame blowing out. Eight glowing eyes beamed through the smoke.
+
+“Stop running,” Grim smiled. “It is no use!”
+
+“Fuck you!” Rosa screamed.
+
+“Hmm, I don’t think so?” it cackled, striding forwards. Time seemed to slow, our running useless as the ground seemed to stand still below us. Grim curved its claws.
+
+“I took your advice, though. I got some dish soap. A lot of dish soap.”
+
+Red lightning crackled between its fingers. A grand orb of liquid collected above Tirio.
+
+“I am your greatest enemy!” Grim screamed in theatric delight. “The dish soap devil!”
+
+The orb crashed down. Tirio’s walls washed away like a sandcastle before the tide, debris and people and dish soap flung away in a great booming percussion,. Red flame spiralled across the plains, one such finger almost hitting us as our pace quickened and the ground unfroze.
+
+The liquid escaped Tirio’s ruined embrace and sped away in every direction, a tsunami of it coming straight for us.
+
+“Run faster!” I screamed.
+
+“Fuck you think I’m doing?!” Bia responded.
+
+The tsunami encroached closer, Grim’s laughter sounding in the distance.
+
+“We’re not outrunning it,” Lloyd said in horror. “Maybe if – oh fu – ”
+
+The dark fist of devil soap closed around us.
 
 
 ???+ warning
