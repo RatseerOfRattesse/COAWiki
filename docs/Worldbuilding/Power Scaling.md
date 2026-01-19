@@ -70,4 +70,4 @@ Basic guide to terms used:
 
 - [idi0cy](../Characters/Mainline%20Characters/Idi0cy.md) (character) - high diamond, half folly I guess?
 
-- [The Narrator](../Characters/Mainline%20Characters/Narrator.md) (character) - folly
+- [Halos](../Characters/Mainline%20Characters/Halos.md) and [Castell](../Characters/Mainline%20Characters/Castell.md) (character) - folly

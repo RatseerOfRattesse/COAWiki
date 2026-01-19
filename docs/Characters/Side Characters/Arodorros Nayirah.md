@@ -2,46 +2,24 @@
 description: Character sheet for Arodorros Nayirah of COA.
 ---
 
-???+ warning ":fontawesome-solid-file-circle-exclamation: Spoilers"
+<style>
+    h1 {
+        display: none;
+    }
+</style>
 
-    Article contains spoilers: Bk1.
+![Arodorros Nayirah, the Trailblazing Archer; Magic System: Governance | T-55 | Gilded Swordsman; Species: Fae; Age & Pronouns: 37 | He/Him; Home & Birthplace: Aethereanil](../../assets/img/charcards/arodorros.png)
 
-???+ warning ":octicons-pencil-16: Incomplete"
+--- 
 
-    Article is missing information.
+Occupation: Dawnic Guard
 
-# Arodorros Nayirah
+Specialization: Light + Silver + Sword + Speed → [Gilded Swordsman]
 
-## Basic Information
+Abilities: Dash
 
-Species: Fae
+Aliases: Agent Nayirah
 
-Age: 
+--- 
 
-Birthplace: Aethereanil
-
-Home: Aethereanil
-
-Occupation: 
-
-## Abilities
-
-Magic System: Governance
-
-Specialization:
-
-Tier: 
-
-Abilities:
-
-## Character
-### Personality
-
-
-
-### Internal Conflict
-
-
-
-### History
-
+Graduated from the Dawnic school system around the same time as Duskir and Faelorn, and heavily disapproves/rivals them. Now works as one of Raelia's trusted special ops adventurers.

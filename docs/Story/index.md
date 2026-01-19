@@ -7,9 +7,7 @@ icon: fontawesome/solid/book
 
 Housed here are all the writings associated with COA.
 
-## Conventions
-
-### Categories
+## Categories
 
 <div class="grid cards" markdown>
 
@@ -17,33 +15,25 @@ Housed here are all the writings associated with COA.
 
     ---
 
+    [![](../assets/img/misc/cover.png)](Mainline%20Story/index.md)
+
     ONE MORE PAGE I SWEAR. I'M NOT OBSESSED WITH ORGANIZATION. These are the main books that will compromise the book series whenever I'm done. Obviously, these are fully canonized. Each book has one prologue and epilogue chapter as well as regular chapters and an index of various LitRPG elements.
 
     [:octicons-arrow-right-24: Mainline Story](Mainline%20Story/index.md)
-
-</div>
-
-<div class="grid cards" markdown>
 
 -   :material-book:{ .lg .middle } __Too lazy to read, you got anything bite-sized?__
 
     ---
 
+    [![](../assets/img/misc/banner2.png)](Short%20Stories/index.md)
+
     There's some short stories here I suppose. These stories are not locked to the main plot and serve to flesh out other elements of the world or simply random ideas. Their canonicity is specified per page.
 
     [:octicons-arrow-right-24: Short Stories](Short%20Stories/index.md)
 
--   :material-book-multiple-outline:{ .lg .middle } __how about ... tooth sized.__
-
-    ---
-
-    Really dude? Fine... These are small parts of the mainline story that I wrote ahead of time because I was too excited to wait. These are all subject to revision and were mainly written for my own satisfaction.
-
-    [:octicons-arrow-right-24: Writing Snippets](Writing%20Snippets/index.md)
-
 </div>
 
-### Tags
+## Tags
 
 Short stories and writing snippets will have various tags to indicate their properties. Tags are subject to change.
 

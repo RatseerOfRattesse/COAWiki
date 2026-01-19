@@ -2,50 +2,20 @@
 description: Character sheet for Raelia Hastor of COA.
 ---
 
-???+ warning ":fontawesome-solid-file-circle-exclamation: Spoilers"
+<style>
+    h1 {
+        display: none;
+    }
+</style>
 
-    Article contains spoilers: Full Series.
+![Raelia Hastor, the Last False-Faith; Magic System: Null; Species: Great Immortal; Age & Pronouns: Null | She/Her; Home & Birthplace: Aethereanil | Dunether](../../assets/img/charcards/raelia.png)
 
-???+ warning ":octicons-pencil-16: Incomplete"
-
-    Article is missing information.
-
-# Raelia Hastor
-
-![Portrait of Raelia](../../assets/img/portraits/raelia.png)
-
-## Basic Information
-
-Species: Post Immortal
-
-Age: null
-
-Birthplace: Dunether
-
-Home: Aethereanil
+--- 
 
 Occupation: Empress of the Dawne Kingdom
 
-Aliases: The Primal Chaos
+Aliases: Primal Chaos
 
-## Abilities
+--- 
 
-Magic System: Great Immortal
-
-Specialization: null
-
-Tier: null
-
-Abilities: null
-
-## Character
-### Personality
-
-
-
-### Internal Conflict
-
-
-
-### History
-
+Raelia Hastor, fed up with the other Great Immortals dismissing her despite her being instrumental in getting them to where they are, ended up leaving them to do her own thing in a remote reality far from their prying eyes. She hopes to usurp the usurpers - certainly not out of regret or the goodness of her heart, but for the simple purpose of vengeance. However, she has no qualms about her methods to get there. She'll play anyone she can make use of and betray without mercy. It takes a certain level of ruthlessness to defeat and take the place of an Elder Immortal, after all.

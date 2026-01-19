@@ -2,48 +2,24 @@
 description: Character sheet for Faelorn Hastor of COA.
 ---
 
-???+ warning ":fontawesome-solid-file-circle-exclamation: Spoilers"
+<style>
+    h1 {
+        display: none;
+    }
+</style>
 
-    Article contains spoilers: Full Series.
+![Faelorn Hastor, the Departed Seer; Magic System: Governance | T-52 | Sandspear; Species: Fae; Age & Pronouns: 39 | He/Him; Home & Birthplace: Troltano | Aethereanil](../../assets/img/charcards/faelorn.png)
 
-???+ warning ":octicons-pencil-16: Incomplete"
-
-    Article is missing information.
-
-# Faelorn Hastor
-
-![Portrait of Faelorn](../../assets/img/portraits/faelorn.png)
-
-## Basic Information
-
-Species: Fae
-
-Age: 73
-
-Birthplace: Aethereanil
-
-Home: Troltano
+--- 
 
 Occupation: Haelcrien Government Official
 
-## Abilities
+Specialization: Dune + Spear + Magic + Vast → [Sandspear]
 
-Magic System: Governance
+Abilities: Dash
 
-Specialization: 
+Aliases: Fae
 
-Tier: 67
+--- 
 
-Abilities:
-
-## Character
-### Personality
-
-
-
-### Internal Conflict
-
-
-
-### History
-
+Faelorn was once one of the most promising scions of the Hastor Dynasty, before he and his fiancé Duskir disappeared from the kingdom without a trace. After he and Duskir's adventuring team was massacred and he began having disconcerting visions, he's departed his family and hid in Troltano, apparently for their safety. Not that anyone believes that.

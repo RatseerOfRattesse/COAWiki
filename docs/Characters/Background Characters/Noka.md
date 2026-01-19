@@ -2,29 +2,22 @@
 description: Character sheet for Noka of COA.
 ---
 
-# Noka
+<style>
+    h1 {
+        display: none;
+    }
+</style>
 
-## Basic Information
+![Noka; Magic System: Governance | T-0; Species: Fae; Age & Pronouns: 26 | She/Her; Home & Birthplace: Roriodo | Roriodo](../../assets/img/charcards/noka.png)
 
-Age: 26
+--- 
 
-Birthplace: Roriodo, Haequar Province, Haelcrien, Kaaldenvale
-
-Home: Roriodo, Haequar Province, Haelcrien, Kaaldenvale
-
-Occupation: Craftsman - weekly income ~400 hc.
-
-## Abilities
-
-Magic System: Governance
-
-Specialization: None
-
-Tier: 0
+Occupation: Craftsman
 
 Abilities: Telekinesis, Dash, Instant Ritual
 
-## Character
-### Personality
+Aliases: N/A
+
+---
 
 Bia if she owned a shop.

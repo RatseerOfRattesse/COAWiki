@@ -2,23 +2,22 @@
 description: Character sheet for Keppelky of COA.
 ---
 
-# Keppelky
+<style>
+    h1 {
+        display: none;
+    }
+</style>
 
-## Basic Information
+![Keppelky; Magic System: Attunement; Species: Alino; Age & Pronouns: 28 | He/Him; Home & Birthplace: Amirlith | Icinos](../../assets/img/charcards/keppelky.png)
 
-Age: 28
-
-Birthplace: Icinos, Goriance, Belworian
-
-Home: Craftsmans' Quarter, Amirlith
+--- 
 
 Occupation: Fisherman
 
-## Abilities
+Abilities: Telekinesis
 
-Magic System: Attunement
+Aliases: Great Sea
 
-## Character
-### Personality
+---
 
 Diligent soldier.

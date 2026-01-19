@@ -17,9 +17,13 @@ All pictorial art, including illustrations and other assets.
 
     [:octicons-arrow-right-24: Illustrations](Illustrations.md)
 
-</div>
+-   :material-wallpaper:{ .lg .middle } __who are these people__
 
-<div class="grid cards" markdown>
+    ---
+
+    Goofy goobers for plot weakness targeting from yours truly. Character art here!
+
+    [:octicons-arrow-right-24: Characters](Characters.md)
 
 -   :material-wallpaper:{ .lg .middle } __Don't have mind's eye and am confused__
 

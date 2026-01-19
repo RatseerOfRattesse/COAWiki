@@ -29,6 +29,11 @@ These stories are not locked to the main plot and serve to flesh out other eleme
 
     [:octicons-arrow-right-24: An idi0tic Entrance](An%20idi0tic%20Entrance.md)
 
+</div>
+
+
+<div class="grid cards" markdown>
+
 -   :material-book-open:{ .lg .middle } __The Great Inventor__
 
     ---

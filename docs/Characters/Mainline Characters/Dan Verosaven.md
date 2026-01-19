@@ -2,50 +2,24 @@
 description: Character sheet for Dan Verosaven of COA.
 ---
 
-???+ warning ":fontawesome-solid-file-circle-exclamation: Spoilers"
+<style>
+    h1 {
+        display: none;
+    }
+</style>
 
-    Article contains spoilers: Full Series.
+![Dan Verosaven, the Unseen Speaker; Magic System: Governance | T-7 | Balancebringer; Species: Fae; Age & Pronouns: 20 | He/Him; Home & Birthplace: Javenshard | Javenshard](../../assets/img/charcards/dan.png)
 
-???+ warning ":octicons-pencil-16: Incomplete"
+--- 
 
-    Article is missing information.
+Occupation: Innkeeper
 
-# Dan Verosaven
+Specialization: Knife + Speed + Magic → [Blademancer]
 
-Species: Fae
+Abilities: Arcane Smite, Telekinesis, Clivesbrew, Conjuration, Dash
 
-![Portrait of Dan](../../assets/img/portraits/dan.png)
+Aliases: the Innkeeper
 
-## Basic Information
+--- 
 
-Age: 20
-
-Birthplace: Javenshard
-
-Home: Javenshard
-
-Occupation: Inn Owner
-
-Aliases: 
-
-## Abilities
-
-Magic System: Governance
-
-Specialization: none
-
-Tier: 0
-
-Abilities: Telekinesis, Clivesbrew, Conjuration
-
-## Character
-### Personality
-
-
-
-### Internal Conflict
-
-
-
-### History
-
+Dan Verosaven is the poor child of the Verosavens and the more successful one anyway. As according to Haelcrien tradition, the then-broke Verosaven family named him with a glaring lack of syllables. His younger sister Rosalith was much more fortunate, mostly on account of Dan's academic prowess. Having worked eight years in the bigger cities as a magic research assistant, Dan knows little tidbits of magic theory - much more than you'd usually see in Javenshard. You'd be hard pressed to get any of that out of him however - he only seems to talk to chastise his sister and break up moments of awkward silence.

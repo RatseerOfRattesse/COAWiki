@@ -2,51 +2,29 @@
 description: Character sheet for Aryon Hastor of COA.
 ---
 
-???+ warning ":fontawesome-solid-file-circle-exclamation: Spoilers"
+<style>
+    h1 {
+        display: none;
+    }
+</style>
 
-    Article contains spoilers: Full Series.
+![Aryon Hastor, the Designated Protagonist; Magic System: Governance | T-7 | Balancebringer; Species: Fae; Age & Pronouns: 18 | She/Her; Home & Birthplace: Javenshard | Aethereanil](../../assets/img/charcards/ari.png)
 
-???+ warning ":octicons-pencil-16: Incomplete"
+--- 
 
-    Article is missing information.
-
-# Aryon Hastor
-
-![Portrait of Ari](../../assets/img/portraits/ari.png)
-
-## Basic Information
-
-Species: Fae
-
-Age: 18
-
-Birthplace: Aethereanil
-
-Home: 21 Second Ring, Javenshard, Province Haequar, Haelcrien.
-
-Occupation: Adventurer - weekly income ~2000 hc.
-
-Aliases: Ari, the Aethein
-
-## Abilities
-
-Magic System: Governance
+Occupation: Adventurer
 
 Specialization: Knowledge + Willpower + Equilibrium + Reality → [Balancebringer]
 s
-Tier: 7
 
-Abilities: Rain of Light, Shattersweep Shield, Voidburst Blade, Voidburst Greatsword, Voiding Vortex, Wings of Equilibrium
+Abilities: Rain of Light, Shattersweep Shield, Voidburst Blade, Voidburst Greatsword, Wings of Equilibrium, Dash, Echoing Strikes
 
-## Character
-### Personality
+Aliases: Ari, the Aethein, the Main Character
 
-Sometimes acts mentally unstable but is quite stoic and no-nonsense whenever things get just a teeny bit serious. Internally utilitarian. Peaked in high school.
+--- 
 
-### Internal Conflict
+Stoic and efficient, Aryon gets shit done with the speed and precision of a machine - as long as she judges the attached caveats worth her time. For this reason, she's been sat around in a little backwater town instead of seeking glory - what more does an adventurer need past the expendable income? She and her sister Bia make bank selling monster parts and own a small house in said backwater and live a comfortable, albeit routine life.
 
-Ari’s flaw is an unwillingness to take risks and a need to plan out everything beat by beat. She refuses to leave Javenshard and grow her career because this in itself would be a massive risk. Much safer to stay hidden here in a little backwater town, eternally stagnant. Due to lack of mentorship from her parents, she grew up insecure of her position. She risked a ton getting to where she is now and is scared of losing what she has. She still feels that she’s not good enough, not prepared and the correct person to be managing her business.
+Ari is, by the standards of her rank, an absolute prodigy in monster hunting - you'd be hard pressed to find someone tier seven that could stand toe to toe with her and her glass cannon power set. However, when a shadow demon of mass destruction shows up hangry in her forest, she's only able to escape by way of ancient family heirloom and her bloodline's reality-bending abilities. 
 
-### History
-
-Aryon was born in Aethereanil and moved to Troltano in Haelcrien when Duskir and Faelorn decided they didn’t want anything to do with Dawne. Then, later on, Aryon got good with adventuring and decided to pursue her hobby somewhere where the monsters weren’t as powerful and moved to Javenshard. Duskir came with her and Bia.
+You barely reading-comprehended that last sentence, but the mysteries only deepen when she's saddled with the duty of defeating the interdimensional space rats currently invading her country. Her ill-fated mentor character quickly lore drops a bunch of weird shit like being descended from a deity and copious other confusions (what the heck does he mean 'Main Character'???). Even if she pulls off stopping the rat cultists, fate's still got plenty left to do before she can rest well.

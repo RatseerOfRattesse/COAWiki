@@ -2,50 +2,24 @@
 description: Character sheet for Rosalith Verosaven of COA.
 ---
 
-???+ warning ":fontawesome-solid-file-circle-exclamation: Spoilers"
+<style>
+    h1 {
+        display: none;
+    }
+</style>
 
-    Article contains spoilers: Full Series.
+![Rosalith Verosaven, the Trailblazing Archer; Magic System: Governance | T-0 | Frostburnt Inferno; Species: Fae; Age & Pronouns: 16 | She/Her; Home & Birthplace: Javenshard | Javenshard](../../assets/img/charcards/rosa.png)
 
-???+ warning ":octicons-pencil-16: Incomplete"
+--- 
 
-    Article is missing information.
+Occupation: 'Adventurer'
 
-# Rosalith Verosaven
+Specialization: Ice + Fire + Arrow + Speed → [Frostburnt Inferno]
 
-![Portrait of Rosa](../../assets/img/portraits/rosa.png)
+Abilities: Grappling Arrow, Frostburn Bow, Dash
 
-## Basic Information
+Aliases: the Innkeeper
 
-Species: Fae
+--- 
 
-Age: 16
-
-Birthplace: Javenshard
-
-Home: Javenshard
-
-Occupation: 
-
-Aliases: Rosa
-
-## Abilities
-
-Magic System: Governance
-
-Specialization: none
-
-Tier: 0
-
-Abilities: 
-
-## Character
-### Personality
-
-
-
-### Internal Conflict
-
-
-
-### History
-
+Constantly full of energy, snark, and innocent bitchiness, Rosa is the slightly stupid life of the party. Growing up in Javenshard under he brother's shadow has filled her with a need to prove herself, as well as plenty of insults to spite Dan. When presented with the opportunity to fight like an adventurer, she takes it without hesitation - even though she's not the best at it. She's thrown herself headfirst straight into monster hunting, and thoroughly enjoys it. If only the threats Ari and Co. were facing were at her level...

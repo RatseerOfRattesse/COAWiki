@@ -2,29 +2,22 @@
 description: Character sheet for Dahr of COA.
 ---
 
-# Dahr
+<style>
+    h1 {
+        display: none;
+    }
+</style>
 
-## Basic Information
+![Dahr; Magic System: Governance | T-0; Species: Fae; Age & Pronouns: 68 | He/Him; Home & Birthplace: Roriodo | Roriodo](../../assets/img/charcards/dahr.png)
 
-Age: 68
+--- 
 
-Birthplace: Roriodo, Haequar Province, Haelcrien, Kaaldenvale
+Occupation: Fisherman
 
-Home: Roriodo, Haequar Province, Haelcrien, Kaaldenvale
+Abilities: Telekinesis
 
-Occupation: Fisherman - weekly income ~260 hc.
+Aliases: Great Sea
 
-## Abilities
-
-Magic System: Governance
-
-Specialization: None
-
-Tier: 0
-
-Abilities: Telekinesis, Dash
-
-## Character
-### Personality
+---
 
 Eccentric old man.

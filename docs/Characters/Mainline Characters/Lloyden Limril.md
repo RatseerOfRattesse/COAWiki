@@ -2,50 +2,26 @@
 description: Character sheet for Lloyden Limril of COA.
 ---
 
-???+ warning ":fontawesome-solid-file-circle-exclamation: Spoilers"
+<style>
+    h1 {
+        display: none;
+    }
+</style>
 
-    Article contains spoilers: Full Series.
+![Lloyden Limril, the Righteous Harbinger; Magic System: Governance | T-7 | Verdict; Species: Fae; Age & Pronouns: 18 | He/Him; Home & Birthplace: Edenthein | Javenshard](../../assets/img/charcards/lloyd.png)
 
-???+ warning ":octicons-pencil-16: Incomplete"
+--- 
 
-    Article is missing information.
-
-# Lloyden Limril
-
-![Portrait of Lloyd](../../assets/img/portraits/lloyd.png)
-
-## Basic Information
-
-Species: Fae
-
-Age: 18
-
-Birthplace: Edenthein, Deliria Isles
-
-Home: Javenshard, Province Haequar, Haelcrien.
-
-Occupation: Adventurer - weekly income ~2000 hc.
-
-Aliases: Lloyd
-
-## Abilities
-
-Magic System: Governance
+Occupation: Adventurer
 
 Specialization: Cosmic + Justice + Dysphoria + Blade → [Verdict]
 
-Tier: 7
+Abilities: Consecrate, Dash, Rapturous Singularity, Ascension, Dimensional Lockbox
 
-Abilities: 
+Aliases: General Limril
 
-## Character
-### Personality
+--- 
 
+Lloyd was a member of Deliria's powerful House Limril, but has since been estranged from his family and their demanding standards. Though still carrying the burden of his family's academic berating, he's now taken up a career in adventuring that he's far more enthused with. Lloyd also does a side job with some... very not local people, but that's spoiler territory.
 
-
-### Internal Conflict
-
-
-
-### History
-
+He is obsessed with making a change in the world and doing the right thing. Combined with some radical outside influence, and you get a pretty volatile guy. At least he fights really well.

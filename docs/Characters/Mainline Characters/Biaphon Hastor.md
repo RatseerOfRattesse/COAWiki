@@ -1,52 +1,27 @@
 ---
-description: Character sheet for Aryon Hastor of COA.
+description: Character sheet for Biaphon Hastor of COA.
 ---
 
-???+ warning ":fontawesome-solid-file-circle-exclamation: Spoilers"
+<style>
+    h1 {
+        display: none;
+    }
+</style>
 
-    Article contains spoilers: Full Series.
+![Biaphon Hastor, the Compassionate Witch; Magic System: Governance | T-7 | Harbinger; Species: Fae; Age & Pronouns: 20 | She/Her; Home & Birthplace: Javenshard | Aethereanil](../../assets/img/charcards/bia.png)
 
-???+ warning ":octicons-pencil-16: Incomplete"
+--- 
 
-    Article is missing information.
-
-# Biaphon Hastor
-
-![Portrait of Bia](../../assets/img/portraits/bia.png)
-
-## Basic Information
-
-Species: Fae
-
-Age: 20
-
-Birthplace: Aethereanil
-
-Home: 21 Second Ring, Javenshard, Province Haequar, Haelcrien.
-
-Occupation: Adventurer - weekly income ~2000 hc.
-
-Aliases: Bia
-
-## Abilities
-
-Magic System: Governance
+Occupation: Adventurer
 
 Specialization: Sanguine + Imperial + Doom + Reality → [Harbinger]
 
-Tier: 7
+Abilities: Fel Scythe, Sanguine Blades, Sanguine Retribution, Dash
 
-Abilities: Fel Scythe, Sanguine Blades, Sanguine Retribution
+Aliases: Bia
 
-## Character
-### Personality
+---
 
-Unexpected and jovial, always laughing and joking. Gets concerned very easily and often anxious but knows how to hide it. Smart and empathetic, but sometimes irrationally quick to trust. A large lack of cynicism.
+Bia is any party's comedic backbone; she will never stop laughing. Get past her big frontal personality however, and she's quite approachable. Never suspicious of anyone or anything, Bia has a high EQ and a detrimental lack of distrust and worry. However, she has been more agitated than usual as of late - it's about time she and her sister sought harder challenges in order to ascend to t-eight, but Ari won't budge out of her comfortable cot in Javenshard. So when Ari comes home ravaged by a hungry overranked demon, Bia convinces her to head to the nearest high-ranked city to request help. Ari quickly finds the trip spiralling out of control when Bia invites not only fellow adventurer Lloyd, but also their noncombatant friends.
 
-### Internal Conflict
-
-Due to the constant formality and etiquette of her family, Bia grew up very rebellious and casual. She masks herself with an almost cartoonish persona, unable to stop cracking jokes and goofing around. She’s been doing this for so long that the mask has become a fundamental part of her. She doesn’t know how to relinquish it yet realizes that it’s wrong. She feels like she would only get attacked if she took it off, that the people she knows would reverse their attitudes at the reveal that she’s a complete and utter fraud.
-
-### History
-
-Bia was born in Aethereanil and moved to Troltano in Haelcrien when Duskir and Faelorn decided they didn’t want anything to do with Dawne. When her sister Aryon got into adventuring, Bia joined in not long after. After a little discussion, they decided to move to Javenshard, Bia because the weaker monsters would mean faster levelling and Ari because Javenshard was quiet and out of the way.
+Desperate to do something different for once, Bia takes to the journey with enthusiasm, but quickly finds it more than she bargained for as the demon in question turns out to be just as enthusiastic in its pursuit of Ari. Burdened by the guilt of leading her friends into a dangerous and very much preventable situation, she's determined to turn it around and make something positive out of it.
