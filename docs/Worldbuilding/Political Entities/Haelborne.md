@@ -52,7 +52,7 @@ The scientific division is an incredibly important part of their society, as the
 
 ## Biology
 
-Haelborne usually present as humanoid rat-headed creatures. They are extremely tall and possess long, branching antlers that can grow and sever at will. Haelborne are born at a high power level and can utilize that power in many different ways, the most intuitive being spontaneous kinetic energy and manifesting items that they understand well enough. They also project this energy passively, the resulting aura incurring an instinctual reaction of respect from weaker-willed beings in its range.
+Haelborne usually present as humanoid rat-headed creatures. They are extremely tall and possess long spines on their legs that can grow and sever at will. Haelborne are born at a high power level and can utilize that power in many different ways, the most intuitive being spontaneous kinetic energy and manifesting items that they understand well enough. They also project this energy passively, the resulting aura incurring an instinctual reaction of respect from weaker-willed beings in its range.
 
 Other more esoteric uses of this energy is usually done through [rituals](../The%20Cosmos/Firmament%20Theory/Aura%20Mechanics.md#aura-in-tech) like everyone else, though the Haelborne possess a unique ability to absorb and obtain the abilities of some magical artifacts, including ritual-enscribed energy matrixes. Say one absorbs a matrix containing a ritual for summoning a hurricane – they can now summon a hurricane at the cost of [metaphysical energy](../The%20Cosmos/Firmament%20Theory/Metasphere.md) (mana).
 
