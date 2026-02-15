@@ -6,6 +6,17 @@ description: Miscellaneous art made for COA
 
 Miscellaneous art pieces.
 
+
+### CoA Logos
+
+???+ info
+
+    :octicons-unverified-16: :material-crop-landscape: :material-check-all:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![](../../assets/logo.png)
+
 ### Cover Art
 
 ???+ info
