@@ -14,7 +14,28 @@ subtitle: fuelling the cosmos one suffering lifeform at a time
 
     Article contains spoilers: Full Series
 
-Minor immortals are ruled by five Great Immortals. They are: the Mist Lord, the Eternal Light, the Saviour, the Reaper, and the Primordial Equilibrium. These deities are known to all interdimensional civilizations, who worship them. Some fringe civilizations worship other deities that supposedly came before, and these peoples are considered blasphemous.
+## Introduction
+
+A metaphysical being is any being living in the metasphere as opposed to in the physisphere or other spheres of matter. They are, as the title suggests, made from metamatter and operating by metamatter’s laws. Most notable metaphysical beings are immortal and do not die of natural causes. Many of them are straight up invincible to all harm as far as records show.
+
+The most powerful of metaphysical beings are the Narrators. Thy are power incarnate; nothing is beyond their reach. However, as storytellers, their first priority is the story. Thus, they only put factors in place and let them run their course, not interfering unless they deems it necessary.
+
+The Elder Immortals are very powerful beings created by the Narrators to progress the development of the cosmos. They were only able to be captured by the Great Immortals because they were young and inexperienced, maturing on an Immortal time scale instead of a mortal one as their usurpers were.
+
+The Great Immortals are mortals that have ascended to a regular metaphysical being status with very powerful reality bending abilities. Unfortunately, they have tons of metaphysical energy to fuel this bending but no authority to actually modify the plot outside of how the Narrator has set it out to be. That's why they can't intervene - they pretend it's out of care for the world and not wanting to break everything.
+
+The Minor Immortals are servants created by the Elder Immortals. Demigod-style power. Now under the Great Immortals' control.
+
+## The Narrators
+
+Narrators are not actually entirely metaphysical, instead existing in a void between all spheres - not just the metaphysical and physical ones - not even including the chronosphere. They come from a higher narrative stack, in which they wrote this cosmos as a story and are one of the few storytellers there who decide to destabilize their realms by crossing narrative planes.
+
+Narrators continue to write the destiny of the cosmos to this day and will until the end of all things. As according to their nature, nothing in this world is able to resist their power. We should be glad they choose to let their story play out instead of intervening.
+
+## The Elder Immortals
+
+When the cosmos was reborn after the Precursors killed themselves, seven Immortals were created from the Precursor’s experiments: Time, Equilibrium, Chaos, Authority, Energy, Creation, and Destruction. They each governed their aspect of the cosmos and helped sentients among the realities develop in their field.
+
 
 ## The Elder Immortals
 

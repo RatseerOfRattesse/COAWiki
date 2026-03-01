@@ -31,13 +31,13 @@ subtitle: mind the gap of the absolute nothingness
     [:octicons-arrow-right-24: Aura Mechanics](Aura%20Mechanics.md)
 
 
--   __The heck is a narrative stack?__
+-   __Lazy power scaling bandage?__
 
     ---
 
     Oh, you poor uneducated fellow. Anyway, this is my excuse for canonizing the entire *plot hole* part of the series.
 
-    [:octicons-arrow-right-24: Authority](Authority.md)
+    [:octicons-arrow-right-24: Narrative Manipulation](Narrative%20Manipulation.md)
 
 -   __People keep griefing my house!__
 
@@ -71,14 +71,6 @@ subtitle: mind the gap of the absolute nothingness
     METASPHERE. That would make a cool game title, actually. Anyway, it's just the local second layer of reality.
 
     [:octicons-arrow-right-24: Metasphere](Metasphere.md)
-
--   __Lazy power scaling bandage?__
-
-    ---
-
-    Reality bending! Spooky kooky red lightning powered by Authority (AKA yours truly). Looks cool and works well.
-
-    [:octicons-arrow-right-24: Reality Bending](Reality%20Bending.md)
 
 -   __You're not a crystal guy are you?__
 

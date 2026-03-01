@@ -3,7 +3,7 @@ description: Worldbuilding for COA
 subtitle: i am become ponder, destroyer of logic
 ---
 
-# Authority
+# Narrative Manipulation
 *i am become ponder, destroyer of logic*
 
 ???+ warning ":fontawesome-solid-file-circle-exclamation: Spoiler"
@@ -12,6 +12,12 @@ subtitle: i am become ponder, destroyer of logic
 
 ## Narrative Stack
 The concept of a narrative stack is that each world is a fictional narrative in a higher world in the narrative stack, and creates more worlds lower down in the narrative stack in the forms of fiction.
+
+## Reality Bending
+
+Reality bending is a way of channeling [metaphysical energy](Metasphere.md) that takes a form of metaphysical energy right out of the [soul](Souls.md) and uses it to reshape reality. This requires certain properties for the soul in question, including the ability to break a body’s naturally imposed energy limit.
+
+The channels required to use this energy are usually only usable by [metaphysical entities](Metaphysical%20Beings.md), who don’t have to worry about a fragile body to channel through. Physical entities attempting reality bending run the risk of destroying their bodies if using too much power. Therefore, this is extremely strenuous for them and can cause massive spiritual backlash after the fact.
 
 ## Authority
 Authority, in universe, is a form of metaphysical energy, granting the ability to affect the narrative. To write the canon, or to influence it. I have the ultimate Authority, being the Narrator in story and the creator of the series. [idi0cy](../../../Characters/Mainline%20Characters/Idi0cy.md) also has a bunch of Authority, as he canonically exists inside COA and is my ideas man. So do my other friends.

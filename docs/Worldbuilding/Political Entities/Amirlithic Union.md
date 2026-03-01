@@ -20,7 +20,7 @@ Organized society between realities is commanded by a massive interworld council
 
 ## Motives
 
-
+Amirlith has reached a plateau in their development and is satisfied with maintaining the status quo with themselves at the top. They are also the main follower base of the Great Immortals and thus largely obey the orders of the churches.
 
 ## Population
 
