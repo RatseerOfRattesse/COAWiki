@@ -8,19 +8,47 @@ subtitle: never ask a dysphorium about their dietary habits
 # Eating New People
 *never ask a dysphorium about their dietary habits*
 
-The Haelborne’s dimension ship was a grand undertaking, an enormous hunk of metallic material forged and shaped into a habitable vessel. Ritual diagrams shone across its hull, granting it the magic to cross between realities. For now, it was docked atop the sky-dome of Kaaldenvale — a reality encompassing just a single planet — waiting.
+A golden silhouette lifts his hood over his head.
+
+“He is about to betray everything he has ever known.”
+
+A voice sounds through your fog, from your right. It speaks softly, with the seasoned cadence of a storyteller.
+
+“Drama!” shouts the second voice from the left. The cadence emits an unseen grin.
+
+A sigh. “Help me, or shut up.”
+
+A sharp cackle. “No thanks.”
+
+“Asshole,” says the first voice and a hand flows across your vision, giving form to the fog. Brushstrokes paint words and they become a thought and a visual and pierce your mind.
+
+In the centre of your visual field, a blaze of whirling red and purple coalesces against the gloomy cyan background. It morphs into a person.
+
+“That,” says the first voice. “Is your eyes.”
+
+“She’s very flawed,” snarked the second. “Headstrong, yet careful, yet ruthless.”
+
+“She has a ways to go,” shrugged the first. You feel something drift by on your right. “But I think she has a chance, no?”
+
+“A fat one!” chorused the second like a demonic choir.
+
+“You are such a disgusting pessimist,” the first drawls. “I think you have had enough of us. My piston will lead the way – for you, and your eyes both.”
+
+On the top right of your visual field, there is a blaze of red against the cyan environment. A description flows into your mind, pure meaning deconstructing and reassembling until it becomes –
+
+The Haelborne’s dimension ship was a grand undertaking, an enormous hunk of metallic material forged and shaped into a habitable vessel, its hull covered in rituals for crossing worlds. For now, it was docked atop the sky-dome of Kaaldenvale — a reality encompassing just a single planet — waiting.
 
 This particular mission was quite special. Both in terms of the objective,  and who was involved.
 
 In one of the ship’s lounges sat a fae and a dysphorium.
 
-This particular fae was a relatively recent recruit to the Haelborne faith and came from the world he was about to betray. He announced himself Limril, and proceeded to blunder his way through various social situations with unasked-for factoids.
+This particular fae was a relatively recent recruit to the Haelborne faith and came from the world below. He announced himself the new recruit, Limril, and proceeded to blunder his way through various social situations with unasked-for factoids.
 
-The fae were the local intelligent species of Kaaldenvale, somewhat resembling the elves of Earth folklore. Evolved from highly predatory mammals, they bore such features as retractable cat-like claws, razor-sharp flexible ears (though now reduced to vestigial eye candy), and jagged rows of teeth.
+The fae were the local intelligent species of Kaaldenvale, somewhat resembling the elves of Earth folklore. Evolved from highly predatory mammals, they bore such features as retractable cat-like claws, razor-sharp flexible ears (though now reduced to vestigial eye candy), and jagged rows of teeth. His identifying ears, supposedly unique to every fae, were bland and basic – simply one arc in its span.
 
 His company was even stranger.
 
-Its name was Grim, and like all dysphorium, its only goal was to create lasting, devastating change in the cosmos. This dysphorium was a nightmarish concoction. It had serrated blades incorporated into its limbs. Its face was dominated by a wide, ever-grinning mouth of sharp teeth. Its deep blue-grey hair floated in nonexistent wind, more like tentacles than strands.
+Its name was Grim, and like all dysphorium, its only goal was to create lasting, devastating change in the cosmos – preferably via destruction. Its body was a nightmarish concoction, serrated blades incorporated into its limbs, a wide, ever-grinning mouth of sharp teeth. Its deep blue-grey hair floated in nonexistent wind, more like tentacles than strands.
 
 The two were playing a local board game. Limril was unusually enthused for his nonchalant and apathetic demeanour. Grim was alternately moving pieces and tasting them.
 
@@ -34,19 +62,20 @@ The two were playing a local board game. Limril was unusually enthused for his n
 
 “Such a selfless person.”
 
-![The Haelborne ship floats over Kaaldenvale](../../../assets/img/illustrations/Prologue-1.png)
-
 Limril sighed again and swept the board and pieces off the table. He waved his hand, and the board hovered its way across the floor and into a cupboard. Eyes dulling, he snatched a can of soda out of nothingness, popping it open and downing a gulp.
 
-“So,” he said between sips. “You ready for dispatch to Javenshard this week?”
+“So,” he said between sips. “You ready to head to Javenshard this week? The big operation is finally starting.”
 
-“What-shard?” Grim mumbled, its grin fracturing back to a mildly triumphant smile. “What’s to eat there?”
+“What’s to eat there?” Grim mumbled, its grin fracturing back to a triumphant smile.
 
-“Javenshard, Grim. A town. In Haelcrien. And you can’t eat anyone until we get scouting done. And then we have to figure out the arrangement with the guild.”
+“Javenshard, Grim. A town. In Haelcrien. And you can’t eat anyone until we get scouting done and actually finish the plan.”
 
-Grim blew a raspberry – which was quite odd looking, because it didn’t have lips, and its tongue looked like a spiked mace made from red flesh.
+Grim blew a raspberry – which was quite odd looking, because it didn’t have lips, and its tongue looked like a spiked mace made from black flesh.
 
-“Can I go negotiate with those guys? I love eating – I mean EATING new people.”
+
+![The Haelborne ship floats over Kaaldenvale](../../../assets/img/illustrations/Prologue-1.png)
+
+“Oh come on, a few fae missing won’t matter. I love eating – I mean EATING new people.”
 
 Limril stared at it.
 
@@ -54,15 +83,18 @@ Limril stared at it.
 
 “The Fundament Glass, Grim. The reason we recruited you in the first place?”
 
-"Recruited me? No, I think I recruited myself.”
+“Recruited me? No, I think I recruited myself.”
 
 “Of course you do. When you get powerful enough, it just seems like everything happens because you’re around.”
 
 “It does because it’s true. So why are we after a piece of glass?”
 
-“If you keep playing dumb, I am going to report you to management.”
+“You – ” Limril slid a hand down his face. “Stop. You know all this, you have a brain higher power than anything our Governance could come up with.”
 
-“How many calories is one of them worth?”
+“Nah, I have to practice being dumb for the operation, don’t I?” Grim giggled. “And you’re hilarious to tease. Always so stressed.” It pointed a claw at Limril. “You simply can’t wait to let her down, hmmm?”
+
+Limril’s lips thinned, but he kept his mouth shut.
+
 
 <div class="grid cards" markdown>
 
