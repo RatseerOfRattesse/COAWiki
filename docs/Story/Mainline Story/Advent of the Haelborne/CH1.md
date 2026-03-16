@@ -23,15 +23,17 @@ Really. We’re a pair of tier sevens and she’s dragged us into the t-thirteen
 
 Loud pen scratching noises. Ignore her.
 
-I’m writing this as I walk down a forest path with my sister. As an uninitiated, you might think this is a terrible idea and I should pay more attention while walking through a spooky scary forest infested with monsters and shit. No, I’m good. As a tier seven in the Gov’nance systems, I’ve gotten a lot of attribute points, twenty-seven of which are in soul. I can multitask way better than a regular fae. Took Bia and I, what, six years? to level this high – we’ve nearly reached tier eight too – and, oh, lemme tell ya, it’s worth it. I can run across the entirety of Javenshard in seconds. And to think people lived before the Governance came along. I mean, there is a lot of people who don’t use it… but those people are just lazy. And missing out.
+I’m writing this as I walk down a forest path with my sister. Dan always says this is a terrible idea and I should pay more attention while walking through a spooky scary forest infested with monsters and shit. No. As a tier seven, I’ve gotten a lot of attribute points, twenty-seven of which are in soul. I can multitask way better than a regular fae. Took Bia and I, what, six years? to level this high – we’ve nearly reached tier eight too – and, oh, lemme tell ya, it’s worth it. I can run across the entirety of Javenshard in seconds. And to think people lived before the Governance came along.
 
-Bia’s merrily skipping down the trail while still ranting about my social deficits – which I assure you do not exist. Bia’s two years older than me – I’m eighteen – and, contrary to the majority of sibling to sibling relationships, she’s always the one annoying me, not the other way around. I’m simply too dignified to give a shit about low hanging self assurement.
+Bia’s merrily skipping down the trail while still ranting about my social deficits – which I assure you do not exist. Bia’s two years older than me – I’m eighteen – and, contrary to the majority of sibling to sibling relationships, she’s always the one annoying me, not the other way around. I’m simply too dignified to care about low hanging self assurement.
 
-Bia’s real tall,  just over two metres. She has short but impeccably styled purple hair (a hallmark of the family). This is the Hastors’ fae colour palette, so we all of have it – though I wear it better than Bia, of course. Mother has it too, even though she married in – I swear it’s coincidence. I hope we’re not inbred – Father did always say we were descended from royalty and those fuckers are notorious for it. She wore her enchanted combat outfit, consisting of an armoured jacket with silver bands and cargo pants. Our ears stretch out far longer than the average fae, expanding about ninety centimetres to either side (another hallmark of the Hastor line – we’re really, uh, special). Three divots were carved into them from the bottom – ear shape was a feature unique to every fae, but the regs over there haven’t got the length to really be all that unique. Again, we’re special.
+Bia’s real tall. She has the Hastor line’s purple hair and eyes, hers cut short and curled. I wear it better than Bia, of course. Mother has it too, even though she married in – I swear it’s coincidence. I hope we’re not inbred – Father did always say we were descended from royalty and those fuckers are notorious for it.
 
-Compared to Bia, I’m some sort of gremlin. Height-wise, if that wasn’t clear. I have to assume certain levels of disability in anybody reading this (because it’s probably me).
+Both of us have enchanted combat gear, hers consisting of an armoured jacket with silver bands and cargo pants. Our ears stretch out far longer than the average fae, expanding about ninety centimetres to either side (the Hastor line has a few… special traits). Mine has these two little tails before the end triangle, and hers three divots before the triangle. Ear shape was a feature unique to every fae, but the regs over there haven’t got the length to really be all that unique. Again, we’re special.
 
-I’m short for a fae, only one and a bit metres tall. My hair’s longer, styled super weird with a braid and multiple blatant violations of the laws of physics. My ears droop downward a lot. My gear (the non-conjured parts anyway) a parka with selective armour plating, with a red scarf layered over it. Not the most resilient – thank wealth inequality for repair enchantments.
+Compared to Bia, I’m some sort of gremlin. Height-wise, if that wasn’t clear. I have to assume certain levels of disability in anybody reading this (because it’s probably one of my friends sneaking this out of my house).
+
+I’m short for a fae, only one and a bit metres tall. My hair’s longer, styled super weird with a braid and multiple blatant violations of the laws of physics. My ears droop downward a lot. My gear, a parka with selective armour plating, with my good old red scarf layered over it. Not the most resilient – thank wealth inequality for repair enchantments.
 
 “... and that’s why you suck and the gods hate you.”
 
@@ -39,20 +41,22 @@ I looked up.
 
 “What?”
 
-I totally heard everything she said. It’s just funnier to pretend I didn’t.
+I heard everything she said. It’s just more satisfying to pretend I didn’t, and she knows.
 
 “Smartass.”
 
-“Better than dumbass,” I grumbled, panning my eyes across the trees. “Speaking of which, you, and this idea.”
+“Better than dumbass,” I grumbled, panning my eyes across the trees. “Speaking of which, you, and this place.”
 
 “Oh, it’ll be fine!” Bia replied, spreading her fingers. “The monsters here aren’t even that high level. They’re only tier… what, thirteen?”
+
 I stare back with glaring intensity.
 
 “And we’re tier seven.”
 
 “Well isn’t that just tragic! But please, shut up and do the scan already.”
 
-Rolling my eyes, I summon a weapon with the snap of a finger. A dagger flickers into existence in my hands. Blade of deep purple crystal, with red trails shimmering throughout, twisting and swirling like hundreds of miniature snakes.
+Rolling my eyes, I summoned a weapon with the snap of a finger. A dagger flickered into existence in my hands. A blade of deep purple crystal, with red trails shimmering throughout, twisting and swirling like hundreds of miniature snakes.
+
 
 ???+ governance "Ability: [Voidburst Dagger] (Conjuring)"
 
@@ -128,9 +132,9 @@ Rolling my eyes, I summon a weapon with the snap of a finger. A dagger flickers 
 
     Increase damage of [Adverse Manaturgy] from summoning, casting, conjuring, and ritual type abilities by (target’s tier) %.
 
-I twirl the dagger in a showy way, before sliding it into a scabbard on my belt. This bad boy had slain a lot of monsters and was one of the first abilities I’d acquired, from back when we first immigrated to Haelcrien and mother still had the heart (and sanity, can’t forget that part) to train me.
+I twirled the dagger before sliding it into a scabbard on my belt. This bad boy had slain a lot of monsters and was one of the first abilities I’d acquired, from back when we first immigrated to Haelcrien and mother still had the heart, and sanity, to train me.
 
-From my belt pouch (extradimensional!!!) I take a metal tablet far larger than the pouch itself. I tap the tablet three times with a finger like I had done hundreds before. After a brief moment, lines engrave themselves into the metal, creating a radar interface. A quick scanning animation follows, before dots appear around the area. I tap the closest one.
+From my dimensional bag, I took a metal tablet, tapping the tablet thrice like I had done hundreds before. After a brief moment, lines engraved themselves into the metal, creating a radar interface. A quick scanning animation followed, before dots appeared around the area. I tapped the closest one.
 
 ???+ governance "Creature: [Crienbeast] (Beast)"
 
@@ -142,11 +146,11 @@ From my belt pouch (extradimensional!!!) I take a metal tablet far larger than t
 
 “Pack of crienbeasts, tier four, two hundred metres that way.”
 
-Bia cackled. She holds out her hand and chants:
+Bia cackled. One hand out, she chanted:
 
 “Fallen horrors in the gloom, come forth and ferry my doom.”
 
-Red mist coalesces in her palm before expanding to form a massive scythe, with a blade of crimson metal and grip of black hide.
+Red mist coalesced in her palm before expanding to form a massive scythe, with a blade of crimson metal and grip of black hide.
 
 
 ???+ governance "Ability: [Fel Scythe] (Conjuring)"
@@ -206,9 +210,7 @@ Red mist coalesces in her palm before expanding to form a massive scythe, with a
 
     Instantaneously deals moderate necrotic damage. Continues to deal slowly deescalating damage for ten sec. before dropping off.
 
-Without another word, she dashes off into the forest, heading towards the pack of monsters ahead. Decimating local species time. I’ve gotta write the rest of this after we finish fighting.
-
-I rolled my eyes, conjuring a pair of wings before launching after my sister.
+Without another word, she dashed off into the forest, heading towards the pack of monsters ahead. Decimating local species time. I rolled my eyes, conjuring a pair of wings before launching after my sister.
 
 ???+ governance "Ability: [Wings of Equilibrium] (Utility)"
 
@@ -254,7 +256,10 @@ I rolled my eyes, conjuring a pair of wings before launching after my sister.
 
         - Wings passively move to deflect incoming projectiles. Projectiles can be redirected at enemies for a meagre mana cost.
 
-With a rush of wind, I landed in the middle of a forest clearing, immediately knocking several crienbeasts off their feet. As stressed as I was in this over-ranked area of the forest, the thrill of combat rushed me right into the zone. Brandishing my dagger, I immediately leapt at the nearest monster, the sheer force of the launch tearing the poor thing’s head right off its body. It tumbled about for a few seconds while the rest of its Governance-given energy sapped away and it dissolved into a pile of assorted items. Normally monsters didn’t dissolve so quickly, but I must’ve hit that one too hard.
+With a rush of wind, I landed in the middle of a forest clearing, immediately knocking several of the crienbeasts off their feet, braid flashing like a whip behind me. As stressed as I was in this over-ranked area of the forest, the thrill of combat rushed me right into the zone.
+
+Brandishing my dagger, I immediately leapt at the nearest monster, the sheer force of the launch tearing the lower-ranked monster’s head right off its body. It tumbled about for a few seconds while the rest of its Governance-given energy sapped away and it dissolved into a pile of assorted items. Normally monsters didn’t dissolve so quickly, but I must’ve hit that one too hard.
+
 
 ???+ governance
 
@@ -287,7 +292,7 @@ Bia dashed into the clearing just a moment later. Her scythe flashed into a blac
 
     You have defeated: [Crienbeast] x3
 
-The poor creatures scrambled to re-assert their position – but NOPE, ‘cause I’m here to kick ass and other body parts too. A swarm of light blades dislodged from my outstretched hand, trailing fire and burning through poor, weak flesh. A second volley ensured their demise with a bonus cremation (for free!).
+The creatures scrambled to re-assert their position – but no, ‘cause I’m here to kick ass and other organs. A swarm of light blades dislodged from my outstretched hand, trailing fire and burning weak flesh. A second volley ensured their demise with bonus free cremation.
 
 ???+ governance "Ability: [Rain of Light] (Attack)"
 
@@ -333,7 +338,9 @@ The poor creatures scrambled to re-assert their position – but NOPE, ‘cause 
 
     Target acquires an affinity weakness to light and light-adjacent damages.
 
-The rat-bear hybrids rushed forwards in a wave, claws flashing and teeth gnashing. Rocks and chunks of earth lifted as they ran, the spines across their backs lighting up a soft green as the debris shot forward. That was a neat little ability of theirs – manipulating gravity in a small area around them. Anyway, let’s let the little cuties run around a little more. It gets boring from here.
+The remaining beasts rushed forwards in a wave, claws flashing and teeth gnashing. Rocks and chunks of earth lifted as they ran, the spines across their backs lighting up a soft green as the debris shot forward. That was a neat little ability of theirs – manipulating gravity in a small area around them. They charged with fury.
+
+Limbs, blade, all elements moved in perfect harmony.
 
 Within the span of a minute, the entire pack lay dead and disembowelled across the forest floor.
 
@@ -341,13 +348,15 @@ Within the span of a minute, the entire pack lay dead and disembowelled across t
 
     You have defeated: [Crienbeast] x6
 
-Ooh, aren’t the wafting scents of burnt flesh so nice in the pristine outside air? I know, they really are.
+Aren’t the wafting scents of burnt flesh so nice in the pristine forest air?
 
-Leaves crunched as I stepped to the nearest body. I tapped a finger to the beast’s temple, brushing the thing’s fur with pleasure – there was loot to come.
+Leaves crunched as I stepped to the nearest body. I tapped a finger to the beast’s temple.
 
 ???+ governance "Loot 1x [Crienbeast Tier IV]?"
 
-I ignored the Governance window and proceeded to tap the other corpses, as Bia did likewise on the other side of the clearing. Windows stacked up rapidly before they consolidating into one.
+I ignored the Governance window and proceeded to tap the other corpses, as Bia did likewise on the other side of the clearing. Windows stacked up rapidly before they consolidated into one.
+
+![Ari stares at Bia while the latter holds up a drained lesser Governance core. Crienbeast corpses litter the ground.](../../../assets/img/illustrations/Ch1-1.png)
 
 ???+ governance "Loot 10x [Crienbeast Tier V]?"
 
@@ -376,37 +385,33 @@ I did not see what I just described, however. In Bia’s hands was a pile of shi
     A simple run of the mill leather bag- but bigger on the inside.
     Item capacity: 40 m.3
 
-We gathered up the rest of the free money and trekked back into the trees and off to the shallower parts of the woods.
+We gathered up the rest of the free money and trekked back into the trees, off to the shallower parts of the woods.
 
-“Woo! What a haul!”  Bia exclaimed excitedly. She snatched a metal tablet out of her own belt pouch, fingers flitting about across its surface in practiced motion, cataloguing our operation today. “Two commissions taken, and a ton of bonus loot. Ari – aye – whaddya say we take a day off tomorrow?”
+“Woo! What a haul!”  Bia sang. She snatched a metal tablet out of her own belt pouch, fingers flitting about across its surface in practiced motion, cataloguing our operation today. “Ari – aye – whaddya say we take a day off tomorrow?”
 
-I just stared silently at the dome of scattered lights in the sky. Sorry Bia, I tune out a lot. This late in the day, the stars cast dim orange light onto the ground, though some of them had turned off entirely.
+I was silent at the dome of scattered lights in the sky. This late in the day, the stars cast dim orange light onto the ground, though some of them had turned off entirely.
 
-“Huh? Oh,” I muttered, returning her gaze to the forest in front of her. “It’s almost stardown. We should go faster.”
+“Hm?” I muttered, returning my gaze to the forest in front of me. “It’s almost stardown. We should move faster.”
 
 “Boring,” Bia chimed out, sliding the tablet away and jamming her hands in her pockets in a popping motion. “Nightime’s fun! That’s when all the real spooping monsters come out!”
 
-“Y’know, I have a mild suspicion that that’s definitely not a good thing.”
+“I have a mild suspicion that is not a good thing.”
 
-“You’re no fun. I’m going to leave now, meet you at home later!”
+“You’re no fun. I’m going to leave now, see ya!”
 
 In one movement spanning less than a second, she had completely disappeared from sight. With a blink, I pulled at the energy behind my eyes. A red sigil appeared in my vision, becoming smaller as it mapped itself onto my retreating sister’s back.
 
 “Very funny!” I called. “Get back here!”
 
-There was no response. The sigil became smaller, but I could still see in perfect clarity. Perks of levelling so high.
+There was no response. The sigil became smaller, but I could still see in perfect clarity. Perks of t-seven.
 
 “Bia!”
-
-![Ari stares at Bia while the latter holds up a drained lesser Governance core. Crienbeast corpses litter the ground.](../../../assets/img/illustrations/Ch1-1.png)
 
 “BIA!”
 
 I sighed and continued through the melancholic forest. I walked at a leisurely pace, trying to conjure up some thoughts in my solitude. But my mind was empty. Adamantly content to simply observe the world.
 
-I should stop being poetic.
-
-Nah, fuck that.
+I should stop being poetic, but I am a painter.
 
 Trees stretched into unidentifiable shapes.
 
@@ -414,19 +419,19 @@ Leaves chattered in whispers of forgotten languages.
 
 Birds chirped and called distantly.
 
-The shadows seemed… particularly mocking. Like a really really expressive chandelier.
+The shadows seemed… particularly mocking. Like an expressive chandelier.
 
 And then everything stopped.
 
-“What the- “
-
-At first, I thought I’d gone deaf. In a place a tier zero would hear nothing, a tier seven could hear the smallest flickers in the environment, from the crawling of insects across the mildewed surfaces to the dripping of minuscule waters from trees to soft dirt.
+At first, I thought I’d gone deaf. In a place a tier zero would hear nothing, a tier seven could hear the smallest flickers in the environment, from the crawling of insects across dead logs to the dripping of minuscule water from trees to soft dirt.
 
 But no, it wasn’t me.
 
+“What the – ”
+
 Silence rang in an almost tangible wave. Something was wrong, something fundamental. I summoned my dagger, slowly turning on the spot, scanning the trees. Nothing else dared move or make noise as a Presence settled over the forest. I couldn’t distinguish any of its elements. It was a maelstrom of madness, merry and ecstatic with the cold promise of eternal unexistence.
 
-I blinked, expecting another red sigil to appear. Nothing.
+I blinked, expecting another red sigil to mark whatever was approaching. Nothing.
 
 There were two explanations for this.
 
@@ -436,7 +441,7 @@ B: I am tripping balls.
 
 My eyes slashed across the trees, picking out anything out of place before spotting it: a faint blur speeding forward. Cracks and groans echoed from its position as if reality strained where it stepped.
 
-It was way too fast for me to run away. At least tier fourty based on that one time I watched skilled adventurers fighting higher-tier monsters in Troltano. I couldn’t match its physical speed, but I had years of combat experience. On pure instinct – without even a thought – an array of translucent blue shields sprang up in front of me, just in time to meet a swarm of metal blades.
+It was way too fast for me to run away. At least tier forty based on that one time I watched skilled adventurers fighting higher-tier monsters in Troltano. I couldn’t match its physical speed, but I had years of combat experience. Without even a thought, an array of translucent blue shields sprang up in front of me, just in time to meet what looked like a swarm of metal blades.
 
 ???+ governance "Ability: [Shattersweep Shield] (Defence)"
 
@@ -488,7 +493,7 @@ It was way too fast for me to run away. At least tier fourty based on that one t
 
     Target becomes more susceptible to ethereal damage and is occasionally hit with some void damage and multiplies this effect. Effect stacks.
 
-The shields shattered. Stupid me, assuming my puny tier seven power could hold up to random tentacle monsters.
+        	The shields shattered. Stupid me, assuming my puny tier seven power could hold up to random tentacle monsters in the woods.
 
 Blue shards danced outwards explosively before dissolving. In the split second time it took for the strikes to break through, I pulled my arms up to block the strike – and had them utterly eviscerated.
 
@@ -498,7 +503,7 @@ So much useless, powerless meat.
 
 ???+ governance
 
-    HP: [50%]
+    HP: [70%]
 
 I stood there for a few seconds, almost disbelievingly.
 
@@ -506,7 +511,7 @@ It had been so long since I’d seen my own blood.
 
 “Shit…”
 
-It was at this point that poor little Aryon Hastor realized… that she had supremely fucked up.
+It was at this point that poor little Aryon Hastor realized she was outmatched.
 
 I glanced up at the monster.
 
@@ -516,12 +521,13 @@ Eight eyes glowed with bright red glee, arranged in a circle surrounding a gapin
 
 Why wasn’t it attacking?
 
-Oh yeah. This would be a supremely comedic moment when it slapped me sixteen metres backwards through seventeen trees.
+Oh yeah. This would be a supremely comedic moment for it to slapped me backwards through seventeen trees.
+
 I should probably… run?
 
-“Nope, nope – NOPE, GOODBYE!” I screamed as I conjured my wings and launched into the sky. “I think I’ll just be going this way now and you’re not gonna get anywhere closer or I don’t damn know what I’ll do MAYBE I SHOULD STOP HYPERVENTILATING AND FUCKING RUN!”
+“Nope, nope – NOPE, GOODBYE!” I screamed, conjured my wings and launched into the sky. “I think I’ll just be going this way now and you’re not gonna get anywhere closer or I don’t damn know what I’ll do MAYBE I SHOULD STOP HYPERVENTILATING AND FUCKING RUN!”
 
-The whistling of wind through metal sounded as black tendrils topped with wicked blades surfaced around me. The entity barrelled upwards, closer, closer, closer and closer. I turned around just long enough for the Governance to analyze the monster. A window appeared in the corner of my vision. It didn’t help – in fact, I was now MORE panicked.
+The whistling of wind through metal sounded as black tendrils topped with wicked blades surfaced around me. The entity barrelled upwards, closer, closer, closer and closer. I turned around just long enough for the Governance to analyze the monster. A window appeared in the corner of my vision. It revealed zero helpful information.
 
 ???+ governance "Being: [Unknown] (Dysphorium (Alt. 3152))"
 
@@ -531,18 +537,17 @@ The whistling of wind through metal sounded as black tendrils topped with wicked
 
     Entity shares foreign magic system equivalent of your title [Dormant]
 
-“WHAT DOES THAT MEAN?!!!! WHAT ARE YOU??!!!!!!!” I half cried. I flung light blades at the thing, screaming and crying my way upwards. Cackling drifted through the rancid air as a massive metal claw snatched me downwards. Debris detonated from the impact as I was slammed against a tree.
-The entity didn’t move it’s main body, instead pushing me up the trunk with the claw attached to its tentacle.
+“WHAT DOES THAT MEAN?!!!! WHAT ARE YOU??!!!!!!!” I half cried. I flung light blades at the thing, screaming and clawing my way upwards. Cackling drifted through the rancid air as a massive metal claw snatched me downwards. Debris detonated from the impact as I was slammed against a tree.
 
-It rattled its way closer, taking its time. Its Presence grew stronger, the layers of reality bending and warping as it slashed forwards, limbs distending with snaps and crackles. Finally, it reached the foot of the tree. Its head snapped upwards, eyes piercing my skull as it concentrated its Presence towards me. This was a technique only known by the most elite of adventurers. No sound could escape my lips.
+The entity didn’t move its main body, instead pushing me up the trunk with the claw attached to its tentacle.
+
+It rattled its way closer, taking its time. Its Presence grew stronger, the layers of reality bending and warping as it slashed forwards, limbs distending with snaps and crackles. Finally, it reached the foot of the tree. Its head snapped upwards, eyes piercing my skull as it concentrated its Presence towards me. This was a technique only known by the elite adventurers. No sound could escape my lips.
 
 “Hello there!” the entity cheered happily, like a preschooler with a new toy. “I’m Grim!”
 
 Silence. I physically could not talk – the Presence still screaming in my veins.
 
-“Oh, not up for a talk then? Funny! Straight to the chase then…” Grim’s eye sockets narrowed. It had no pupils, but this still achieved a look of persecution – or, to be less descriptive, a look of ‘I’m going to kill you and everyone you love and then I’m going to steal your tendons to make a blanket.’ “Would you be so kind as to hand over the Firmament Hourglass?”
-
-![Grim pins Ari to a tree with a claw.](../../../assets/img/illustrations/Ch1-2.png)
+“Oh, not up for a talk then? Funny! Straight to the chase then…” Grim’s eye sockets narrowed. It had no pupils, but this still achieved a look of persecution – or, to be less descriptive, a look of ‘I’m going to kill you and everyone you love and turn your tendons into a blanket.’ “Would you be so kind as to hand over the Firmament Hourglass?”
 
 The Presence relaxed slightly.
 
@@ -552,7 +557,11 @@ The Presence relaxed slightly.
 
 “W-what?” I shuddered, heart pounding through my chest. The trinket under my scarf seemed to become heavier.
 
-Grim’s eyes narrowed further. It sighed and dragged its hand upwards. It had no fingers – the end of its forearm instead hosted three serrated, articulated metal claws. With a movement faster than I could see, it pulled my necklace out from under my scarf. At the end of the chain was that tiny hourglass, filled with blood red sand.
+Grim’s eyes narrowed.
+
+![Grim pins Ari to a tree with a claw.](../../../assets/img/illustrations/Ch1-2.png)
+
+It sighed and dragged its hand upwards. It had no fingers – the end of its forearm instead hosted three serrated, articulated metal claws. With a movement faster than I could see, it pulled my necklace out from under my scarf. At the end of the chain was that tiny hourglass filled with blood red sand.
 
 Oh, oh yeah. I definitely know what it wants.
 
@@ -564,9 +573,9 @@ Wanna guess which one I went with?
 
 “Uh, no.”
 
-This was a completely rational and logical decision. You can imagine me giving a thumbs up right now.
+This was a completely rational and logical decision. You can imagine me giving a big thumbs up right now.
 
-The Presence returned in an instant, a reality-shattering aura thundering into place. Screams and wails echoed through my ears, the smell of soot and ash burning through my skull like the spilled internal bodily fluids of hundreds of ended lives. Another tentacle, this one topped with a massive scythe, unlatched itself from Grim’s back and ripped into my chest. Frankly, it was a miracle I was still alive. Tier seven blood coursed out of the wound, the vital force keeping her together spilling by the litre.
+The Presence returned in an instant, a reality-shattering aura thundering into place. Screams and wails echoed through my ears, the smell of soot and ash burning through my skull like the spilled internal fluids of a hundred lives. Another tentacle, this one topped with a massive scythe, unlatched itself from Grim’s back and ripped into my chest. Tier seven blood coursed out of the wound, the vital force keeping me together spilling by the litre.
 
 ???+ governance
 
@@ -584,21 +593,17 @@ Grim raised another claw-hand. It dug further into my ribcage, tossing out vario
 
 I had no lungs to scream. No biggie. I’m sure everything will turn out okay. Sarcastic optimism is my coping mechanism!
 
-“Relinquish the hourglass please,” Grim chittered, its tone as goofy as ever. "I need your soul’s permission."
+“Relinquish the hourglass please,” Grim chittered, its tone as goofy as ever. “I need your soul’s permission.”
 
-I could only cough and splutter. This, however, was an advanced battle tactic known as DECEPTION, BITCH!
+I could only cough and splutter. This, however, was an advanced battle tactic known as playing dead. This method is also known as saving your most powerful move until the end of the fight for dramatic effect and definitely not because I’m too much of scaredy cat to manage logical thinking in a near death situation. I am incredibly battle seasoned.
 
-This method is also known as saving your most powerful move until the end of the fight for dramatic effect and definitely not because I’m too much of scaredy cat to manage logical thinking in a near death situation.
-
-I raised a hand in a casting position, pointed at Grim. Four fingers stretched out as far forward as possible, the pinky folded backwards across the bottom of the thumb. There was a moment of silence, as Grim curiously tilted its head. Ooh, it had no idea.
+I raised a hand in a casting position, pointed at Grim. Four fingers stretched out as far forward as possible, the pinky folded backwards across the bottom of the thumb. There was a moment of silence, as Grim tilted its head. Perhaps in curiosity, perhaps in mocking.
 
 I pulled at the energy under my eyes. Four red circles burned indents into my thumb, index, middle, and ring fingers. I grunted in pain.
 
-Tendrils of piercing red light blasted from my fingers. Crackling erupted at an ear-piercing pitch as the red lightning shot towards Grim and sent the thing flying off hundreds of kilometres into the horizon. Panting, I fell to the ground, clutching the gaping hole in my chest. The flesh had already started to knit back together – thank the Immortals for ranked-up healing kicking in.
+Tendrils of piercing red light blasted from my fingers. Crackling erupted at an ear-piercing pitch as the red lightning shot towards Grim and sent the thing flying off hundreds of kilometres into the horizon. Panting, I fell to the ground, clutching the gaping hole in my chest. The flesh had already started to knit back together, ranked-up healing kicking in.
 
-Crawling into a comfortable position, I reached into my extradimensional pouch, fumbling about before snatching out a massive bottle. It had an unbalanced top and bottom, almost like one of those kids’ science worksheets we did in first grade.
-
-![Ari hunches over her sword, staggering towards a portal as blood drips from her chest.](../../../assets/img/illustrations/Ch1-3.png)
+Crawling into a comfortable position, I fumbled into my extradimensional pouch.
 
 ???+ governance "Item: [Reinforced Glass Bottle] (Container)"
 
@@ -618,9 +623,11 @@ Crawling into a comfortable position, I reached into my extradimensional pouch, 
 
     A potion that can completely restore missing health and mana.
 
+![Ari hunches over her sword, staggering towards a portal as blood drips from her chest.](../../../assets/img/illustrations/Ch1-3.png)
+
 I ripped off the cork and downed all the silver liquid inside. My wounds healed even faster, flesh and sinew flashing and flailing until it looked like there was never any damage at all. It was half a minute before I moved. Even though it had physically healed me, it wasn’t able to cure exhaustion.
 
-Once the potion had done its job, I shambled upright. Again lifting an arm in casting position, I waved it in a ring and the red energy cut a hole in the world. Through the tear was my bedroom – not that my dreary state could interpret what I was seeing. This entire portal wasn’t even a conscious action. On instinct, I needed my bed. I slouched through the portal, collapsing on the plank floor of the room, before rolling to stare upwards. My vision faded to black, the last thing I saw the tinkling of candlelight against the grey ceiling.
+Once the potion had done its job, I shambled upright. Again lifting an arm in casting position, I waved it in a ring and the red energy cut a hole in the world, ignoring the subsequent pains in my hand. Through the tear was my bedroom – not that my dreary state could interpret what I was seeing. On instinct, I needed my bed. I slouched through the portal, collapsing on the plank floor of the room, before rolling to stare upwards. My vision faded to black, the last thing I saw the tinkling of candlelight against the grey ceiling.
 
 <div class="grid cards" markdown>
 

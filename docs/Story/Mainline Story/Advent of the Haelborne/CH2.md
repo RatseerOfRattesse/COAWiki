@@ -11,25 +11,27 @@ subtitle: and that's on a literal and thematic level >:D
 
 ![Ari lying in a pool of blood on the floor](../../../assets/img/illustrations/Ch2-1.png)
 
-The slamming of a door some distance away snapped me out of unconsciousness. I was lying across the wood-panelled floor of my bedroom, surrounded by a ring of ripped flesh and dried blood. Likely discarded material from after the potion kicked in. I glanced at the walls, clustered with shelves and shelves of assorted books, monster skulls, and my paintings of the Javenshard wilderness. Silently, I clambered upright, only to collapse against the wall next to the door. With a jerking motion, I slammed open the door with a slap of the hand, throwing myself against the upstairs railing as if fired from a slingshot. Movement with a fully repaired body after being recently near-deceased is a little tricky.
+The slamming of a door some distance away snapped me out of unconsciousness, lying across the wood-panelled floor of my bedroom, surrounded by a ring of ripped flesh and dried blood. Likely discarded material from after the potion kicked in. I glanced at the walls, clustered with shelves and shelves of assorted books, monster skulls, and my paintings of the Javenshard wilderness.
+
+Silently, I clambered upright, only to collapse against the wall next to the door. With a jerking motion, I slammed open the door with a slap of the hand, throwing myself against the upstairs railing as if fired from a slingshot. Movement with a fully repaired body after being recently near-deceased is a little tricky.
 
 A coughing fit ensued as I snapped up to take the stairs down before –
 
-“Ari!” Bia’s voice sang loudly from below. “You in here?!”
+“Ari!” Bia’s voice sang loudly from below. “That you?! How’d ya beat me?”
 
-“Y-yes,” I spluttered, dragging my feet as I staggered down to our living room. Bia stood next to the table, looking expectantly at the stairs. Her grin faded. A terrible omen – Bia is always making that evil grin of hers.
+“Y-yes,” I spluttered, dragging my feet as I staggered down to our living room. Bia stood next to the table, looking expectantly at the stairs. Her grin faded. If that chasm of a smile comes off her face, you know something’s really wrong.
 
 “What the hell happened?” Bia immediately dropped all pretence of her usual giddiness. “I just got back from stealing Dan’s bottles, what did you do?!”
 
-“I got attacked by a demon, that’s what!” I refueled with energy, glaring daggers at Bia. “This is why we don’t go ANYWHERE near the deep woods. While *you* were off pilfering the pub, I was getting mauled against by a bleeding ten foot tall metal monster!”
+“I got attacked by a demon, that’s what!” I refueled with energy, glaring daggers at Bia. “This is why we don’t go ANYWHERE near the deep woods. While you were off pilfering the pub, I was getting mauled against by a bleeding ten foot tall metal monster!”
 
 Bia paused, a rare look of hesitation on her face.
 
 “And… what monster was it?”
 
-Wordlessly, I sent over the Governance profile generated for the entity. With that done, I fell violently onto the couch, lying there contemplatively. In retrospect, the entire scene was a little kooky; it looked as if Bia was running a therapy session (which, Immortals forbid, she was definitely not qualified to do).
+Wordlessly, I sent over the Governance profile generated for the entity. With that done, I fell violently onto the couch, lying there contemplatively. It looked as if Bia was running a therapy session minus the clipboard and writing utensil (which, Immortals forbid, she was definitely not qualified to do).
 
-Bia read over the profile several times, eyes seeing but not comprehending – though that’s what she usually did. Dumbass.
+Bia read over the profile several times, eyes seeing but not comprehending – not that that the comprehension usually happened.
 
 ???+ governance "> Item mailed from [Aryon Hastor]"
 
@@ -41,39 +43,39 @@ Bia read over the profile several times, eyes seeing but not comprehending – t
 
     Entity shares foreign magic system equivalent of your title [Dormant]
 
-“’Not rooted in Governance system?’ And it shares your Dormant title, but in another magic system?” She coughed nervously. “Last I checked, we’re not living in a fantasy novel, right?”
+“’Not rooted in Governance system?’” She coughed nervously. “And it shares your Dormant title, but in another magic system. This a fantasy novel or some shit?”
 
-“How in the twelve hells am I supposed to know?” I hyperventilated. “It hit me twice and I was near dead, I wasn’t contemplating the existence of something that isn’t compatible with the system our society has grown with since – since the Miruen Empire!”
+“How in the twelve hells am I supposed to know?” I hyperventilated. “It hit me twice and I was near dead, I wasn’t contemplating the existence of something that isn’t compatible with the system our society has grown with since Miruen!”
 
-Bia stared out the living room window at the black night. You could just barely see the houses along our street.
+Bia stared out the living room window at the black night. The stars barely lit the houses across the street.
 
 “We should tell someone this thing is in the forest. Nothing tier thirteen should be able to take out Ms. Perfect Hastor that easily.”
 
-“Nothing at all should be able to take out any Hastor that easily,” I said, the still-lingering panic overriding her name calling. “How it even got through my passive sensory is a complete mystery. And who would we tell? You think the mayor of this dump can do anything about it? We specifically picked a low rank place like Javenshard to settle down – so we wouldn’t have to deal with crazy stuff like this!”
+“Nothing at all should be able to take out any Hastor that easily,” I said, the still-lingering panic overriding her name calling. “How it even got through either of us’ passive sensory is a complete mystery. And who would we tell? You think the mayor of this dump can do anything about it? We specifically picked a low rank place like Javenshard so we wouldn’t have to deal with crazy stuff like this!”
 
 “You specifically picked Javenshard so you wouldn’t have to deal with crazy stuff like this,” Bia rolled her eyes, and added in a mutter. “Coward.”
 
 “You shut it.”
 
-“No, you,” She retorted with a natural cadence. That was one of her most used phrases, and it was so very annoying. “We can travel over to Troltano and go tell Father ourselves. Or find someone high-tier to take out the thing – Troltano is a tier fifty-sixty area.”
+“No, you,” She retorted with a natural cadence, used to the words. “We can travel to Troltano and someone higher tier to take out the thing – Troltano is a tier fifty-sixty area. There’s a branch of the Haelcrien guild there too.”
 
 “I’m not going all the way out there while that demon is still around.”
 
-Bia raised an eyebrow. “Why? It’s just a monster. It’ll find other prey and should know better than to go near busy, established roads, much less follow you about.”
+Bia raised an eyebrow. “Why? It’s just a monster. It’ll find other prey and should know better than to go near busy roads, much less follow you about.”
 
 I opened her mouth, then closed it, then sighed.
 
 “It’s not after me. It’s after Mother’s hourglass.”
 
-“You- “ Bia spluttered. “What? It’s sentient? It’s not an actual monster?”
+“You- “ Bia spluttered. “What? It’s intelligent? It’s not an actual monster?”
 
 “No, it’s not. Monsters are fabricated by the Governance to feed faevinity experience, you know this? So, what kind of monster is intelligently motivated not by sadism, but by a specific shiny trinket?”
 
-“Why would it want the hourglass? The thing can’t use the glass’ powers, can it?”
+Bia shook her head. “Okay, that’s got a few implications. One, going to a higher-tier forest area had nothing to do with it so stop bitching about that” I scowled, but let her continue. “Two – why would it want the hourglass? The thing can’t use the glass’ powers, can it?”
 
-“Don’t think so. It didn’t show off any reality-bending. But hells, I don’t know! It’s a spooky shadow demon, we didn’t learn about those in adventuring school.”
+“Don’t think so. It didn’t show off any reality-bending – or at least, I didn’t catch any. It is covered in glowing red stuff. But hells, I don’t know! It’s a spooky shadow demon, we didn’t learn about those in adventuring school.”
 
-”Check the glass. Is there something on it? Some kind of tracking device? Anything?”
+“Check the glass. Is there something on it? Some kind of tracking device? Anything?”
 
 I gently pulled out the hourglass from my shirt. The blood red sands tinkled softly as the trinket moved.
 
@@ -89,11 +91,11 @@ I gently pulled out the hourglass from my shirt. The blood red sands tinkled sof
 
 “It’s still the same as ever,” I sighed, disappointed. “Perhaps I should report this to someone.”
 
-“Ari you selectively deaf dumbass I said that a minute ago.” Bia exclaimed. “If that thing gets into Javenshard it’s going to obliterate everyone. Nobody here is high enough tier to even stand in front of it. Except for Mother, but you know what she’s been like since…”
+“Ari, you selectively deaf dumbass. I said that a minute ago.” Bia exclaimed. “If that thing gets into Javenshard it’s going to obliterate everyone. Nobody here is high enough tier to even stand in front of it. Except for Mother, but…”
 
-I groaned. “Y’know, I could just send Father a letter.”
+I groaned. “Y’know, I could just send Father a letter. He works for the guild.”
 
-“Oh, you know what he’s like too. He won’t listen to us unless we go slap in him the face ourselves. Besides, a trip will be fun! We’ve been cooped up here for years, we gotta go somewhere else eventually.”
+“Oh, you know what he’s like too,” Bia scowled. “ He won’t listen to us unless we go slap in him the face ourselves, and we’d be better off going straight to the guild instead of using him.” She brightened. “Besides, a trip will be fun! We’ve been cooped up here for years, we gotta go somewhere else eventually.”
 
 “And the matter of the murder monster after my face?” I glared.
 
@@ -101,13 +103,13 @@ Bia smiled sweetly, leaned forward.
 
 “Oh, I’m sure it’ll be fine. Can we just have a regular, fun, vacation...?”
 
-I only glared harder, purple pupils boring past a sheaf of hair and straight into Bia’s eyes. After a second of silence in which you could practically hear the cartoonishly escalating sound effect-
+I only glared harder, purple pupils boring past a sheaf of hair and straight into Bia’s eyes. After a second of silence in which you could practically hear the cartoonishly escalating sound effect –
 
 “Fine.” I relented. “I suppose it was about time I fought something higher rank.”
 
 “Hells yeah!” Bia pumped her fist. “Nice. We should leave… tomorrow morning?”
 
-“Fair enough. I don’t have much to pack.”
+“Fair enough. Not much to pack.”
 
 “Yes… I’ll call on Golden Boy.”
 
@@ -117,13 +119,13 @@ I only glared harder, purple pupils boring past a sheaf of hair and straight int
 
 “You want to bring them along too?!”
 
-“Why not? It’ll be a fun little vacation!”
+“Why not? It’ll be a fun little group trip!”
 
-“Ugh…” I started, extremely unenthused. “Well… as far as I care it’s purely business. And Dan and Rosa are tier threes with non-combat specialties. They won’t last long if that thing comes after us, or if we’re out hunting.”
+“Ugh…” I started, unenthused. “Well… as far as I care it’s purely business. And Dan and Rosa are tier zeroes with no specialization. They won’t last long if that thing comes after us, or if we’re out hunting.”
 
 “They can sit the fighting out,” Bia shrugged nonchalantly. “If the thing’s after your hourglass it won’t care about them.”
 
-“But – you - whatever…”
+“But – you – whatever…”
 
 Bia pumped her fist again. It was extensively rare for me to put up with her bullshit, much less agree with said bullshit. A victory for her – I’d do something petty about it but I’m too exhausted from almost fucking dying. Grinning, Bia stalked over to the stairs and began climbing.
 
@@ -144,15 +146,16 @@ Bia laughed and vanished upstairs.
 <p style="text-align:center;">***</p>
 
 I stalked my way through the forest trail, legs ripping right through the thorns and brambles. Weak early morning sunlight shone through the forest canopy, lighting up the blooming flowers scattered throughout the underbrush. Small streams ran about the weeds, blighting the dirt with moisture.
-Though I was reluctant to leave the vicinity of Javenshard, I suppose we had earned a vacation. I’d worked hard to keep adventuring, and Bia… ahh, Bia did her best. I sound like Mother. Speaking of…
 
-Her cabin was nestled in a jungle of bushes and vines. Stepping over a discarded watering can and towards the door, the soggy wooden steps creaked under my boots. I paused, cringed, but continued on. I knocked thrice.
+Though I was reluctant to leave the vicinity of Javenshard, I suppose we had earned a break. I’d worked hard to keep adventuring, and Bia… ahh, Bia did her best. I sound like Mother.
+
+Her cabin was nestled in a jungle of bushes and vines. Stepping over a discarded watering can and towards the door, the soggy wooden steps creaked under my boots. I paused, stopped, but continued on. I knocked thrice.
 
 For a moment, there was silence. I edged backwards against the rain-soaked railing.
 
 Brisk footsteps tapped their way forward and paused too, and then the door swung open.
 
-Duskir Hastor was seventy years old, but she looked only thirty thanks to a hard-earned tier sixty-seven life force. She still had at least a century left – one of the reasons many fae devoted themselves to ranking up. Eighty years always felt too short for me, even with my own extra time.
+Duskir Hastor was around forty years old, but looked even older despite a hard-earned tier fifty-two life force. She still had at least a century left – one of the reasons many fae devoted themselves to ranking up. Eighty years always felt too short for me, even with my own extra time.
 
 Mother wore a colourful poncho over a generic set of casual clothing. Her hair was deep purple like all the Hastors. Wild, violet eyes darted around the forest, unable to focus.
 
@@ -166,10 +169,9 @@ Duskir looked around hesitantly.
 
 “…come in.”
 
-![Ari peeks at Duskir's cabin through some vines](../../../assets/img/illustrations/Ch2-2.png)
-
 She scrambled back into the house and slammed the door. Typical Mother. I opened the door again and stepped inside, carefully closing it behind me.
-Duskir sat in a rocking chair in front of a table, which was placed uncannily in the centre of the room. She never lit it; the crystal matrix kept the cabin heated had been on for years and I’m pretty sure she’d forgotten it existed. There was only one other chair in the room; Duskir didn’t have guests. I sat casually.
+
+Duskir sat in a rocking chair in front of a table, which was placed uncannily in the centre of the room. A candle sat on the table. She never lit it; the crystal matrix kept the cabin heated had been on for years and I’m pretty sure she’d forgotten it existed. There was only one other chair in the room; Duskir didn’t have guests. I sat casually.
 
 “So, dear,” Duskir asked mechanically. “What bothers you?”
 
@@ -201,6 +203,8 @@ I mailed over the entity’s Governance description.
 “I can’t help you fight that.”
 
 “You know what it is?”
+
+![](../../../assets/img/illustrations/Ch2-2.png)
 
 “Yes, and I can’t help you.”
 
@@ -301,13 +305,13 @@ Duskir’s eyes suddenly sharpened again.
 
 “I’m not at liberty to disclose that information.”
 
-But my eyes sharpen better. That’s completely irrelevant, but I… I don’t know what my point here is, actually. This is a dead end. Here, have some more cool dialogue.
+But my eyes sharpen *better*. That’s completely irrelevant, but… this is a dead end actually. Here, have some more dialogue.
 
 “Why, have another sip.”
 
 “I think I’ll pa– “
 
-A line of red lightning sprang from my fingers, snapping Duskir’s arms in place.
+Crackling behind my eyes. A line of red lightning sprang from my fingers, snapping Duskir’s arms in place.
 
 “No.”
 
@@ -331,7 +335,7 @@ My other hand sparked lightning, picking up the teacup and tipping it down her t
 
 “So, one of them con artists then,” I remarked, hands fidgeting with a spark of reality energy. It dissipated against my chair armrest. “Does the hourglass do anything?”
 
-“As far as I know, it only enhances reality-bending abilities,” Duskir’s voice seemed to be sputtering out. Possibly a bad sign? Nah, it’s fine. “It allows us to use them for longer without spontaneously combusting.”
+“As far as I know, it only enhances reality-bending abilities,” Duskir’s voice seemed to be sputtering out. Possibly a bad sign? “It allows us to use them for longer without spontaneously combusting.”
 
 “That’s very enlightening Mother, I already knew that. So why do I have it?”
 
@@ -350,17 +354,17 @@ For the first time here, I was confused. I couldn’t see Bia – or anyone – 
 I waved and left the cabin.
 
 I pondered the information I’d stolen from Mother. I felt a little bad, feeding her a potion like that, but it was the easiest way to get to what I needed.
-Though, now that I think it over, this information wasn’t worth much. It’s nothing pivotal. She’s just told me some generic worldbuilding crap that isn’t useful to the plot. Why does Grim want this thing? It’s just some old shiny trinket that it can’t even use because it doesn’t have the Hastors’ specific abilities.
+Though, now that I think it over, this information wasn’t worth much. It’s nothing pivotal. She’s just told me some generic worldbuilding that isn’t useful to the plot. Why does Grim want this thing? It’s just some old shiny trinket that it can’t even use because it doesn’t have the Hastors’ specific abilities.
 
-It has to have some sort of agenda. Or is it working under someone else’s agenda???
+It has to have some sort of agenda. Or is it working under someone else’s agenda?
 
-Grim was insanely powerful. If it was working for something else, what kind of power did they have?
+Grim was unnaturally powerful. If it was working for something else, what kind of power did they have?
 
 <p style="text-align:center;">***</p>
 
-I sat on a stool in the Bearcroft Inn. No one else was in the building, as it was several hours before the usual opening time at noon. The inn was owned by Dan Verosaven, one of my childhood friends and one of the three Bia had invited along on their trip. We were supposed to meet here at seven with all our stuff packed (and with ‘a good attitude’, said Bia). Despite my previous complaint abouting getting up so early, I’d somehow ended up here before everyone else.
+I sat on a stool in the Bearcroft Inn. No one else was in the building, as it was several hours before the usual opening time at noon. The inn was owned by Dan Verosaven, one of my childhood friends and one of the three Bia had invited along on their trip. We were supposed to meet here at seven with all our stuff packed (and with ‘a good attitude’, said Bia). Despite my previous complaint about, I’d somehow ended up here before everyone else.
 
-I was drowsily slouched over the bar, reading a book and only comprehending half the words. A shot glass was left empty on the counter. I had no reservations about drinking – good ol’ tier seven me was more than capable of processing alcohol in far larger doses than a regular normie fae. The headache and insomnia were more a result of the brutal beating from Grim. Magical healing was intensely potent at fixing physical damage, but often caused minor aftereffects as backlash.
+I was drowsily slouched over the bar, reading a book and only comprehending half the words. A shot glass was left empty on the counter. I had no reservations about drinking – good ol’ tier seven me was more than capable of processing alcohol in far larger doses than a regular t-zero fae. The headache and insomnia were more a result of the brutal beating from Grim. Magical healing was intensely potent at fixing physical damage, but often caused minor aftereffects as backlash.
 
 The creaking of the half-polished front door roused me from my half-sleep.
 
@@ -368,7 +372,7 @@ The creaking of the half-polished front door roused me from my half-sleep.
 
 “Morning, Ari,” Dan followed with his scruffy, deep voice.
 
-The Verosaven family was descended from an older line of craftsmen dynasties, all of which had a dark bluish-grey hair and bright orange eye colour. Dan was a twenty year old fae, with voluminous hair and a small beard, with a noble facial structure and eyes that were either expressly bored or jovially amused. His ears were regular fae length, just ten centimetres. A single barb hung at the ends of his ears, curving upwards to meet a strangely blocky formation. He wore a dishevelled tweed jacket over some casual clothes, his hands stuck firmly in his pant pockets.
+The Verosaven family was descended from an older line of craftsmen dynasties, all of which had a dark bluish-grey hair and bright orange eye colour. Dan was twenty, with voluminous hair and a sharp goatee, a noble facial structure and eyes that were either expressly bored or jovially amused. His ears were a normal length, just ten centimetres. A single barb hung at the ends of his ears, curving upwards to meet a strangely blocky formation. He wore a dishevelled tweed jacket over some casual clothes, his hands stuck firmly in his pant pockets.
 
 “Ahh!” I called. “Good morning Dan. Where’s Rosa?”
 
@@ -380,37 +384,42 @@ Dan shook his head and walked over to the counter to set down his backpack.
 
 Bia raised a finger and was about to speak before the door slammed open and right into her face.
 
-“WHAT’S UP?” A voice screamed at the top of her lungs.
+“'ELLO!” A voice screamed at the top of her lungs.
 
-Rosalith Verosaven pranced in with her usual over energetic demeanour, spinning and waving her arms like maniac, blue-grey ponytail flailing about like a whip. She wore a baggy bright orange hoodie, obscuring her one and a half metre frame. Rosa was the youngest of our group, born three years earlier than her brother. Her ears were a short six centimetres.
+Rosalith Verosaven pranced in with her usual over energetic demeanour, spinning and waving her arms like maniac, blue-grey ponytail flailing about like a whip. She wore a baggy bright orange hoodie, obscuring her frankly malnourished frame. Rosa was the youngest of our group, born three years earlier than her brother. Her ears were a short six centimetres.
 
 Funny little thing about the Verosavens. Back when they had Dan, they were kinda struggling for money. Lower class families here in this continent named their children with less syllables than higher classes. Then, a few years later, they sorta stumbled into a bit of an absolute bloody fortune just lying in the woods. Some kind of fully intact Governance component left behind by some monster.
 
-It was around this time they had Rosa, and with their newfound fortune they could afford some more syllables. Of course, it’s not like they actually had to buy longer names. Just a culture thing that everyone respects around here - plus, it makes a goofy little anecdote I can use to break up the monotony of these idiots’ dialogue.
+It was around this time they had Rosa, and with their newfound fortune they could afford some more syllables. Of course, it’s not like they actually had to buy longer names. A culture thing that everyone respects around here - plus, it makes a goofy little anecdote I can use to break up the monotony of these idiots’ dialogue.
 
 “Ugh…” Bia moaned in pain, creaking upright and rubbing her nose.
 
 Dan waved silently from behind the counter, not looking up from whatever he was retrieving from the cabinet.
 
-“Oh, hello Rosa,” I said. She glared at Bia, slumped against the wall, her groans getting steadily more comical. “Shut it, you. You’re tier seven, stop being theatrical.”
+“Oh, hello Rosa,” I said. I glared at Bia, slumped against the wall, her groans getting steadily more comical. “Shut it, you. You’re tier seven, stop being theatrical.”
 
 “Theatrical?!” Bia decried. “Why, I am in utmost pain! Have you no respect for the needy-“
 
 A blade of light swung outwards from my wrist, stabbing into the wood next to Bia’s throat with a twang. The quiet noise of simmering wood filled the room for a brief few seconds before the blade disintegrated.
 
-“As I said,” Ari cooed, miming blowing steam off a gun. “Shut your oral aperture in punctual time, please.”
+“As I said,” Ari cooed, miming blowing steam off a gun. “Shut your oral aperture, please.”
 
 “Hypocrite,” Bia muttered. “And a pedant too.”
 
-“As I said,” Ari cooed, miming blowing steam off a gun. “Shut your oral aperture in punctual time, please.”
+“As I said,” Ari cooed, miming blowing steam off a gun. “Shut your oral aperture, please.”
 
 “Hypocrite,” Bia muttered. “And a pedant too.”
+
+“As I said,” Ari cooed, miming blowing steam off a gun. “Shut your oral aperture, please.”
+
+“Hypocrite,” Bia muttered. “And a pedant too.”
+
+“That’s not what pedant means.”
 
 “Ari, please don’t fuck up my walls,” Dan chuckled, going back to his counter before popping out with a closed sign. “Ah, here we are,” he continued to the silent room. He walked over to the front door and hung the sign across the door.
 
-**BEARCROFT INN**
-**CLOSED**
-**RENT IS NO LONGER DUE**
+<p style="text-align:center;"><b>BEARCROFT INN</b></p>
+<p style="text-align:center;"><b>CLOSED</b></p>
 
 Dan slowly walked over to a seat and sat down, pulling out a notepad and pencil.
 
@@ -430,13 +439,13 @@ I dragged a hand over my face. Rosalith was equal parts annoying and enjoyable i
 
 “Okay then…” Dan said, narrowing his eyes.
 
+![Ari, Rosa, Dan, and Bia in the inn.](../../../assets/img/illustrations/Ch2-3.png)
+
 “Nice,” Bia said. “Now that these unfounded accusations have been cleared… We all here?”
 
 “We’re missing -”
 
 “Thanks for the cue Ari - WHERE THE FUCK IS LLOYD?!”
-
-![Ari, Rosa, Dan, and Bia in the inn.](../../../assets/img/illustrations/Ch2-3.png)
 
 “Here!” A voice called as the door swung open again.
 
