@@ -24,9 +24,9 @@ Bia had apparently bought a bunch of crabs. Not a van, not a car, not even a hor
 
     A large crab creature, usually four or five feet tall. Its legs make up most of that height, as they are nearly vertical when standing. They shuffle like all crabs, but are able to do so at extreme speed, rivalling that of a traditional motorized vehicle. Because of this, fae use them as mounts, but they are rarely seen due to how hard to tame they are.
 
-“Bia,” I said, annoyed. “Why in the seven hells did you buy hexacampi? How bloody expensive was this?!”
+“Bia,” I said, annoyed. “Why in the seven hells did you buy hexacampi? How expensive was this?!”
 
-“Cars and horses are just so default y’know?” She exclaimed, leading one to kneel low enough to step on. “Now, six gigantic ass-kicking megacrabs? Not only is that just really frickin’ sick, this is also a golden opportunity to show off some kooky worldbuilding!”
+“Cars and horses are just so default y’know?” She drawled, leading one to kneel low enough to step on. “Now, six gigantic ass-kicking megacrabs? Not only is that just really frickin’ sick, this is also a golden opportunity to show off some kooky worldbuilding!”
 
 “Interesting statement,” Dan said. He was still standing in the doorway, writing away on his notepad. Not even gigacrabs could shock away his stoicism. Rosa was already next to one of the hexacampi, rapidly flitting around it as she inspected the creature.
 
@@ -34,7 +34,7 @@ Bia had apparently bought a bunch of crabs. Not a van, not a car, not even a hor
 
 Lloyd raised a finger. “Faevinity have been employing hexacampi as mounts since the Miruen Empire. Though not commonly seen in Eorwin – “
 
-“Shp-shp-shp,” Bia rolled her eyes. “Lloyd, just one sentence is enough. Look: These things are fast – and definitely sensible in the evolutionary landscape. Not that hard! I could even have cut off that part about the evolutionary landscape, but that adds a nice little tidbit of comedy, which is necessary for unknown reasons.”
+“Shp-shp-shp,” Bia rolled her eyes. “Lloyd, just one sentence is enough. Look: These things are fast – and definitely sensible in the evolutionary landscape. Not that hard! I could even have cut off that part about the evolutionary landscape, but that adds a nice little tidbit of comedy.”
 
 Bia mounted one of the crabs and tapped its shell, which sent it rocketing off as she grabbed the straps attached to the saddle.
 
@@ -80,15 +80,15 @@ I looked pointedly at the rapidly re-approaching dot that was Rosa and the crab.
 
 “Why?!” She yelled back.
 
-“It’ll be funny!”
+Rosalith Verosaven’s motivations were many and complex to appeal to. “It’ll be funny!”
 
 “BIA! FUCK YOU!”
 
-Eventually, we managed to get ‘Jobber’ under control, and we set off to leave Javenshard. There wasn’t a lot of luggage, as everything was carried in dimensional bags. I was quite glad to have bought those bags – absolute lifesavers, I’ll tell ya. Even so, they had taken quite a hunk out of our funds back when Bia and I bought them for the business. In the words of Bia, they were expensive. But also, we’re rich! But also, they’re expensive.
+Eventually, we managed to get ‘Jobber’ under control, and we set off to leave Javenshard. There wasn’t a lot of luggage, as everything was carried in dimensional bags. Those things are absolute lifesavers. Even so, they had taken quite a hunk out of our funds back when Bia and I bought them for the business. In the words of Bia, they were expensive. But also, we’re rich! But also, they’re expensive.
 
-We rode out past the inn and towards the town’s walls. Towns here in the north of the Haequar province either built walls or made delicious meals for the monsters. The adventurers here may be able to mitigate that a little, but Javenshard was small enough that everyone pretty much knew everyone. Except for myself, of course. Yes, I had the great privilege of social skills! I just didn’t bother to use them.
+We rode out past the inn and towards the town’s walls. Towns here in the north of the Haequar province either built walls or made delicious meals for the monsters. The adventurers here may be able to mitigate that a little, but Javenshard was small enough that everyone pretty much knew everyone. Except for myself, of course. Yes, I had the great privilege of social skills, I just didn’t bother to use them. The point: town’s too small to warrant regular patrolling.
 
-Anyway, the town was small, so adventurers weren’t very common here. There were only three or four residents besides Bia and myself. Oh, and Lloyd, but he wasn’t local. Based on what I’d seen of their fights, the locals’ skills were… severely lacking. Even just Bia was an entirely different paradigm compared to them, and that’s saying a lot! To myself, they were children. Little little children, dabbling in the grown-up’s business.
+Adventurers weren’t very common there. There were only three or four resident besides Bia and myself. Oh, and Lloyd, but he wasn’t local. Based on what I’d seen of their fights, the locals’ skills were… severely lacking. Even just Bia was an entirely different paradigm compared to them, and that’s saying a lot! To myself, they were children. Little little children, dabbling in the grown-up’s business.
 
 Rosalie was fuming with Bia after the incident with ‘Jobber’. They were still trading increasingly nonsensical insults up ahead. Dan had joined in, not taking sides but simply overanalyzing every word of their conversation. I was sat on a hexacampus, riding next to Lloyd.
 
@@ -110,11 +110,11 @@ Rosalie was fuming with Bia after the incident with ‘Jobber’. They were stil
 
 “Okay, okay. I was just checking. Because, like, Bia’s kind of silly, and Rosa takes after her. And Dan is just weird. They don’t make the best support.”
 
-“Heh. Bia is very silly,” I looked at the road, cutting through the forest. Bia, Rosa, and Dan were still chattering up ahead. “Well, thanks for giving a shit, but I don’t need it.”
+“Bia is very silly,” I looked at the road, cutting through the forest. Bia, Rosa, and Dan were still chattering up ahead. “Well, thanks for giving a shit, but I don’t need it.”
 
 “Ari, Ari. Alright, then,” He laughed. “Well, did you get anything valuable out of yesterday’s haul?”
 
-“Um, I don’t know. Wait… yes! Yeah, Bia looted a crienbeast and got a Governance core. Sick, right?”
+“Um, I don’t know. Wait… yeah, Bia looted a crienbeast and got a Governance core. Sick, right?”
 
 “Really?” Lloyd’s eyes went wide. “I’ve been adventuring two years and I haven’t seen a single one.”
 
@@ -140,7 +140,7 @@ Lloyd chuckled. “Right. Such as?”
 
 “Um, I don’t know,” I shrugged. “Lemme look through my bag.”
 
-I swung the dimensional backpack onto my lap, reaching my arm in. Most high quality dimensional bags had a function that gave users an instinctual sense of whatever was inside. No idea how it worked - I’m not a ritualist. It was probably some sort of instrument that interfaced with the user’s aura (/Presence but we only use that for the spooky dramatic weirdos). Actually, why am I considering this when these things can fit a whole ass banquet table into a space the size of a fist?
+I swung the dimensional backpack onto my lap, reaching my arm in. Most high quality dimensional bags had a function that gave users an instinctual sense of whatever was inside. No idea how it worked - I’m not a ritualist. It was probably some sort of instrument that interfaced with the user’s aura (/Presence but we only use that for dramatic weirdos). Actually, why am I considering this when these things can fit a whole ass banquet table into a space the size of a fist?
 
 Whatever. Anyway, I searched the bag for something cool. I’d seen Lloyd’s work – he made lots of magic items. Magic darts, potion belts, even some cool little knives I’d seen him engraving ritual circles onto. I’d have to match his standard.
 
@@ -174,9 +174,9 @@ I handed him the puppet, and he turned it over, inspecting it.
 
 I shot him a flat look.
 
-![](../../../assets/img/illustrations/Ch3-1.png)
+The crabs moved efficiently under Bia’s direction – a miracle, as Bia never did anything efficiently. After three hours of tireless riding, the walls of Roriodo came into view. Grand stone walls - which were, in reality, fraud. You think these poor, low tier villages could be even that capable? All of these are just metre thick walls with fear rituals in them. If a monster wanted in, they got in. They were just deterred from wanting it.
 
-The crabs moved efficiently under Bia’s direction – a miracle, as Bia never did anything efficiently. After three hours of tireless riding, the walls of Roriodo came into view. Grand stone walls - which were, in reality, frauds! You think these poor, low tier villages could be even that capable? Nah, all of these are just metre thick walls with fear rituals in them. If a monster wanted in, they got in. They were just deterred from wanting it.
+![](../../../assets/img/illustrations/Ch3-1.png)
 
 We passed through the gates, which had extra rituals on them cos they were extra flimsy. Inside, Roriodo was much like Javenshard. Settlements here often grew into series of rings, as a function of the Governance. The Governance made a point of infiltrating each and every aspect of fae life, and the building of settlements was just one of the many areas it helped facilitate.
 
@@ -200,7 +200,7 @@ I steered my hexacampus towards Bia’s.
 
 “Look, it’s not a bad thing to have a social life. Try it out sometime.”
 
-Bia wasn’t lying when she said she knew everyone in Roriodo. I could swear that she greeted literally every civilian we passed by. And I use the term civilian specifically – there were definitely no adventurers here. Or at least, no adventurer worth paying attention to. I could probably decimate this whole town in a week! With Bia and Lloyd – fuck it, a day, tops. Adventurers as skilled as us are super rare ‘round the northen end of Haelcrien.
+Bia wasn’t lying when she said she knew everyone in Roriodo. I could swear that she greeted literally every civilian we passed by. And I use the term civilian specifically – there were definitely no adventurers here. Or at least, no adventurer worth paying attention to. I could probably decimate this whole town in a week! With Bia and Lloyd – fuck it, a day, tops. Adventurers as skilled as us are rare ‘round the northen end of Haelcrien.
 
 Eventually, Bia brought us to the stables that she used when she’d come around Roriodo in the past (she rented a horse sometimes). They didn’t usually receive hexacampi, but Bia’s bullshitting, charisma, and mysterious goodwill with Roriodoans convinced em to deal with our rides. With those taken care of, we started looking for somewhere to stay the night.
 
@@ -208,7 +208,7 @@ Eventually, Bia brought us to the stables that she used when she’d come around
 
 “Ask Bia instead,” Dan said in his usual I-am-very-bored-and-therefore-cool tone. “Ari doesn’t leave Javenshard. She has no social life.”
 
-“Why does everyone keep saying that?” I spun around, braid twirling.
+“Why does everyone keep saying that?” I spun around, braid twirling. I had done the remainder of it up again after the tree decimated it.
 
 “Because it’s true?” chimed Lloyd.
 
@@ -396,9 +396,9 @@ Rosa raised a finger, then put it down with a sigh.
 
 <p style="text-align:center;">***</p>
 
-We found a place to stay the night – which wasn’t very hard with how many times Bia’s been here. She’s probably got a bajillion discounts on every hotel in the town, little freak.
+We found a place to stay the night – which wasn’t very hard with how many times Bia’s been here. She’s probably got a bajillion discounts on every hotel in the town.
 
-Dinner’s been had and I’m not describing the chaotic mess that was – the others are still down there screaming at each other. I’m up in mine and Bia’s room painting, pulling from memory. Tier seven lets me do that without getting a headache.
+Dinner’s been had and I’m not describing the chaotic mess that was – the others are still down there screaming at each other. I’m up in mine and Bia’s room painting, pulling from memory. Tier seven lets me do that without getting a headache, and these dimensional bags let me fit all the easels I need.
 
 “So,” Lloyd says from the couch, putting down his book. “Where else are we stopping before Troltano?”
 

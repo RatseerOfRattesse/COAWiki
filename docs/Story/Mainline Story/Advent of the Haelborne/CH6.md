@@ -14,7 +14,7 @@ subtitle: secret tunnel
 
 The stars are rising and the bluelight is creeping over the trees again. No idea why the two morons had gone out so early – it’s pitch fucking black and tier ones can’t see. They’re out shopping for food – another issue with travelling with the lowtiers. Lloyden and I were off to buy some more emergency healing potions after I blew my last one on Grim, along with some other adventuring supplies.
 
-Evedast, despite not having any adventurers of its own, saw many pass through it each week and so had a lot of decently supplied stores catering to us. We were able to find a decent potions place quite easily and then headed back off to a random tavern we’d designated as a meeting spot.
+Evedast, despite not having any adventurers of its own, saw a few pass through it each week and so had a lot of decently supplied stores catering to us. We were able to find a decent potions place quite easily and then headed back off to a random tavern we’d designated as a meeting spot.
 
 The door swung open to a completely empty room furnished with lot of red and gold deco and copious amounts of flowers. One banner hung from the ceiling beside the bar, on which was scrawled a word in Ruelevan-looking ideographs. This was probably one of those goofy foreign country-masquerading places. They’d serve you pieces of ‘foreign’ culture that were neither authentic nor tasty.
 
@@ -50,7 +50,7 @@ Lloyd sat down. “This place even open?”
 
 “They seem to have left a lot of things unlocked,” Dan kicked at the floor and a plume of dust preceded the creaking of hinges.
 
-“Dan,” I said. “There are a lot more elegant ways to open floorborne trapdoors, including ones where you don’t risk immediately falling in. You could just pulled it open with a hand or –”
+“Dan,” I said. “There are a lot more elegant ways to open floorborne trapdoors, including ones where you don’t risk immediately falling in. You could have just pulled it open with a hand or –”
 
 “Ari, I’m literally fine,” he sighed. “Now, if Rosa’d noticed it instead…”
 
@@ -58,7 +58,7 @@ Lloyd sat down. “This place even open?”
 
 “Guys!” Bia harmonized. “Can we stop and take a moment to consider we just discovered a – ” she tensed and sang: “SECRET TUNNEL.”
 
-“Yes, and now we’re going to close it,” I said. “As a shopkeeper I could probably excuse a bunch of idiots entering my shop if the door was open, but I could certainly not excuse them crawling into my goddamn secret basement.”
+“It's a trapdoor, and now we’re going to close it,” I said. “As a shopkeeper I could probably excuse a bunch of idiots entering my shop if the door was open, but I could certainly not excuse them crawling into my goddamn secret basement.”
 
 “Oh come on…” Bia whined. “It’s a secret tunnel! Think of all the possibilities!”
 
@@ -134,7 +134,7 @@ Bia knelt down and pulled away one of their hoods.
 
 “Several,” he replied with a frown. “This complex extends a lot larger than it should. Definitely in violation of several building codes – next time Evedast administers a level upgrade it’s toast.”
 
-“It’s going to get overwritten by a fuckin’ sewer,” I remarked. When settlements receives a level upgrade it restructures a lot of stuff by itself. However the Governance drafts upgrades is still unknown. There’s also been some conspiracies that the Governance is building secret complexes full of deadly toxic gases into cities, which I find not entirely far fetched.
+“It’s going to get overwritten by a fuckin’ sewer,” I remarked. When a settlement receives a level upgrade it restructures a lot of stuff by itself. However the Governance drafts upgrades is still unknown. There’s also been some conspiracies that the Governance is building secret complexes full of deadly toxic gases into cities, which I find not entirely far fetched.
 
 “It’s definitely something illegal that they’re doing,” I said. “Maybe this is a serial killer hive.”
 
@@ -142,7 +142,7 @@ Bia snorted. “Oh come on, maybe they’re just… making cheese?”
 
 “I’d forgive em for that,” Lloyd said. “They’re doing Haelcrien a good service.”
 
-“Oh my god can you two focus?” I said, exasperated.
+“Oh my heatless metaphysical space can you two focus?” I said, exasperated.
 
 “Whatever,” Bia said. “Why don’t we just ask them?”
 
@@ -294,7 +294,7 @@ Bia gave me a worried tap on the shoulder. “Um… Ari, maybe you just didn’t
 
 “What?” Bia narrowed her eyes and spoke in a voice very reminiscent of Duskir. Funny thing that she’s the person I referred to. “When else have you used this potion?!”
 
-“Whatever. There’s no goddamn reason for this potion to not work unless this fucker’s sixteen ranks higher than she actually is!”
+“Whatever. There’s no goddamn reason for this potion to not work unless this fucker’s a hundred ranks higher than she actually is!”
 
 I sighed. “Okay,” I said, and pulled out my necklace. “Do you know what this is?”
 

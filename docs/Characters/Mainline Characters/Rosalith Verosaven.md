@@ -14,7 +14,7 @@ description: Character sheet for Rosalith Verosaven of COA.
 
 Occupation: 'Adventurer'
 
-Specialization: Ice + Fire + Arrow + Speed → [Frostburnt Inferno]
+Specialization: Ice + Fire + Arrow + Nature → [Duality's Inferno]
 
 Abilities: Grappling Arrow, Frostburn Bow, Dash
 

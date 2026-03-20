@@ -4,9 +4,11 @@ description: Advent of the Haelborne, COA Book I
 subtitle: never ask a dysphorium about their dietary habits
 ---
 
-## Prologue
-# Eating New People
-*never ask a dysphorium about their dietary habits*
+![](../../../assets/img/chapterportraits/prologue.png#centre){width="512"}
+
+<h2 style="text-align:center;">Prologue:</h2>
+<h1 style="text-align:center;">[Eating New People]</h1>
+<p style="text-align:center;"><em>never ask a dysphorium about their dietary habits</em></p>
 
 A golden silhouette lifts his hood over his head.
 

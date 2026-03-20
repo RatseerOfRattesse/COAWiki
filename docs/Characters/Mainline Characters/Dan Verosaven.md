@@ -14,7 +14,7 @@ description: Character sheet for Dan Verosaven of COA.
 
 Occupation: Innkeeper
 
-Specialization: Knife + Speed + Magic → [Blademancer]
+Specialization: Beer + Knife + Speed + Magic → [Beerblade]
 
 Abilities: Arcane Smite, Telekinesis, Clivesbrew, Conjuration, Dash
 

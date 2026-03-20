@@ -96,7 +96,7 @@ I bent my fingers to cast and an arc of red lightning snatches Lloyd’s soda ri
 
     Gives the user the ability to manipulate reality. This title is unrestricted but does not draw on mana, rather the user’s soul itself. Due to the stress it puts on the soul, it effectively grows in strength as the user’s soul does. Reality manipulation includes: reshaping/repurposing matter, duplicating matter, voiding matter, conjuring matter, and more.
 
-“That’s… really fucking cool,” he said, still looking shocked. “Also – COMPLETELY FUCKING OVERPOWERED? Why d’you get that?”
+“That’s… really cool,” he said, still looking shocked. “Also – COMPLETELY FUCKING OVERPOWERED? Why d’you get that?”
 
 “No idea. Bloodline bullshit. But for most of them, it’s not so overpowered. The hourglass is the only thing that keeps me from burning to a crisp using it.”
 

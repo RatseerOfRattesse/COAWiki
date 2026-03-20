@@ -14,7 +14,7 @@ subtitle: it’s really not as edgy as the title sounds
     Chapter illustrations currently WIP.
 
 Firstdays. Who even decided to call them that? Horrid. Sometimes I feel like this world is lazily scrapped together by duct tape and glue.
-Today we set out for Evedast, the next little shithole town in our path – though I believe there is a modicum of industry there. It’s a farming town, I think. Vyne fruit, for the wineries further south.
+Today we set out for Evedast, the next little town in our path – though I believe there is a modicum of industry there. It’s a farming town, I think. Vyne fruit, for the wineries further south.
 
 First order of business was to herd Bia’s obsession out of the stables we commandeered last night.  After a nice shower, I headed over to the stables where we put our hexacampi. The others were already there. Lloyd perked up as I arrived, being the only one not engaged in pointless bullshitting. Dan and Rosa are doubtless arguing about something. Bia pats and whispers sweet unworths to a hexacampus.
 
@@ -28,13 +28,13 @@ As I watched the interaction, a wave of disapproval washed over.
 
 I sighed and started helping with the hexacampi.
 
-The hexacampi’s eyes stared blankly at me, to an almost unsettling degree. Thankfully, I was able to hear Bia giggling in time and I moved out of the way before the crab trampled over me. Rosa wasn’t nearly as fortunate, getting kicked back a couple of feet into the cobblestone.
+The hexacampi’s eyes stared blankly at me, preceding the its legs collapsing forwards into a run. Thankfully, I was able to hear Bia giggling in time and dodged with t-seven speed. Rosa wasn’t nearly as fortunate, backing a couple of feet into a bush.
 
 “I’m starting to worry about the combat effectiveness of this group.” Lloyd said, smoothly boarding his hexacampus.
 
 “Everything is fine, you have my word,” Bia said dismissively.
 
-“There seems to be a lot of those going around,” I said, before getting onto my Hexacampus.
+“There seems to be a lot of those going around,” I said, before getting onto my hexacampus.
 
 “Does anyone know where Dan is?” Rosa said, dusting herself off.
 
@@ -42,7 +42,7 @@ The hexacampi’s eyes stared blankly at me, to an almost unsettling degree. Tha
 
 “How the fuck do you do that?” Rosa jumped. “Did you rank up behind my back or something? Uber-level your stealth skill?”
 
-“Some people are just better than others,” Dan says solemnly. His facade promptly falls apart into laughter.
+“Some people are just better than others,” Dan says solemnly. His facade promptly fell apart into laughter.
 
 “Also,” began Lloyd. “Skills don’t actually make you better at something.”
 
@@ -72,7 +72,7 @@ I laughed, not sure if he was even joking. That was about the highest level of h
 
 “Little shi –”
 
-“Hi, hello,” Bia jumps in, having finally mounted her own hexacampus. “Can we go now? I’d love to lazily quip about here for a few more hours but we got places to go!”
+“Hi, hello,” Bia jumps in, having finally mounted her own hexacampus. “Can we go now? I’d love to lazily quip about here for a few more hours but we got places to be!”
 
 I laughed, but mounted my own crab regardless. “Never thought I’d hear you advocating for efficiency.”
 
@@ -169,7 +169,7 @@ Rosa didn’t bother respond, groaning as her flesh sizzled to health. Dan tappe
 
 “...Fair enough.”
 
-“Oh, that’s nice,” Dan said. “”
+“Oh, that’s nice,” Dan said.
 
 ???+ governance "> Item mailed from [Dan Verosaven]"
 
@@ -275,7 +275,7 @@ Lloyd pushed me back with an exasperated glare.
 
 “I’m exactly what I intend to be.”
 
-“Don’t worry ‘bout that, I was just as bad when your parents were in school,” he chuckled.  “Well if ya looking for a place to stay, there’s a nice inn down the street. Dollar Dragon or something, good room service and cheap price for six of you people.”
+“Don’t worry ‘bout that, I was just as bad when your parents were in school,” the man chuckled.  “Well if ya looking for a place to stay, there’s a nice inn down the street. Dollar Dragon or something, good room service and cheap price for six of you people.”
 
 “Right,” Lloyd said. “...but how did you know we needed an inn?”
 

@@ -92,51 +92,43 @@ Bia shot me a worried glance. Dan leaned at us in interest as he handed Rosa her
 
 “Pfft,” he spat. “I speak with intentionality and poise. You sound like one of those new age broadcast performers ‘cept you’re living sixty at twenty and your signal’s a bust.”
 
-“Shut up,” I smirked and then sighed. “Oh, we’re going to need to go into hiding even after Grim is dealt with. I shouldn’t have brought the Verosavs – no, shouldn’t have let Bia bring them – now they’re in with this mess too.”
+“Shut up,” I smirked and then sighed. “Oh, we’re going to need to go into hiding even after Grim is dealt with. I shouldn’t have brought the Verosavs – no, shouldn’t have let Bia bring them – now they’re in with this mess too. Ugh. Can I just give the govs the necklace?”
 
-“Can’t you just give the govs the necklace? You kinda explained the situation last night but also you definitely did not.”
+“You know Dawne isn’t backing off easily; you should hold onto it. Without it you wouldn’t have been able to fend off Grim.”
 
-“Well, it’s kind of an important family heirloom. And you know Dawne isn’t backing off easily; I’m holding onto it. Without it I would not have been able to fend off Grim.”
+“Grim, Dawne, and whatever the basement cult was are only after usfor the ‘glass. There would be no danger if it weren’t here.”
 
-“But… well, maybe if you handed it away you wouldn’t be such a big target for ‘em? They’re only after you for the ‘glass, so get rid of it and you’re good.”
+“Do you really trust them to keep their word? Dawne won’t care, but Grim seems plenty interested in taking your guts out.”
 
-“There’s also the fact that it’s extremely valuable.”
+“Oh – godsdamnsit – Lloyd. This is the simplest solution. We’d be better off throwing it away, actually.”
 
-“Is it more valuable than your life? And don’t give me shit about you and your parents’ relationships. Duskir’s bloody insane last you said and you told me your father was an arse last night too.”
+“That… might be worth it. But Grim won’t know that we did that, and again, why would it keep it’s word? This might not even get it off your back, and will be guaranteed to create a greater threat.”
 
-“No, not more than my life, no. But worth keeping.”
+“Grim is stupid. We will fight it off, or hide. Difficult, but simple, quantifiable, direct. We needn’t get involved with the aftermath,” I stared him down. He bit his lip. “Please. Then we can be done with this. We can just have a nice trip to Troltano, file a report of conspiracies and demons and whatever, then have a happy waltz back home.”
 
-“Oh – godsdamnsit – Ari. This is the simplest solution. Just give it to someone else. Or better yet, throw it away.”
+“Come on, Ari. People will die.” he looked at me pleadingly.
 
-“No!”
+“And would you consider those lives,” I crossed my arms. “Above your own? Above the Verosavens, Bia, me?”
 
-“Please. Then we can be done with this. We can just have a nice trip to Troltano, file a report of conspiracies and demons and whatever, then have a happy waltz back home.”
+“Every soul is equal.” he snapped. “If something high-tier comes after us, you can use the damn hourglass and we’ll all be safe. We’ll be fine, no matter what happens. If we keep the hourglass out of enemy hands, we save ourselves and don’t cause any collateral damage. The higher ups deal with Grim, and I bet Dawne would rather save face than risk exposure, as long as you keep the hourglass to yourself and don’t hand it off to some world power.”
 
-“It is not that simple,” I glared. My fingers twitched.
+I glanced backwards. Three idiot silhouettes were approaching. I turned back to Lloyd.
 
-“It is not that simple,” I glared. My fingers twitched.
+“Look,” Eye to eye, gripped his shoulders. “This is how it’s going to go. I’ll throw the hourglass in the woods. Haelcrien and the backers from Autumn Kingdom will handle Grim and Dawne. Meanwhile, we can move to Atlantan or something. I heard Tienarte is a pretty place.”
 
-“It is not that simple,” I glared. My fingers twitched.
+“Please, Ari,” Lloyd said. “Take the high road for once. We’re adventurers. We get rid of the danger, we don’t cause more of it.”
 
-“Come on, Ari. Aren’t you always going for the safe option?” he looked at me pleadingly. “This is the safest option. No one else has to get hurt, no one else.”
-
-“I’ve told you no,” I crossed my arms. “That hourglass is the single thing that allows me to afford any risk at all. It is my safe option.”
-
-“But is it safe for anyone around you?!” he snapped. “You’re a t-seven with according reflexes. Something higher tier comes after you maybe you can protect yourself, but what about the Verosavs? What about Bia?”
-
-“It’s still a mighty good trick to have up my sleeve, innit?” I glanced backwards. Three idiot silhouettes were approaching. I turned back to Lloyd.
-
-“Look,” Eye to eye, gripped his shoulders. “This is how it’s going to go. Haelcrien and the backers from Autumn Kingdom will handle Grim and Dawne. Meanwhile, we can move to Atlantan or something. I heard Tienarte is a pretty place.”
+I stared. “Son of a bitch,” I muttered.
 
 “You –”
 
 I put a finger to his lips.
 
-“The others are catching up. Quiet.”
+“I am only doing this because you asked. The others are catching up. Quiet.”
 
 <p style="text-align:center;">***</p>
 
-I don’t get why Lloyd is so adamant about letting the hourglass go. Okay, so Dawne and Grim go away, but they’re still going to be looking for it aye? Shit happens anyway. And I’d certainly prefer that we keep something like that on our side. And he’s smart as me, so he’d know. Maybe even smarter – I bet that Deliran education and his attribute allotment certainly lean a bit that direction.
+I don’t get why Lloyd is so adamant about keeping the hourglass. It’s the source of all our issues right now. Get rid of it, and we get rid of all that risk. And he’s smart as me, so he’d know. Maybe even smarter – I bet that Deliran education and his attribute allotment certainly lean a bit that direction.
 
 We’ve just set up camp in a little forest clearing, around a hundred metres off the path south. Three tents and Rosa fumbled her way into making a campfire no one asked for and almost burned the canvas right off one of the tents. At least the sausages she made over it tasted decent – despite half of them coming out as crumpled black husks.
 
@@ -220,7 +212,7 @@ Dan slammed Rosa onto a hexacampus and took off. Bia looked at the last ‘campu
 
 “AHHHHHHH –”
 
-Dozens of solid concrete walls sprang up behind us, Bia swinging her arms wildly. I spun around and stood on my crab, my fingers spewing red lightning and light blades. Lloyd was also working next to me – the man had no ranged abilities but he always came prepared. A slightly underlevelled gun rained golden buckshot in Grim’s way. It wouldn’t score any damage but it’d certainly slow it down. Maybe.
+Dozens of solid concrete walls sprang up behind us, Bia swinging her arms wildly. I spun around and stood on my crab, my fingers spewing red lightning and light blades. Lloyd was also working next to me – the man had no ranged abilities but he always came prepared. A slightly underlevelled projectile weapon rained golden buckshot in Grim’s way. It wouldn’t score any damage but it’d certainly slow it down. Maybe.
 
 “Oh, is this the HOA?” Rosa screamed. “Fuck off!”
 
@@ -266,9 +258,13 @@ Dan realized he was not indeed steering the crab and decided to start conjuring 
 
 “IT’S LIKE, NORTH OF HERE, MAYBE! I DUNNO!”
 
+“How are you alive?!” Dan yelled in my direction.
+
 “THEN WHY’D YA COME SO FAR HERE? I THINK –” Rosa gagged. “Sorry, too loud. Can you still hear?”
 
-“YA!” Grim shouted, no longer looking at me. I chugged a resistance potion – my skin hardened.
+“Grim is bad at fighting, apparently?” I shrugged, dagger unfortunately missing in its sewing machine strikes.
+
+“YA, I CAN HEAR!” Grim shouted, no longer looking at me. I chugged a resistance potion – my skin hardened.
 
 “Okay, so why come all this way for us? I’m flattered.”
 

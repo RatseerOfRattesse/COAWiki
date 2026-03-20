@@ -60,7 +60,7 @@ She blinked drearily. “Screw off.”
 
 
 
-There haven’t been any signs of Grim for the past day, but I’m keeping my eyes out, goddamn it. It’s a miracle no one was seriously hurt – my eye injuries were quickly taken care of by a healing potion. Maybe Bia caught a bruise or two from sweating too hard. And the funniest thing: I was able to injure Grim.
+There haven’t been any signs of Grim for the past day, but I’m keeping my eyes out, goddamn it. It’s a miracle no one was seriously hurt – my eye injuries were quickly taken care of by a healing potion. Maybe Bia caught a bruise or two from sweating too hard. The funniest thing: Grim really is that stupid.
 
 “Heads up!” Lloyd.
 
@@ -72,13 +72,13 @@ Roughly a fist-sized piece out of Grim had taken – not most – but more than 
 
 “Agh!” Rosa hits a tree a few metres away. Bia slips into view and helps her up. I hear and sense Dan cleaning off that last and offending veliophi in the distance.
 
-Lloyd did have a point that I may not be able to protect everyone at once. I am considering sending Bia, Lloyden, and the Verosavs back now, but I’m afraid Grim could hurt or leverage them against me without the hourglass there to protect them. The hourglass has to stay with someone and therefore can only protect that person and their vicinity; it’s safer they stay with.
+Lloyd did have a point that they could still come after us even with the hourglass gone, but we would be going into hiding either way. But alas, I am an adventurer. Goddamn morals.
 
 “Ari!” Bia calls. I glance over – Rosa’s taking a healing potion and Dan seems to have come through unscathed. Predictable. “We’re good here.”
 
 “Alright, pack up and go,” I said. Rosa and Dan looted their kills and stuffed them away. I glanced at Lloyd, who was already meeting my eyes despite the book in his hand. I raised an eyebrow and his face twitched.
 
-Soon enough we took off again, Dan and Rosa having gotten a little bit closer to tier two. Rank progression was far faster at the lower ranks – a few months to t-two and three, then about a year each to four, five, and six, and two years to seven. Bia and I both started a little late, but we were fast. Haelcrien’s grad age was eleven as opposed to the usual ten (for extra brain maturity, maybe? Probably not much difference, anyway), and we took a few gap years afterwards to do screw around and settle here in Javenshard.
+Soon enough we took off again, Dan and Rosa having gotten a little bit closer to tier two. Rank progression was far faster at the lower ranks – a few months to t-two and three, then about a year each to four, five, and six, and two years to seven. Bia and I both started a little late, but we were fast. Haelcrien’s grad age was eleven as opposed to the usual ten (for extra brain maturity, maybe? Probably not much difference, anyway), and we took a few gap years afterwards to screw around and settle here in Javenshard.
 
 All told, they’d reach tier two in four months tops. Not enough to stand a chance against Grim and not in any reasonable timeframe anyway – it would be Haelcrien’s fighters and its allies that would deal with the issue.
 
@@ -149,6 +149,36 @@ Whatever. I released the wings and returned to the caravan, landing on my hexaca
 “Oh,” I said.
 
 Okay.
+
+“It could be Grim aga – ” Bia started.
+
+“STOP,” I snarled. “Don’t. Just because we got off easy this time doesn’t mean we always will.”
+
+“Well maybe this ‘all powerful shadow demon of death and destruction’ ain’t actually all that intimidating!” Bia made air quotes. “The thing is kind of dumb. Rosa was able to distract it pretty easy with some nonsense about dish soap.”
+
+“You can thank me for it,” Rosa smiled sanguine.
+
+“No thanks,” I rolled my eyes.
+
+“It might just be pretending?” Dan suggested.
+
+“For what reason?” Lloyd asked.
+
+“Grim might not be trying to kill us,” Dan continued.
+
+“Wha – it ripped my fucking organs out!” I clawed at the saddle.
+
+“Well you didn’t die, did you? Maybe it’s trying to take us somewhere or intimidate us. It knows Ari won’t just give it what it wants just like that.”
+
+“What do you know about what it wants?” I narrowed my eyes.
+
+“Well, it wants something from you,” he said. “Obviously. Not your life, or it’d have done that already.”
+
+“Doesn’t matter,” Lloyd waved his hands. “Would that even be worth it? Herding us into a trap?”
+
+“If it’s a good one, sure,” Dan said darkly.
+
+Lloyd looked concerned as I felt.
 
 
 
@@ -246,7 +276,7 @@ The thing was in the shape of some kind of canine, but quickly armoured itself u
 
 
 
-Echoing Strikes was one of my main abilities that defined my specialization as a artillery cannon perched upon a glass castle, along with the wings and other mobility abilities. The bonestalker quickly learned armouring up was no use and switched to a more offensive form, standing high upright and morphing sickle claws. A combo of slashes forward sent me dashing away and latching onto a tree.Their length still nicked my foot and the tier-nine material did a lot more damage than I would’ve liked. Goddamn Bia, taking us to a fucking tier-thirteen area. However she’d even found the one rare dangerous spot in the Javen woods was a mystery.
+Echoing Strikes was one of my main abilities that defined my specialization as a artillery cannon perched upon a glass castle, along with the wings and other mobility abilities. The bonestalker quickly learned armouring up was no use and switched to a more offensive form, standing high upright and morphing sickle claws. A combo of slashes forward sent me dashing away and latching onto a tree.Their length still nicked my foot and the tier-nine material did a lot more damage than I would’ve liked.
 
 Anyway, the bonestalker had discovered that ludicrous range was more effective against me than traditional defence. The bone scythes it’d made for hands were slicing through trees and its higher-tier reflexes were letting it nearly catch me with every swing.
 

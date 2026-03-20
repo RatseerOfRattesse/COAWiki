@@ -527,7 +527,7 @@ I should probably… run?
 
 “Nope, nope – NOPE, GOODBYE!” I screamed, conjured my wings and launched into the sky. “I think I’ll just be going this way now and you’re not gonna get anywhere closer or I don’t damn know what I’ll do MAYBE I SHOULD STOP HYPERVENTILATING AND FUCKING RUN!”
 
-The whistling of wind through metal sounded as black tendrils topped with wicked blades surfaced around me. The entity barrelled upwards, closer, closer, closer and closer. I turned around just long enough for the Governance to analyze the monster. A window appeared in the corner of my vision. It revealed zero helpful information.
+The whistling of wind through metal sounded as black tendrils topped with wicked blades surfaced around me. The entity barrelled upwards, closer, closer, closer and closer. I turned around just long enough for the Governance to analyze the monster. A window appeared in the corner of my vision. It revealed zero helpful information and made me almost crash into a tree. Part of my braid snapped and the hair came lose on a branch.
 
 ???+ governance "Being: [Unknown] (Dysphorium (Alt. 3152))"
 
