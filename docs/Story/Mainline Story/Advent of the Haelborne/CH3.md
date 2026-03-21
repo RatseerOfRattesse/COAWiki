@@ -4,9 +4,11 @@ description: Advent of the Haelborne, COA Book I
 subtitle: big crab
 ---
 
-## Chapter III
-# Crab Rider
-*big crab*
+![](../../../assets/img/chapterportraits/ch3.png#centre){width="512"}
+
+<h2 style="text-align:center;">Chapter III:</h2>
+<h1 style="text-align:center;">[Crab Rider]</h1>
+<p style="text-align:center;"><em>big crab</em></p>
 
 ???+ warning
 
