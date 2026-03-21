@@ -4,10 +4,11 @@ description: Advent of the Haelborne, COA Book I
 subtitle: and that's on a literal and thematic level >:D
 ---
 
-## Chapter II
-# Vacation...?
+![](../../../assets/img/chapterportraits/ch2.png#centre){width="512"}
 
-*do I at least get paid*
+<h2 style="text-align:center;">Chapter II:</h2>
+<h1 style="text-align:center;">[Vacation...?]</h1>
+<p style="text-align:center;"><em>do I at least get paid</em></p>
 
 ![Ari lying in a pool of blood on the floor](../../../assets/img/illustrations/Ch2-1.png)
 
