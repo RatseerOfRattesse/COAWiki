@@ -4,10 +4,11 @@ description: Advent of the Haelborne, COA Book I
 subtitle: and that's on a literal and thematic level >:D
 ---
 
-## Chapter I
-# Everything Stops
+![](../../../assets/img/chapterportraits/chapter1.png#centre){width="512"}
 
-*and that's on a literal and thematic level >:D*
+<h2 style="text-align:center;">Chapter I:</h2>
+<h1 style="text-align:center;">[Everything Stops]</h1>
+<p style="text-align:center;"><em>and that's on a literal and thematic level</em></p>
 
 I’m calling it – Bia’s getting herself killed today.
 
